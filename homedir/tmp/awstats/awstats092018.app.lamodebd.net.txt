@@ -1,0 +1,432 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201809 will be lost/reset.
+# Last config file used to build this data file was /home/vqp77ug7a50k/tmp/awstats/awstats.app.lamodebd.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2690                
+POS_VISITOR 7198                
+POS_DAY 7969                
+POS_DOMAIN 3391                
+POS_LOGIN 3672                
+POS_ROBOT 3827                
+POS_WORMS 4124                
+POS_EMAILSENDER 4255                
+POS_EMAILRECEIVER 4398                
+POS_SESSION 8643                
+POS_SIDER 8850                
+POS_FILETYPES 4533                
+POS_DOWNLOADS 4795                
+POS_OS 4843                
+POS_BROWSER 5003                
+POS_SCREENSIZE 5281                
+POS_UNKNOWNREFERER 5355                
+POS_UNKNOWNREFERERBROWSER 5469                
+POS_ORIGIN 5578                
+POS_SEREFERRALS 5716                
+POS_PAGEREFS 5873                
+POS_SEARCHWORDS 6074                
+POS_KEYWORDS 6226                
+POS_MISC 2353                
+POS_ERRORS 6285                
+POS_CLUSTER 3528                
+POS_SIDER_404 6449                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20181001031741 1 0 10742912100725
+FirstTime 20180904004416
+LastTime 20180930021202
+LastUpdate 20181001051533 1 0 0 0 0
+TotalVisits 63                  
+TotalUnique 17                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 18                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+AddToFavourites 0 63 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 158 719 17317920 66 81 80588
+1 393 1184 14618133 134 176 3240586
+2 317 607 3327766 84 91 1251334
+3 348 900 9702468 94 102 524919
+4 819 1748 9425624 202 209 393334
+5 628 1248 6154554 128 139 33226
+6 216 864 7653256 48 50 116984
+7 0 0 0 0 1 0
+8 0 0 0 0 0 0
+9 2 2 8462 1 2 687666
+10 0 0 0 0 0 0
+11 3 9 403392 3 3 591
+12 0 0 0 0 0 0
+13 0 0 0 0 0 0
+14 3 5 136898 3 4 591
+15 1 1 4759 1 2 384
+16 2 6 268925 3 4 691720
+17 0 0 0 1 2 690183
+18 2 6 268923 2 2 394
+19 0 0 0 1 2 1184
+20 0 0 0 0 0 0
+21 2 2 5980 14 16 694452
+22 19 323 3439502 9 18 137414
+23 65 134 2678625 10 17 137859
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+bd 2950 7546 71453834
+us 17 19 170609
+ru 6 18 806774
+in 5 175 2983970
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+YandexBot/ 13 7223 20180928054530 7
+unknown 8 192 20180930025902 8
+YandexMobileBot/ 3 134461 20180922230558 0
+Google[\x20]Web[\x20]Preview 3 134463 20180908224528 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+woff2 17 585126 0 0
+css 463 4236339 0 0
+png 76 586647 0 0
+woff 29 1193097 0 0
+js 679 36086589 0 0
+html 75 262932 0 0
+jpg 3562 12118167 0 0
+Unknown 2850 20285301 0 0
+ttf 1 40336 0 0
+php 6 20653 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+win10 5940 2436
+linux 9 9
+Unknown 5 5
+macosx 871 257
+winxp 3 1
+win7 874 260
+linuxandroid 56 10
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 10
+chrome49.0.2623.112 3 1
+firefox52.0 3 1
+chrome49.0.2623.75 9 9
+Unknown 5 5
+chrome67.0.3396.103 3 1
+safari11.0.1 232 15
+chrome68.0.3440.106 6336 2427
+chrome69.0.3497.100 979 440
+chrome69.0.3497.92 185 78
+chrome66.0.3359.181 3 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+ia_archiver 20180926153611
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+ia_archiver 20180926153611
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 92 92
+From1 0 0
+From2 6 6
+From3 5 5
+From4 2875 7655
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+yandexru 6 6
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 2
+http://m.facebook.com 3 3
+https://l.facebook.com 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+404 53 30735
+405 3 447652
+301 2 509
+302 724 148551
+500 42 7773307
+206 4 4480
+419 3 1836
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 8
+/profile 4 http://app.lamodebd.net/products/list/all
+/assets/preloader.gif 33 http://app.lamodebd.net/products/list/1
+/uploads/product_images/thumbs/ 1 http://app.lamodebd.net/products/list/1
+/uploads/product_images/thumbs/Vigne%20D 2 http://app.lamodebd.net/products/list/2
+/login 3 -
+/stock_transfers 1 -
+/home 8 http://app.lamodebd.net/register
+/index.php/dashboards/index.php 1 http://app.lamodebd.net/index.php/dashboards/google_sheet
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 18
+27.147.172.233 2698 6850 59983475 20180930021202
+203.76.123.138 252 696 11470359 20180927012635
+54.165.59.7 5 5 22739 20180926153611
+103.198.255.67 5 175 2983970 20180908113303
+95.29.105.161 2 6 268926 20180925185834
+66.102.6.106 2 2 2439 20180928021539
+66.102.6.40 2 2 2441 20180911234059
+66.102.6.38 2 2 2436 20180909224852
+64.233.173.42 2 3 24341 20180927142938
+66.102.6.104 1 1 1217 20180923034605
+64.233.173.40 1 1 1218 20180927142942
+66.102.6.36 1 1 1219 20180905224027
+89.178.238.106 1 3 134463 20180912111612
+5.228.174.13 1 3 134461 20180913165757
+66.102.6.86 1 1 1220 20180904025340
+188.32.128.34 1 3 134461 20180925185836
+46.42.171.236 1 3 134463 20180912111612
+64.233.173.38 0 1 111339 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 25
+20180904 302 1137 12843419 4
+20180905 133 690 3225250 2
+20180906 1 1 4759 1
+20180907 209 1683 16216469 3
+20180908 63 375 4189872 6
+20180909 4 5 32026 3
+20180910 257 521 3600855 2
+20180911 49 76 1654234 2
+20180912 122 212 2732228 6
+20180913 65 85 547745 3
+20180914 1226 1705 4092697 1
+20180916 2 5 247021 1
+20180917 87 199 3905054 2
+20180918 13 68 1650021 2
+20180919 7 7 42053 1
+20180920 11 74 2064200 2
+20180922 4 48 1681483 1
+20180923 29 169 5037436 3
+20180924 1 3 134464 1
+20180925 233 468 8364487 7
+20180926 99 111 560982 2
+20180927 54 61 636870 4
+20180928 1 1 1218 1
+20180929 4 50 1814721 1
+20180930 2 4 135623 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+15mn-30mn 1
+0s-30s 33
+30mn-1h 6
+30s-2mn 4
+1h+ 14
+2mn-5mn 3
+5mn-15mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 110
+/products/stock_table/1 520 200584 0 6
+/products/create 518 2333099 2 0
+/products/list/1 346 10430693 0 3
+/products/table_list/1 230 1751992 0 2
+/products/table_list/2 110 165791 0 1
+/products/table_list/all 106 555118 0 6
+/products/stock_table/2 102 23868 0 0
+/products/list/2 101 436206 0 0
+/login 90 120598 53 26
+/ 75 262932 2 0
+/products/list/all 72 1918215 1 1
+/stock_transfers/list 58 273655 0 1
+/stock_transfers/product/get_detail 54 9183 0 1
+/products/table_list/3 41 49995 0 0
+/products/stock_table/3 41 9594 0 0
+/products/list/3 40 172683 0 0
+/sales/product/get_detail 39 2448 0 0
+/stock_transfers/upload_list 31 147139 1 1
+/stock_transfers/filter 30 161841 0 1
+/stock_transfers/products/get 30 146732 0 1
+/assets/css/font-icons/entypo/font/entypo.woff 27 1088721 2 4
+/categories 26 106159 0 0
+/sales/products/get 22 94541 0 0
+/stock_transfers/filter_upload_list 19 90308 0 0
+/stock_transfers/create 15 105104 0 0
+/reports/sales/ecommerce 2 9522 0 1
+/sales/customer/4 1 113 0 0
+/sales/invoice_print/2 1 1103 0 0
+/dashboards/google_sheet 4 15072 0 0
+/products/235/edit 1 5041 0 0
+/products/28/edit 1 4733 0 0
+/sales/list/ecommerce 7 36043 0 0
+/sales/list/2 1 5029 0 0
+/sales/2 2 9322 0 0
+/sales/customer/create 5 4825 0 1
+/sales/customer/add 4 4466 0 0
+/sales/list/4 1 5029 0 0
+/index.php/register 1 1161 0 1
+/products/363/edit 1 4525 0 0
+/products/468/edit 1 4752 0 0
+/index.php/products/stock_table/1 1 388 0 0
+/categories/5/edit 2 1228 0 0
+/index.php/login 1 1222 0 0
+/products/155/edit 1 4749 0 0
+/password/reset 1 3606 1 0
+/sales/invoice/2 1 888 0 0
+/stock_transfers/stock_table/226 1 388 0 0
+/sales/create 12 76657 0 0
+/users/create 2 8360 0 0
+/products 2 177888 0 0
+/variants 10 41720 0 0
+/reports/sales/1 6 28749 0 1
+/expenses 5 21831 0 0
+/products/229/edit 1 4753 0 0
+/expenses/create 1 663 0 0
+/sales/customer/1 1 172 0 0
+/branches 8 31712 0 0
+/categories/8/edit 2 1235 0 0
+/sales/invoice_print/3 1 1082 0 0
+/products/8 1 1081 0 0
+/index.php/users 5 21440 0 0
+/sales/list/filter 1 5035 0 0
+/sales/list/1 13 66481 0 1
+/stock_transfers/stock_table/162 1 935 0 0
+/categories/7/edit 2 1239 0 0
+/stock_transfers/stock_table/265 2 776 0 0
+/index.php 6 20653 0 0
+/index.php/dashboards/google_sheet 1 3821 0 0
+/sales/list/3 1 5029 0 0
+/index.php/products/create 1 4564 0 0
+/register 6 10644 1 2
+/sales/list/all 2 9190 0 0
+/products/10/edit 4 20156 0 0
+/products/319/edit 1 4760 0 0
+/products/44/edit 1 4979 0 0
+/categories/6/edit 2 1225 0 0
+/products/131/edit 1 4936 0 0
+/sales/customer/2 1 142 0 0
+/customers 2 9016 0 0
+/stock_transfers/create_upload 10 88504 0 0
+/products/14/edit 1 4688 0 0
+/products/187/edit 1 4800 0 0
+/users/profile/8 2 8110 0 1
+/assets/css/font-icons/font-awesome/fonts/fontawesome-webfont.woff 1 81238 0 0
+/sales/invoice/1 2 1894 0 0
+/categories/4/edit 3 1829 0 0
+/categories/1/edit 1 617 0 0
+/assets/css/font-icons/glyphicons/glyphicons-halflings-regular.woff2 11 198330 0 0
+/sales/customer/store 5 593 0 0
+/sales/invoice_print/1 1 1134 0 0
+/assets/css/font-icons/font-awesome/fonts/fontawesome-webfont.woff2 6 386796 0 0
+/categories/create 5 2910 0 0
+/stock_transfers/stock_table/150 1 948 0 0
+/sales/1 3 14169 0 0
+/variants/1/edit 1 626 0 0
+/products/78/edit 1 4952 0 0
+/products/457/edit 1 4489 0 0
+/products/317/edit 1 5125 0 0
+/sales/create/ecommerce 10 65025 0 0
+/sales/3 1 4546 0 0
+/variants/create 1 588 0 0
+/users 10 43166 0 0
+/assets/css/font-icons/glyphicons/glyphicons-halflings-regular.woff 1 23138 0 0
+/users/profile/1 3 12111 0 1
+/assets/css/font-icons/entypo/font/entypo.ttf 1 40336 0 0
+/products/83/edit 1 4740 0 0
+/reports/sales/filter 1 4699 0 0
+/stock_transfers/stock_table/473 1 946 0 0
+/products/8/edit 1 4682 0 0
+/stock_transfers/stock_table/228 1 388 0 0
+END_SIDER

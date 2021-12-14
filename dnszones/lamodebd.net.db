@@ -1,0 +1,50 @@
+; cPanel first:11.70.0.51 (update_time):1536045569 Cpanel::ZoneFile::VERSION:1.3 hostname:sg3plcpnl0013.prod.sin3.secureserver.net latest:11.70.0.51
+; Zone file for lamodebd.net
+$TTL 14400
+lamodebd.net.	86400	IN	SOA	182.50.132.231.	hostingex.godaddy.com.	(
+						2018090403 ;Serial Number
+						3600 ;refresh
+						7200 ;retry
+						1209600 ;expire
+						86400	)
+
+lamodebd.net.	86400	IN	NS	182.50.132.231.
+lamodebd.net.	86400	IN	NS	182.50.132.232.
+
+
+lamodebd.net.	14400	IN	A	148.66.136.3
+
+lamodebd.net.	14400	IN	MX	0	lamodebd.net.
+
+mail	14400	IN	CNAME	lamodebd.net.
+www	14400	IN	CNAME	lamodebd.net.
+ftp	14400	IN	A	148.66.136.3
+lamodebd.net.	14400	IN	TXT	"v=spf1 +a +mx +ip4:148.66.145.139 ~all"
+cpcalendars	14400	IN	A	148.66.136.3
+cpanel	14400	IN	A	148.66.136.3
+webdisk	14400	IN	A	148.66.136.3
+webmail	14400	IN	A	148.66.136.3
+cpcontacts	14400	IN	A	148.66.136.3
+whm	14400	IN	A	148.66.136.3
+default._domainkey	14400	IN	TXT	"v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4IrHfRpI1janwaNsWPiqabDj1qLD7lbwSUBjRXHm3RNGF/FV2t8EII3UAehl4ED/Zl8ZL6EHSXoBz8XJlLjIIOk4uGAP6eDbLC/1PNfnSJNLutnY+HRuyLUSkAYIjXN0i/9xWVJP/evK276XFnc4AIY9DpUre0i9HY6oR5gaNVj9iSZWrPwt4zo5+yjCqLbtt" bBgenN+Cbb7egODw6YgyBW8uZAQMTkkR+cMQPaCbxG1VzuSdVTV6pHUfjVWc45yI/C5vKRQm8M89BXdIW1Gnbmh2x6zQG/B5qQOdXhrU107XhtYt5JWEIM5hPprC+yBjZ4foH8UT00KeJt1TxTC3QIDAQAB\;
+app	14400	IN	A	148.66.136.3
+www.app	14400	IN	A	148.66.136.3
+default._domainkey.app	14400	IN	TXT	"v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuR6XYtFswgh73ER4a5a4P8e0h0+H25Wjn7rjXHG/+QLXqv2P8Ytwpw2rKOAVHUhM7by6QouVXrhbDYrZ1NuGo/jdoUdwHhGYLT9YG91tJJ362pg1bC9BtQtdDndPT0y/bR6J1JkfA9uQ7assbN8hdN3lJOPF30OqNMJN6p2wootUtsF+VPTvtEfc5Logrl9S2" 0InU1B17fiqRC4zODy4dnP7ZnyEpCaQedgBb8nPvVlis/EY4uWlowC5NEsx7ZlW6el3q12wJK2FPTbqqMRtMAiwL9boIRjzdA4xMANeAUEHflg+UDq2uLjSH8BA0pP/WBWBZK+g3kqh/JSzgNyz8wIDAQAB\;
+app	14400	IN	TXT	"v=spf1 +a +mx +ip4:148.66.145.139 ~all"
+webdisk.app	14400	IN	A	148.66.136.3
+autoconfig.app	14400	IN	A	148.66.136.3
+autodiscover.app	14400	IN	A	148.66.136.3
+_carddav._tcp.app	14400	IN	SRV	0	0	2079	sg3plcpnl0013.prod.sin3.secureserver.net.
+_carddav._tcp.app	14400	IN	TXT	path=/
+_caldavs._tcp.app	14400	IN	SRV	0	0	2080	sg3plcpnl0013.prod.sin3.secureserver.net.
+_caldavs._tcp.app	14400	IN	TXT	path=/
+_carddavs._tcp.app	14400	IN	SRV	0	0	2080	sg3plcpnl0013.prod.sin3.secureserver.net.
+_carddavs._tcp.app	14400	IN	TXT	path=/
+_autodiscover._tcp.app	14400	IN	SRV	0	0	443	cpanelemaildiscovery.cpanel.net.
+webmail.app	14400	IN	A	148.66.136.3
+whm.app	14400	IN	A	148.66.136.3
+cpanel.app	14400	IN	A	148.66.136.3
+_caldav._tcp.app	14400	IN	SRV	0	0	2079	sg3plcpnl0013.prod.sin3.secureserver.net.
+_caldav._tcp.app	14400	IN	TXT	path=/
+cpcontacts.app	14400	IN	A	148.66.136.3
+cpcalendars.app	14400	IN	A	148.66.136.3

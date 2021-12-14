@@ -1,0 +1,548 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202004 will be lost/reset.
+# Last config file used to build this data file was /home/vqp77ug7a50k/tmp/awstats/awstats.app.lamodebd.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2702                
+POS_VISITOR 7599                
+POS_DAY 9457                
+POS_DOMAIN 3547                
+POS_LOGIN 3862                
+POS_ROBOT 4017                
+POS_WORMS 4218                
+POS_EMAILSENDER 4349                
+POS_EMAILRECEIVER 4492                
+POS_SESSION 10320               
+POS_SIDER 10532               
+POS_FILETYPES 4627                
+POS_DOWNLOADS 4904                
+POS_OS 4952                
+POS_BROWSER 5138                
+POS_SCREENSIZE 5543                
+POS_UNKNOWNREFERER 5617                
+POS_UNKNOWNREFERERBROWSER 5735                
+POS_ORIGIN 5848                
+POS_SEREFERRALS 5989                
+POS_PAGEREFS 6152                
+POS_SEARCHWORDS 6380                
+POS_KEYWORDS 6532                
+POS_MISC 2364                
+POS_ERRORS 6591                
+POS_CLUSTER 3718                
+POS_SIDER_404 6759                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200501004618 591 153929 10894308755831
+FirstTime 20200401011514
+LastTime 20200430233946
+LastUpdate 20200501050446 591 0 590 0 0
+TotalVisits 285                 
+TotalUnique 41                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 41                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 135 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 385 1051 13098723 21 25 7708
+1 556 1625 20639720 57 71 25535
+2 812 2173 31402907 103 120 28315
+3 588 1541 18313211 72 100 27314
+4 276 743 6877709 49 53 22492
+5 545 2109 23383462 64 73 21340
+6 608 1557 26364319 80 92 32750
+7 323 1220 20782234 64 86 85601
+8 404 1081 14660251 30 35 107702
+9 164 532 11241506 26 43 15988
+10 750 1298 15380802 129 164 44824
+11 148 503 10720749 14 18 2767
+12 48 104 1100273 10 16 8493
+13 133 301 5572423 39 46 13199
+14 669 724 3311397 132 153 37828
+15 682 849 6901003 133 136 27685
+16 188 743 5135533 20 25 9938
+17 6 25 416128 8 8 1719
+18 0 0 0 0 0 0
+19 0 0 0 2 3 1430
+20 31 73 402880 3 3 749
+21 550 1309 16049869 21 40 12828
+22 212 536 6760437 11 56 69137
+23 159 393 5548677 16 23 10634
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+in 6120 13501 138081016
+bd 1256 4577 91477525
+us 507 1302 16806421
+cn 350 1063 16014814
+au 4 47 1684437
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+CFNetwork 4 1836 20200421231823 0
+YandexBot/ 4 2467 20200422194256 2
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 10
+Unknown 7483 31072075 0 0
+js 2705 138897646 0 0
+png 420 5333953 0 0
+woff2 18 696028 0 0
+css 1561 13959071 0 0
+webp 342 1222634 0 0
+jpg 7567 67406515 0 0
+php 12 49478 0 0
+woff 107 4314561 0 0
+html 275 1112252 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+ios_iphone 727 299
+win7 7282 2694
+win10 11548 4853
+Unknown 1 1
+macosx 16 0
+win8.1 50 4
+macosx10 6 6
+linuxandroid 860 380
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 15
+safari13.0.1 16 0
+chrome81.0.4044.117 194 104
+mozilla 6 6
+chrome80.0.3987.162 514 203
+chrome80.0.3987.149 2802 742
+chrome81.0.4044.113 711 257
+chrome81.0.4044.96 90 33
+chrome80.0.3987.163 10210 3948
+chrome81.0.4044.122 2729 1224
+safari12.1.2 45 30
+chrome81.0.4044.111 309 151
+safari10.0 4 4
+chrome81.0.4044.129 2181 1269
+Unknown 1 1
+safari13.0.5 678 265
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Go_http_package 20200406172840
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+Go_http_package 20200406172840
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 248 248
+From1 3 3
+From2 2 2
+From3 3 3
+From4 7981 20234
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+https://l.facebook.com 1 1
+http://148.66.136.3:80 1 1
+http://m.facebook.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+302 926 187307
+500 7 160616
+419 112 94110
+404 188 110920
+405 1 47230
+301 2 524
+206 10 10966
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 10
+/profile 2 http://app.lamodebd.net/users/profile/38
+/uploads/product_images/thumbs/Juliette 12 http://app.lamodebd.net/products/list/all
+/uploads/product_images/thumbs/Vigne%20D 7 http://app.lamodebd.net/products/list/all
+/apple-touch-icon-120x120.png 22 -
+/apple-touch-icon.png 40 -
+/home 9 -
+/apple-touch-icon-120x120-precomposed.png 22 -
+/apple-touch-icon-precomposed.png 40 -
+/uploads/product_images/thumbs/ 18 http://app.lamodebd.net/restocking-products
+/assets/preloader.gif 16 http://app.lamodebd.net/ecommerce/list/filter
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 41
+103.86.111.178 2459 6115 56877358 20200430083133
+103.209.197.52 1357 1870 8611269 20200410160507
+103.87.214.221 565 966 8542076 20200424214737
+144.48.108.70 505 1300 16794671 20200426231030
+103.87.214.203 461 1051 15123356 20200430233946
+27.147.172.233 385 1539 19198691 20200430093625
+103.87.214.199 343 445 2786512 20200422044447
+103.140.83.141 263 504 6117881 20200430020852
+103.112.52.225 254 1035 11134566 20200418025830
+27.147.204.71 249 1192 30081337 20200430131948
+103.60.175.7 223 581 12805070 20200428151052
+113.11.1.158 208 661 15814617 20200429102440
+103.139.9.29 140 726 9583164 20200406235522
+27.147.205.170 118 417 9561075 20200430072630
+103.87.214.211 86 175 3491746 20200402024437
+36.255.53.253 84 231 3274786 20200429141536
+123.253.38.24 70 232 4385671 20200429095326
+36.255.53.255 69 197 1758090 20200416171844
+45.118.63.14 65 170 3580160 20200430103120
+103.87.214.201 51 164 4013792 20200405054602
+123.253.38.27 45 139 2263180 20200430102530
+103.140.83.13 38 101 1838262 20200407042252
+123.253.38.30 37 159 3539182 20200427102930
+103.87.214.202 33 49 191233 20200423070204
+123.253.38.31 30 59 355427 20200402080409
+202.134.13.129 2 5 22042 20200415112157
+103.87.214.220 25 88 1901376 20200411055129
+119.30.41.108 3 5 144412 20200417075717
+103.49.171.4 1 3 134457 20200415071847
+175.41.44.34 4 47 1684437 20200415100512
+123.253.38.29 6 17 230852 20200414003404
+123.253.38.28 9 29 207626 20200401213238
+103.67.158.47 16 18 1510320 20200423035225
+103.139.9.28 21 94 3086892 20200427221128
+103.230.105.13 1 1 1211 20200423033543
+103.139.9.23 5 50 1589388 20200416051641
+170.130.187.14 1 1 4661 20200406172840
+114.31.1.69 1 3 134453 20200430160106
+103.87.214.223 1 6 135479 20200402023651
+192.119.164.158 1 1 7089 20200405103656
+103.139.9.25 2 44 1546346 20200412020405
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20200401 212 1234 11251725 6
+20200402 336 730 8865531 8
+20200403 119 341 6429957 11
+20200404 35 139 3606820 5
+20200405 105 297 5920271 8
+20200406 128 686 8460313 7
+20200407 197 686 11234342 10
+20200408 64 199 4255304 6
+20200410 1732 2585 16489212 11
+20200411 270 549 7177483 8
+20200412 227 906 13624794 11
+20200413 326 1056 8578094 13
+20200414 88 598 8302374 5
+20200415 160 811 12532635 13
+20200416 329 860 8980238 8
+20200417 159 535 6049361 9
+20200418 509 1414 14778830 11
+20200419 72 242 6179057 9
+20200420 107 371 8635257 10
+20200421 66 194 3784908 5
+20200422 108 289 5487648 9
+20200423 166 344 6048938 9
+20200424 80 273 7143442 9
+20200425 213 521 8262604 14
+20200426 147 472 7762467 8
+20200427 215 584 11185495 15
+20200428 927 1630 19715529 20
+20200429 838 1385 15198892 15
+20200430 302 559 8122692 12
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+2mn-5mn 22
+0s-30s 99
+15mn-30mn 25
+1h+ 30
+30mn-1h 45
+5mn-15mn 26
+30s-2mn 38
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 191
+/products/table_list/all 3687 14886641 24 159
+/products/table_list/archived 1091 4781223 0 2
+/products/table_list/4 313 399493 0 0
+/ 275 1112252 51 28
+/products/create 272 1316048 0 0
+/products/stock_table/1 271 105419 0 0
+/products/list/4 268 1255017 0 0
+/products/stock_table/4 255 60435 0 0
+/login 244 299574 179 53
+/products/list/all 229 1084118 26 1
+/products/list/archived 211 1044300 0 0
+/assets/css/font-icons/entypo/font/entypo.woff 107 4314561 0 5
+/products/table_list/2 56 94358 0 3
+/reports/delivery_report 53 301681 0 2
+/ecommerce 53 303642 0 0
+/uploads/product_images/thumbs/Abby_Miller_-_Caramel_1_600x_5e3fc1507fd6b.webp 45 197595 1 1
+/uploads/product_images/thumbs/Abby_Miller_-_Black_3_600x_5e3fc0935d40d.webp 41 138703 0 0
+/uploads/product_images/thumbs/Abby_Miller_-_Bottle_Green_3_600x_5e3fc1a03ac1f.webp 40 144920 0 0
+/products/table_list/5 27 44414 0 0
+/products/table_list/1 26 178195 1 2
+/ecommerce/products/get 24 259528 0 1
+/reports/filter_delivery_report 24 294558 0 3
+/ecommerce/list/filter 23 684445 0 4
+/ecommerce/create 23 176706 0 0
+/reports/sales/filter 22 178075 0 2
+/ecommerce/paid/7310 1 76 0 0
+/restocking-products 4 128741 0 0
+/assets/css/font-icons/font-awesome/fonts/fontawesome-webfont.woff2 8 515728 0 0
+/ecommerce/paid/7413 1 76 0 0
+/categories 3 13549 0 0
+/categories/create 2 1156 0 0
+/ecommerce/exchange/7367 1 15633 0 0
+/ecommerce/paid/7328 1 76 0 0
+/products/list/2 8 37190 0 0
+/ecommerce/paid/7394 1 76 0 0
+/ecommerce/paid/7346 1 76 0 0
+/ecommerce/exchanged_products/product 4 253531 0 2
+/ecommerce/paid/7347 1 76 0 0
+/index.php/categories 1 4467 0 0
+/uploads/product_images/thumbs/Yippy_-_White_2_400x_5d2c79d53faee.webp 8 30216 0 0
+/products/list/index.php 1 4650 0 0
+/expenses 4 19798 0 0
+/products/553/edit 1 5099 0 0
+/cash_collects 4 22014 0 0
+/uploads/product_images/thumbs/Ravinia_-_Antique_2_600x_5de4fc3c04014.webp 3 12855 0 0
+/reports/branch_ecommerce_order/4 3 15076 0 0
+/uploads/product_images/thumbs/Karrisa_-_Black_2_600x_5e64c33971735.webp 12 33492 0 1
+/ecommerce/paid/7367 1 76 0 0
+/products/1198 3 2343 0 0
+/reports/sales/index.php 2 10350 0 0
+/ecommerce/paid/7403 1 76 0 0
+/reports/sales/4 4 20525 0 0
+/products/list/5 17 83979 0 0
+/ecommerce/paid/7369 1 76 0 0
+/index.php/reports/historical-products 1 5362 0 0
+/ecommerce/paid/7332 1 76 0 0
+/reports/sales/2 4 20525 0 0
+/reports/branch_ecommerce_order/1 7 35203 0 0
+/index.php/restocking-products 2 58714 0 0
+/uploads/product_images/thumbs/Victorian_Ruffle_-_Pistachio_1_1800x1800_5e2ea50535afb.webp 4 10396 0 0
+/ecommerce/paid/7407 1 76 0 0
+/ecommerce/7417 1 4958 0 0
+/ecommerce/paid/7374 1 76 0 0
+/customers/17/edit 1 4683 0 0
+/ecommerce/paid/7398 1 76 0 0
+/products/32/edit 1 5332 0 0
+/users/36/edit 2 9634 1 0
+/ecommerce/paid/7393 1 76 0 0
+/products/977/edit 1 5089 0 0
+/products/977 2 1514 0 0
+/delivery_types/create 1 489 0 0
+/index.php/users 1 5545 0 0
+/reports/branch_ecommerce_order/3 3 15077 0 0
+/products/984 1 779 0 0
+/products/984/edit 1 4806 0 0
+/ecommerce/7414 1 4939 0 0
+/ecommerce/giftcard 6 26227 0 0
+/index.php/products/stock_table/1 1 389 0 0
+/ecommerce/paid/7408 1 76 0 0
+/uploads/product_images/thumbs/Punky_Promise_-_Silver_4_160x_5de4faf04a587.webp 8 25992 0 1
+/ecommerce/paid/7399 1 76 0 0
+/index.php/stock_transfers/list 1 5311 0 0
+/password/reset 1 1072 0 0
+/ecommerce/7416 1 4944 0 0
+/ecommerce/paid/7396 1 76 0 0
+/ecommerce/exchange/7392 1 8389 0 0
+/ecommerce/paid/7381 1 76 0 0
+/products/542/edit 1 5318 0 0
+/ecommerce/paid/7404 1 76 0 0
+/ecommerce/paid/7329 1 76 0 0
+/ecommerce/paid/7377 1 76 0 0
+/ecommerce/paid/7376 1 76 0 0
+/products/437/edit 1 5402 0 0
+/ecommerce/paid/7348 1 76 0 0
+/ecommerce/paid/7327 1 76 0 0
+/ecommerce/paid/7323 1 76 0 0
+/ecommerce/paid/7373 1 76 0 0
+/products/943/edit 1 5027 0 0
+/ecommerce/paid/7385 1 76 0 0
+/uploads/product_images/thumbs/Karrisa_-_Brown_2_600x_5e64c2f36ac96.webp 12 36324 0 0
+/index.php/products/table_list/all 1 7928 0 0
+/reports/sales/3 4 20525 0 0
+/users/profile/36 1 4212 0 1
+/users/profile/38 1 4209 0 0
+/index.php/expenses 1 4948 0 0
+/ecommerce/paid/7388 1 76 0 0
+/ecommerce/exchange/7393 1 8398 0 0
+/uploads/product_images/thumbs/Caroline_-_Caramel_2_600x_5e3fc1e924eda.webp 13 38779 0 0
+/products/stock_table/5 10 2370 0 0
+/ecommerce/paid/7341 1 76 0 0
+/users 9 50791 0 2
+/uploads/product_images/thumbs/Zeta_Zones-_Black_2_400x_5de4fb8c4a1ce.webp 6 20034 0 0
+/index.php/variants 1 4590 0 0
+/index.php/expenses/filter 1 4948 0 1
+/customers 4 1154517 0 1
+/ecommerce/paid/7345 1 76 0 0
+/products/table_list/index.php 1 66 0 0
+/reports/filter_branch_ecommerce_order 15 153941 0 0
+/products/stock_table/3 10 2370 0 0
+/ecommerce/paid/7308 1 76 0 0
+/ecommerce/7406 1 4865 0 0
+/products/978/edit 2 9632 0 0
+/products/978 2 1554 0 0
+/ecommerce/paid/7358 1 76 0 0
+/ecommerce/7415 1 4935 0 0
+/delivery_types 4 17994 0 1
+/index.php/customers 2 570650 0 0
+/ecommerce/paid/7354 1 76 0 0
+/products/40 1 1436 0 0
+/products/175/edit 1 5592 0 0
+/index.php/products/list/all 1 4877 0 0
+/cpanel 4 50130 2 2
+/ecommerce/paid/7405 1 76 0 0
+/uploads/product_images/thumbs/Caroline_-_Black_1_600x_5e3fc1cf14194.webp 17 36023 0 0
+/reports/stockinventory/1 1 32968 0 1
+/uploads/product_images/thumbs/Caroline_-_Ash_1_600x_5e3fc20bd4a3c.webp 17 36159 0 0
+/branches 3 13372 0 0
+/reports/branch_ecommerce_order/2 4 20113 0 0
+/ecommerce/paid/7401 1 76 0 0
+/sales/create 2 13310 0 0
+/reports/products 13 62435 0 0
+/sales/product/get_detail 11 696 0 0
+/ecommerce/paid/7365 1 76 0 0
+/ecommerce/paid/7370 1 76 0 0
+/ecommerce/7324 1 5208 0 0
+/uploads/product_images/thumbs/Ravinia_-_Charcoal_2_600x_5de4fc502c4a0.webp 9 32625 0 0
+/uploads/product_images/thumbs/Yippy_-_Black_2_400x_5d2c796faa62a.webp 8 34312 0 1
+/reports/historical-products 1 5111 0 0
+/dashboards/google_sheet 3 12789 0 0
+/ecommerce/paid/7395 1 76 0 0
+/uploads/product_images/thumbs/Karrisa_-_Beige_2_600x_5e64c2bfefc9b.webp 12 39396 0 0
+/ecommerce/7418 1 4960 0 0
+/uploads/product_images/thumbs/Punky_Promise-_Black_1_373a35f2-bf25-46a7-8545-47301a062620_600x_5de4fad8a1934.webp 8 55048 0 0
+/ecommerce/paid/7410 1 76 0 0
+/products/list/1 2 9593 0 0
+/ecommerce/paid/7338 1 76 0 0
+/ecommerce/paid/7317 1 76 0 0
+/expenses/filter 3 16406 0 0
+/uploads/product_images/thumbs/Ame_-_Black_1_600x_5d2b2964e5228.webp 17 61591 0 0
+/index.php 8 34412 0 1
+/products/183/edit 2 11253 0 0
+/users/38/edit 1 4815 0 0
+/index.php/products/create 1 5051 0 0
+/ecommerce/paid/7340 1 76 0 0
+/uploads/product_images/thumbs/Mira_Marshall_Heel_-_black_2_600x_5e241b724770e.webp 7 28469 0 1
+/ecommerce/paid/7386 1 76 0 0
+/uploads/product_images/thumbs/Ame_-_Maroon_1_600x_5d2b29cf292bb.webp 18 75654 0 0
+/sales/products/get 2 15332 0 0
+/uploads/product_images/thumbs/Mira_Marshall_Heel_-_Brown_2_600x_5e241b9bc4191.webp 7 30121 0 1
+/ecommerce/paid/7389 1 76 0 0
+/uploads/product_images/thumbs/Ame_-_Rose_Gold_1_600x_5d2b29ed7c418.webp 20 76900 0 0
+/uploads/product_images/thumbs/Victorian_Ruffle_1_600x_5e2ea4ee59d35.webp 10 27030 0 0
+/ecommerce/paid/7321 1 76 0 0
+/assets/css/font-icons/glyphicons/glyphicons-halflings-regular.woff2 10 180300 0 1
+/products/1197 1 781 0 0
+/ecommerce/paid/7353 1 76 0 0
+/index.php/stock_transfers/upload_list 1 4861 0 0
+/ecommerce/paid/7325 1 76 0 0
+/ecommerce/paid/7357 1 76 0 0
+/ecommerce/paid/7322 1 76 0 0
+/sales/list/1 1 5678 0 0
+/stock_transfers/list 1 5070 0 0
+/ecommerce/paid/7372 1 76 0 0
+/users/create 3 14449 0 0
+/ecommerce/paid/7375 1 76 0 0
+/reports/sales/1 11 56614 0 0
+/ecommerce/paid/7309 1 76 0 0
+/sales/giftcard/all 5 21781 0 1
+/products/1198/edit 2 9676 0 0
+/ecommerce/paid/7383 1 76 0 0
+/stock_transfers/upload_list 1 4614 0 0
+END_SIDER

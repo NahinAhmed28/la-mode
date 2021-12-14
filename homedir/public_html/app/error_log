@@ -1,0 +1,3 @@
+[19-Feb-2019 01:31:41 Asia/Dhaka] PHP Fatal error:  Trait 'Illuminate\View\Compilers\Concerns\CompilesLoops' not found in /home/vqp77ug7a50k/public_html/lamode/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php on line 10
+[23-Sep-2019 10:56:41 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/vqp77ug7a50k/public_html/lamode/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 51
+[12-Apr-2020 22:21:56 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 54542336 bytes) in /home/vqp77ug7a50k/public_html/lamode/storage/framework/views/fc09d152bccd7a52bdcb9545c313a1a3bd2f670b.php on line 92

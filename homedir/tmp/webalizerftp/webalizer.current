@@ -1,0 +1,458 @@
+# Webalizer V2.23-05 Incremental Data - 01/12/2020 11:38:59
+2020 1 12 11 38 59
+558 558 1 168 0 0 2373251 44 2 1
+1 278 334 3 12
+0 0 0 0 0 0
+0 0 0 0 0 0
+279 279 1203971 1 22 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+279 279 1169280 1 22 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 1 18825 0
+552 552 2256678 44
+5 5 97748 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+558
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/home/vqp77ug7a50k/public_html/lamode/resources/views/stock_transfers/create_upload.blade.php
+0 4 0 12068 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/home.blade.php
+0 4 0 2504 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/customers/form.blade.php
+0 4 0 16160 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/reports/delivery_type_report.blade.php
+0 4 0 46456 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Http/Middleware/RedirectIfAuthenticated.php
+0 2 0 1046 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Http/Controllers/CategoryController.php
+0 2 0 4984 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Http/Kernel.php
+0 2 0 4342 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Http/Controllers/EcommerceController.php
+0 8 0 150604 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/sales/customer_create.blade.php
+0 4 0 15088 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/products/stock_table.blade.php
+0 4 0 3972 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/stock_transfers/create2.blade.php
+0 4 0 22920 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/sales/exchange.blade.php
+0 4 0 13184 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Customer.php
+0 2 0 624 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/stock_transfers/create.blade.php
+0 4 0 18476 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/products/transfer_stock.blade.php
+0 4 0 2160 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Http/Controllers/ReportController.php
+0 10 0 195308 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Providers/BroadcastServiceProvider.php
+0 2 0 760 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/partials/modal.blade.php
+0 4 0 14616 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/sales/invoice_print_pos.blade.php
+0 4 0 23460 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/auth/register.blade.php
+0 4 0 14864 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/DeliveryType.php
+0 2 0 316 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/lang/en/pagination.php
+0 4 0 2136 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Providers/EventServiceProvider.php
+0 2 0 1192 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/users/create.blade.php
+0 4 0 4020 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/delivery_types/edit.blade.php
+0 4 0 4624 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/partials/metas.blade.php
+0 4 0 580 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/expenses/
+0 4 0 24592 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Http/Controllers/SettingController.php
+0 2 0 410 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/products/
+0 4 0 33764 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/customers/create.blade.php
+0 4 0 4092 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/ecommerce/exchanged_products.blade.php
+0 4 0 33121 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Http/Middleware/TrimStrings.php
+0 2 0 680 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Http/helpers.php
+0 2 0 21944 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Http/Middleware/EncryptCookies.php
+0 2 0 588 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/expenses/form.blade.php
+0 4 0 7176 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Http/Controllers/SalesController.php
+0 2 0 37400 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/categories/form.blade.php
+0 4 0 4648 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/expenses/create.blade.php
+0 4 0 4416 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/products/product_table_options.blade.php
+0 4 0 4356 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/welcome.blade.php
+0 4 0 10944 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/User.php
+0 2 0 1278 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/partials/stylesheets.blade.php
+0 4 0 4640 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Exceptions/Handler.php
+0 2 0 2116 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/stock_transfers/upload_list.blade.php
+0 4 0 25844 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/branches/edit.blade.php
+0 4 0 4524 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Exports/EcommerceSaleExport.php
+0 2 0 1956 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/EcommerceSale.php
+0 2 0 1616 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/branch_dashboard.blade.php
+0 4 0 1032 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/stock_transfers/list.blade.php
+0 4 0 40728 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Http/Controllers/DashboardController.php
+0 2 0 8246 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/delivery_types/form.blade.php
+0 4 0 3948 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Http/Controllers/Auth/ForgotPasswordController.php
+0 2 0 1668 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/stock_transfers/stock_transfer_row.blade.php
+0 4 0 5984 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/auth/login.blade.php
+0 4 0 13236 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/reports/product_history.blade.php
+0 4 0 18060 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/reports/ecommerce_branch_report.blade.php
+0 4 0 28688 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Providers/SettingsServiceProvider.php
+0 2 0 912 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/expenses/edit.blade.php
+0 4 0 4540 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/cash_collects/create.blade.php
+0 4 0 16760 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Http/Controllers/CustomerController.php
+0 2 0 4580 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/categories/edit.blade.php
+0 4 0 4568 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/cash_collects/
+0 4 0 35092 0 1
+/home/vqp77ug7a50k/public_html/lamode/resources/views/branches/form.blade.php
+0 4 0 3920 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/products/retired-list.blade.php
+0 2 0 5854 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Sale.php
+0 2 0 1720 0 0
+/home/vqp77ug7a50k/public_html/lamode/routes/web.php
+0 2 0 22058 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/lang/en/validation.php
+0 4 0 32364 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/delivery_types/create.blade.php
+0 4 0 4468 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/partials/header.blade.php
+0 4 0 13472 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/categories/
+0 4 0 9028 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/SalesOrderRow.php
+0 2 0 1052 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/StockTransfer.php
+0 2 0 1156 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/sales/create.blade.php
+0 4 0 73916 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/branches/create.blade.php
+0 4 0 4428 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Http/Controllers/PublicController.php
+0 2 0 3662 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Http/Controllers/Auth/LoginController.php
+0 2 0 1886 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/ecommerce/process.blade.php
+0 4 0 4576 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/StockUpload.php
+0 2 0 770 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Http/Controllers/HomeController.php
+0 2 0 904 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/DailyReport.php
+0 2 0 214 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Providers/RouteServiceProvider.php
+0 2 0 3058 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Http/Controllers/VariantController.php
+0 2 0 6064 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/sales/invoice.blade.php
+0 4 0 18980 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/customers/edit.blade.php
+0 4 0 4208 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/stock_transfers/stock_table.blade.php
+0 4 0 16916 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/sales/details.blade.php
+0 4 0 37160 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/delivery_types/
+0 4 0 8044 2 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/sales/list.blade.php
+0 4 0 58056 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/assets/js/bootstrap.js
+0 4 0 6956 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Http/Controllers/CashCollectController.php
+0 2 0 8640 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/categories/create.blade.php
+0 4 0 4452 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/lang/en/passwords.php
+0 4 0 3144 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/layouts/app.blade.php
+0 4 0 14072 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Providers/AuthServiceProvider.php
+0 2 0 1150 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Http/Middleware/TrustProxies.php
+0 2 0 858 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Stock.php
+0 2 0 948 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/variants/form.blade.php
+0 4 0 4468 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/ecommerce/exchange.blade.php
+0 4 0 17936 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/cash_collects/set_initial_balance.blade.php
+0 4 0 6480 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/users/edit.blade.php
+0 4 0 4012 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Deposit.php
+0 2 0 434 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/ecommerce/details.blade.php
+0 4 0 44648 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Variant.php
+0 2 0 1130 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/lang/en/auth.php
+0 4 0 2468 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Product.php
+0 2 0 1268 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/assets/js/components/ExampleComponent.vue
+0 4 0 2260 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/branches/
+0 4 0 9036 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/stock_transfers/stock_table_transfer.blade.php
+0 4 0 18652 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/ecommerce/product_row.blade.php
+0 4 0 7492 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/layouts/master.blade.php
+0 4 0 3748 0 0
+/home/vqp77ug7a50k/public_html/lamode/routes/api.php
+0 2 0 1056 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/products/create.blade.php
+0 4 0 29104 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/reports/a_report.blade.php
+0 4 0 38412 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Http/Controllers/StockTransferController.php
+0 2 0 26970 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/users/
+0 4 0 13360 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/products/stock_table_view.blade.php
+0 4 0 9240 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Console/Commands/GenerateReport.php
+0 2 0 3062 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Console/Kernel.php
+0 2 0 1696 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/assets/sass/_variables.scss
+0 4 0 1272 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/partials/navigation.blade.php
+0 4 0 64440 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/auth/passwords/reset.blade.php
+0 4 0 12228 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/products/restock-list.blade.php
+0 4 0 11089 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/variants/
+0 4 0 9604 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/products/list.blade.php
+0 4 0 16180 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Expense.php
+0 2 0 576 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/cash_collects/create_deposit.blade.php
+0 4 0 16348 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Http/Middleware/CheckForMaintenanceMode.php
+0 2 0 670 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/ecommerce/
+0 4 0 68312 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/reports/delivery_report_export.blade.php
+0 4 0 2620 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/sales/customer_add.blade.php
+0 4 0 13684 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/sales/invoice_print.blade.php
+0 4 0 21016 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Setting.php
+0 2 0 344 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/users/profile.blade.php
+0 4 0 13604 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/google_sheet.blade.php
+0 4 0 4540 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Http/Controllers/Controller.php
+0 2 0 722 0 0
+/home/vqp77ug7a50k/public_html/lamode/routes/console.php
+0 2 0 1106 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/reports/product_report.blade.php
+0 4 0 31272 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/ecommerce/create.blade.php
+0 4 0 98684 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/customers/
+0 4 0 17076 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Http/Controllers/UserController.php
+0 2 0 8168 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/sales/
+0 4 0 0 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/variants/create.blade.php
+0 4 0 4432 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/reports/sales_report.blade.php
+0 4 0 38412 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/assets/sass/app.scss
+0 4 0 1004 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/products/details.blade.php
+0 4 0 34812 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Http/Controllers/DeliveryTypeController.php
+0 2 0 4812 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/assets/js/app.js
+0 4 0 2504 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Http/Controllers/Auth/RegisterController.php
+0 2 0 3778 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/partials/javascripts.blade.php
+0 4 0 9124 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Http/Controllers/ProductController.php
+0 2 0 38269 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/EcommerceOrderRow.php
+0 2 0 1358 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/products/edit.blade.php
+0 4 0 37760 0 0
+/home/vqp77ug7a50k/public_html/lamode/routes/channels.php
+0 2 0 1016 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/variants/edit.blade.php
+0 4 0 4532 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Http/Middleware/VerifyCsrfToken.php
+0 2 0 614 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Providers/AppServiceProvider.php
+0 2 0 806 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/sales/create_ecommerce.blade.php
+0 4 0 90924 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/CashCollect.php
+0 2 0 1098 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Http/Controllers/ExpenseController.php
+0 2 0 9882 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Http/Controllers/Auth/ResetPasswordController.php
+0 2 0 1904 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/dashboard.blade.php
+0 4 0 16236 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/auth/passwords/email.blade.php
+0 4 0 7832 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Category.php
+0 2 0 708 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/sales/product_row.blade.php
+0 4 0 6764 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Http/Controllers/BranchController.php
+0 2 0 4982 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/users/form.blade.php
+0 4 0 14820 0 0
+/home/vqp77ug7a50k/public_html/lamode/resources/views/partials/footer.blade.php
+0 4 0 648 0 0
+/home/vqp77ug7a50k/public_html/lamode/app/Branch.php
+0 2 0 968 0 0
+# End Of Table - urls
+# -sites- (monthly)
+103.217.111.203
+0 558 558 2373251 2 1578829136
+/home/vqp77ug7a50k/public_html/lamode/resources/views/sales/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+103.217.111.203
+0 279 279 1169280 1 1578829136
+/home/vqp77ug7a50k/public_html/lamode/resources/views/sales/
+# End Of Table - sites (daily)
+# -referrers- 
+# End Of Table - referrers
+# -agents- 
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+vqp77ug7a50k
+0 558 558 2373251 3 1578829136
+# End Of Table - usernames

@@ -1,0 +1,901 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201811 will be lost/reset.
+# Last config file used to build this data file was /home/vqp77ug7a50k/tmp/awstats/awstats.app.lamodebd.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2704                
+POS_VISITOR 7244                
+POS_DAY 8687                
+POS_DOMAIN 3500                
+POS_LOGIN 3784                
+POS_ROBOT 3939                
+POS_WORMS 4237                
+POS_EMAILSENDER 4368                
+POS_EMAILRECEIVER 4511                
+POS_SESSION 9397                
+POS_SIDER 9604                
+POS_FILETYPES 4646                
+POS_DOWNLOADS 4891                
+POS_OS 4939                
+POS_BROWSER 5123                
+POS_SCREENSIZE 5510                
+POS_UNKNOWNREFERER 5584                
+POS_UNKNOWNREFERERBROWSER 5698                
+POS_ORIGIN 5807                
+POS_SEREFERRALS 5947                
+POS_PAGEREFS 6106                
+POS_SEARCHWORDS 6254                
+POS_KEYWORDS 6406                
+POS_MISC 2367                
+POS_ERRORS 6465                
+POS_CLUSTER 3640                
+POS_SIDER_404 6609                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20181201000518 1351 358159 14484616187164
+FirstTime 20181102002102
+LastTime 20181130235555
+LastUpdate 20181201050556 1351 0 1350 0 0
+TotalVisits 76                  
+TotalUnique 34                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 34                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 39 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 122 163 819308 18 20 4136
+1 634 1029 6515275 99 106 263623
+2 856 1187 6696801 140 154 1835779
+3 749 1265 11925887 127 135 77240
+4 1011 1483 11624044 173 184 160965
+5 456 827 7049979 96 105 2450354
+6 599 1072 12821736 114 123 2743093
+7 111 139 703865 45 47 1675425
+8 9 59 1863875 9 10 3582
+9 411 613 3287081 59 59 75716
+10 98 129 591360 28 30 3468141
+11 88 124 652487 16 17 3839
+12 78 151 2416629 20 22 66186
+13 2 4 135682 2 5 134659
+14 0 0 0 5 11 3248955
+15 0 0 0 0 0 0
+16 1 1 1227 3 5 694478
+17 3 3 14377 15 17 5528
+18 3 7 273821 11 12 4826
+19 6 9 38797 7 10 712513
+20 1 3 134454 3 3 917
+21 2 6 268924 2 2 400
+22 7 9 144164 11 18 633039
+23 32 32 140186 11 19 636615
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+bd 4946 7797 62072821
+in 286 433 3416497
+us 26 26 73431
+ru 21 59 2557210
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+unknown 25 600 20181130232645 25
+YandexBot/ 5 2240 20181120060458 3
+YandexMobileBot/ 3 134402 20181101143453 0
+Google[\x20]Web[\x20]Preview 3 134462 20181107134529 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+png 62 138941 0 0
+php 12 43764 0 0
+css 279 2642168 0 0
+html 54 196815 0 0
+Unknown 5182 21790565 0 0
+woff 18 725811 0 0
+jpg 2185 14743379 0 0
+woff2 13 420134 0 0
+js 510 27418382 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+winxp 3 1
+win8 18 6
+win8.1 6 2
+win10 7369 4857
+Unknown 12 12
+linux 14 14
+macosx 111 21
+linuxandroid 84 36
+win7 698 330
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 15
+chrome70.0.3538.77 745 389
+Unknown 12 12
+chrome49.0.2623.112 3 1
+chrome49.0.2623.75 14 14
+chrome70.0.3538.110 6194 4169
+opera55.0.2994.61 3 1
+chrome44.0.2403.157 3 1
+opera56.0.3051.52 6 2
+firefox63.0 3 1
+chrome68.0.3440.106 3 1
+chrome70.0.3538.102 1160 635
+firefox64.0 56 6
+msie10.0 28 10
+chrome70.0.3538.80 84 36
+opera56.0.3051.99 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+ia_archiver 20181118053000
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+ia_archiver 20181118053000
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 74 76
+From1 0 0
+From2 21 21
+From3 0 0
+From4 5184 8218
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+yandexru 21 21
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+404 44 28923
+302 940 203019
+405 4 1111949
+500 50 17283802
+419 1 612
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 7
+/uploads/product_images/thumbs/Vigne%20D 5 http://app.lamodebd.net/products/list/1
+/home 2 -
+/uploads/product_images/thumbs/Juliette 5 http://app.lamodebd.net/products/list/1
+/sales/index.php 1 http://app.lamodebd.net/sales/create
+/assets/preloader.gif 29 http://app.lamodebd.net/sales/create
+/profile 1 -
+/index.php/home 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 34
+27.147.172.233 4539 7113 56085547 20181130235555
+103.231.162.66 387 623 4696006 20181130094034
+103.206.228.46 274 370 1658344 20181129122114
+54.165.59.7 12 12 56389 20181118053000
+103.198.255.67 12 63 1758153 20181130190146
+203.76.123.138 9 48 1227064 20181128064446
+103.231.162.69 8 10 49614 20181130090724
+66.102.6.6 5 5 6095 20181119224724
+66.102.6.10 4 4 4872 20181117004609
+66.102.6.8 3 3 3656 20181110230604
+103.231.162.64 3 3 14590 20181130090909
+128.74.163.149 1 3 134471 20181120125121
+37.145.57.85 1 1 1211 20181130082011
+188.255.63.235 1 3 134455 20181125035116
+95.24.0.14 1 3 134455 20181125121813
+109.173.101.209 1 3 134465 20181118093408
+94.180.153.229 1 3 134468 20181102013728
+109.173.40.29 1 3 134455 20181130211127
+176.193.108.60 1 3 134461 20181102013728
+128.72.159.46 1 3 134469 20181103213944
+66.102.6.86 1 1 1209 20181123010441
+176.193.109.148 1 3 134457 20181124114231
+66.102.6.87 1 1 1210 20181122005758
+37.146.193.228 1 3 134454 20181121200825
+188.32.106.38 1 3 134460 20181112031438
+109.63.200.145 1 3 134463 20181111081807
+109.173.94.249 1 3 134463 20181106130735
+128.69.202.83 1 3 134470 20181115183308
+178.140.132.154 1 3 134456 20181128061316
+5.3.159.175 1 1 1227 20181118162603
+5.164.117.135 1 3 134462 20181114054139
+37.144.136.211 1 3 134455 20181122184636
+5.165.242.156 1 3 134469 20181117012852
+46.242.79.100 1 3 134464 20181116223939
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 27
+20181102 3 7 270147 3
+20181103 16 77 1979104 2
+20181104 106 205 3892749 1
+20181106 2 4 135685 2
+20181107 2 2 4825 2
+20181108 4 4 12006 3
+20181110 8 33 1332755 5
+20181111 112 181 1332388 4
+20181112 2 4 135676 2
+20181113 150 250 2583055 2
+20181114 3 5 140438 3
+20181115 131 264 4374755 5
+20181116 382 537 2916746 4
+20181117 5 7 146611 4
+20181118 4 6 141670 4
+20181119 1 1 1216 1
+20181120 1 3 134471 1
+20181121 1 3 134454 1
+20181122 9 61 1989476 4
+20181123 76 268 4390207 2
+20181124 3 5 136871 3
+20181125 2 6 268910 2
+20181126 79 196 3923480 2
+20181127 28 107 2773990 1
+20181128 93 199 3351983 3
+20181129 1587 2433 11872477 2
+20181130 2469 3447 19743814 8
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+30mn-1h 3
+30s-2mn 1
+2mn-5mn 1
+5mn-15mn 5
+0s-30s 51
+15mn-30mn 5
+1h+ 10
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 560
+/products/table_list/1 1770 8698731 3 7
+/products/table_list/all 740 2808518 0 2
+/products/list/1 522 2410241 0 0
+/products/table_list/2 510 648029 0 2
+/products/list/2 138 626369 1 0
+/products/create 107 508507 0 0
+/products/stock_table/1 105 40740 0 3
+/login 89 126646 54 40
+/products/list/all 58 267623 1 0
+/ 54 196815 3 0
+/stock_transfers/product/get_detail 51 49663 0 1
+/stock_transfers/list 47 314120 0 0
+/stock_transfers/create 43 426914 0 0
+/cash_collects 33 162704 0 0
+/index.php/products/table_list/all 29 118141 0 0
+/products/stock_table/2 27 6318 0 0
+/sales/product/get_detail 23 1428 0 0
+/assets/css/font-icons/entypo/font/entypo.woff 18 725811 0 1
+/index.php/cash_collects 16 78779 1 1
+/sales/products/get 15 79253 0 1
+/sales/create 14 90715 0 0
+/index.php/stock_transfers/upload_list 14 73228 0 0
+/index.php/login 12 29030 10 7
+/index.php 12 43764 0 0
+/ecommerce/products/get 11 58078 0 0
+/products/44/edit 1 5401 0 0
+/products/427/edit 1 4953 0 0
+/products/37/edit 1 5163 0 0
+/index.php/products/list/all 8 37173 0 0
+/products/313 1 1216 0 0
+/products/150/edit 2 10122 0 0
+/products/325/edit 1 5422 0 0
+/products/284/edit 1 5408 0 0
+/products/105/edit 1 4930 0 0
+/products/435/edit 1 4932 0 0
+/products/452/edit 1 4939 0 0
+/index.php/ecommerce 1 5096 0 0
+/products/574/edit 1 4862 0 0
+/products/306/edit 2 9797 0 0
+/products/554/edit 2 9720 0 0
+/products/445/edit 1 4955 0 0
+/products/10 1 1544 0 0
+/products/164/edit 1 5469 0 0
+/products/505/edit 2 10226 0 0
+/products/552/edit 2 9537 0 0
+/products/219/edit 1 5408 0 0
+/products/405/edit 1 4945 0 0
+/products/176/edit 1 5390 0 0
+/products/477/edit 2 9737 0 0
+/products/499/edit 1 5135 0 0
+/sales/customer/add 5 10290 0 0
+/products/395/edit 1 4945 0 0
+/products/233/edit 1 4965 0 0
+/products/107/edit 1 5356 0 0
+/products/555/edit 1 4860 0 0
+/products/54/edit 2 10742 0 0
+/products/411/edit 1 4974 0 0
+/index.php/ecommerce/products/get 5 26376 0 1
+/products/76/edit 2 10803 0 0
+/products/269/edit 1 4928 0 0
+/products/102/edit 1 5416 0 0
+/products/490/edit 3 14464 0 0
+/products/5/edit 1 4941 0 0
+/products/172/edit 1 5409 0 0
+/products/531/edit 1 5439 0 0
+/ecommerce/create 7 51808 0 0
+/products/393/edit 1 4946 0 0
+/cash_collects/create 2 1732 0 0
+/products/374/edit 1 4933 0 0
+/products/498/edit 1 4939 0 0
+/index.php/expenses/create 1 676 0 0
+/products/506/edit 1 5115 0 0
+/products/247/edit 1 5395 0 0
+/products/135/edit 2 10839 0 0
+/products/318/edit 3 14721 0 0
+/products/304/edit 2 9780 0 0
+/products/111/edit 1 5372 0 0
+/products/262/edit 1 4946 0 0
+/products/109/edit 1 5368 0 0
+/products/278/edit 1 5141 0 0
+/products/271/edit 1 4937 0 0
+/products/338/edit 2 9986 0 0
+/products/115/edit 2 10837 0 0
+/products/546/edit 1 4868 0 0
+/products/361/edit 1 4920 0 0
+/products/100/edit 1 5385 0 0
+/products/297/edit 1 5400 0 0
+/products/258/edit 1 4965 0 0
+/products/134/edit 2 10855 0 0
+/products/68/edit 1 5406 0 0
+/products/185/edit 1 5397 0 0
+/products/260/edit 1 4932 0 0
+/index.php/products/list/2 1 4686 0 0
+/products/24/edit 1 4920 0 0
+/index.php/users/profile/14 2 7896 0 0
+/products/119/edit 1 5422 0 0
+/products/153/edit 1 4951 0 0
+/products/101/edit 1 5388 0 0
+/products/348/edit 1 4938 0 0
+/products/251/edit 1 4921 0 0
+/products/288/edit 2 10775 0 0
+/products/17/edit 1 5179 0 0
+/reports/products 3 12491 0 0
+/products/451/edit 1 4946 0 0
+/stock_transfers/stock_table/265 1 951 0 0
+/expenses 3 13458 0 0
+/products/33/edit 2 10484 0 0
+/products/142/edit 1 5411 0 0
+/products/129/edit 1 5401 0 0
+/products/242/edit 1 4962 0 0
+/products/21 1 1202 0 0
+/products/9/edit 1 5162 0 0
+/products/412/edit 2 10141 0 0
+/products/143/edit 1 5417 0 0
+/products/287/edit 2 10794 0 0
+/products/270/edit 1 4927 0 0
+/products/387/edit 1 4937 0 0
+/products/570/edit 1 4865 0 0
+/products/370/edit 1 4931 0 0
+/products/201/edit 2 10711 0 0
+/products/40/edit 1 5346 0 0
+/products/455/edit 1 4931 0 0
+/products/181/edit 1 5400 0 0
+/products/60/edit 1 5369 0 0
+/products/215/edit 1 5441 0 0
+/products/223/edit 1 4948 0 0
+/products/448/edit 1 4950 0 0
+/index.php/sales/list/3 1 5489 0 0
+/products/18/edit 1 5200 0 0
+/products/319/edit 2 10937 0 0
+/products/112/edit 1 5413 0 0
+/products/34/edit 1 5195 0 0
+/products/124/edit 1 5361 0 0
+/products/106/edit 2 10723 0 0
+/products/569/edit 1 4861 0 0
+/products/231/edit 1 4954 0 0
+/products/476/edit 2 10035 0 0
+/products/87/edit 1 5345 0 0
+/categories 1 4302 0 0
+/products/136/edit 1 5469 0 0
+/products/250/edit 1 4952 0 0
+/products/171/edit 1 5441 0 0
+/products/189/edit 1 4980 0 0
+/products/519/edit 1 5411 0 0
+/products/12/edit 1 5146 0 0
+/products/29/edit 2 10486 0 0
+/products/145/edit 2 10801 0 0
+/products/205/edit 1 5361 0 0
+/products/117/edit 1 5425 0 0
+/products/163/edit 3 15249 0 0
+/products/556/edit 1 4860 0 0
+/index.php/stock_transfers/filter_upload_list 2 9875 0 0
+/products/16/edit 1 5178 0 0
+/ecommerce/6 3 14968 0 0
+/products/73/edit 3 16045 0 0
+/index.php/sales/list/2 2 10980 0 0
+/products/277/edit 1 5361 0 0
+/products/41/edit 1 5368 0 0
+/sales/invoice_print/30 1 1102 0 0
+/products/95/edit 1 5389 0 0
+/products/114/edit 2 10601 0 1
+/products/256/edit 2 10066 0 0
+/products/69/edit 2 10668 0 0
+/products/244/edit 2 10689 0 0
+/index.php/products/list/1 4 18760 0 0
+/products/187/edit 2 9961 0 0
+/users/create 1 4412 0 0
+/products/577/edit 1 4859 0 0
+/products/7/edit 1 5180 0 0
+/products/423/edit 1 4955 0 0
+/products/398/edit 1 4947 0 0
+/products/346/edit 1 4933 0 0
+/products/267/edit 1 5446 0 0
+/index.php/products/table_list/1 6 218110 0 0
+/products/378/edit 1 4924 0 0
+/products/39/edit 1 5183 0 0
+/products/225/edit 1 4950 0 0
+/products/236/edit 1 4922 0 0
+/products/121/edit 1 5410 0 0
+/products/177/edit 1 5349 0 0
+/products/337/edit 1 5115 0 0
+/products/193/edit 1 4950 0 0
+/products/224/edit 1 4940 0 0
+/sales/customer/store 3 353 0 0
+/stock_transfers/stock_table/491 1 932 0 0
+/index.php/customers 1 5966 0 0
+/products/206/edit 1 5390 0 0
+/products/495/edit 1 4812 0 0
+/products/196/edit 1 4951 0 0
+/products/289/edit 1 5467 0 0
+/products/257/edit 2 9765 0 0
+/products/113/edit 1 5414 0 0
+/products/159/edit 1 5395 0 0
+/products/203/edit 1 5380 0 0
+/ecommerce 7 34920 0 1
+/products/300/edit 1 5437 0 0
+/products/568/edit 1 4864 0 0
+/products/320/edit 2 9825 0 0
+/products/357/edit 1 4961 0 0
+/products/13/edit 1 4971 0 0
+/sales/33 1 4578 0 1
+/products/170/edit 1 5392 0 0
+/products/35/edit 1 4934 0 0
+/products/485/edit 2 9727 0 0
+/reports/sales/1 3 14635 0 0
+/products/273/edit 1 4942 0 0
+/products/324/edit 2 10810 0 0
+/products/204/edit 1 5369 0 0
+/products/47/edit 1 5395 0 0
+/sales/customer/42 1 127 0 0
+/products/28/edit 1 4957 0 0
+/products/418/edit 1 4937 0 0
+/products/460/edit 1 4950 0 0
+/products/489/edit 2 9758 0 0
+/index.php/products/create 4 19584 0 0
+/products/268/edit 2 9743 0 0
+/products/227/edit 3 14891 0 0
+/products/92/edit 1 5364 0 0
+/products/229/edit 1 4944 0 0
+/products/471/edit 1 4927 0 0
+/products/208/edit 1 5404 0 0
+/products/321/edit 1 5413 0 0
+/products/108/edit 1 4937 0 0
+/products/160/edit 2 10766 0 0
+/products/335/edit 1 5117 0 0
+/products/238/edit 1 4929 0 0
+/products/228/edit 1 4962 0 0
+/products/502/edit 1 5123 0 0
+/products/59/edit 1 5371 0 0
+/products/120/edit 1 5414 0 0
+/products/274/edit 1 5438 0 0
+/index.php/delivery_types/create 1 498 0 0
+/products/461/edit 1 4953 0 0
+/products/169/edit 1 5448 0 0
+/dashboards/google_sheet 2 7602 0 0
+/products/444/edit 1 4973 0 0
+/products/64/edit 1 5373 0 0
+/products/83/edit 1 4960 0 0
+/products/441/edit 1 4970 0 0
+/products/275/edit 1 5359 0 0
+/products/547/edit 1 4865 0 0
+/customers 1 6437 0 0
+/products/373/edit 1 4933 0 0
+/products/567/edit 1 4859 0 0
+/products/575/edit 1 5129 0 0
+/products/89/edit 1 5365 0 0
+/products/472/edit 1 4923 0 0
+/products/147/edit 1 5356 0 0
+/products/504/edit 1 5107 0 0
+/products/518/edit 1 5355 0 0
+/products/491/edit 2 9748 0 0
+/stock_transfers/create_upload 5 49075 0 0
+/products/494/edit 3 14875 0 0
+/products/23/edit 1 5151 0 0
+/products/563/edit 1 4866 0 0
+/products/410/edit 1 4986 0 0
+/products/214/edit 1 5443 0 0
+/products/281/edit 1 5423 0 0
+/products/125/edit 1 5352 0 0
+/products/263/edit 1 4938 0 0
+/assets/css/font-icons/glyphicons/glyphicons-halflings-regular.woff2 9 162270 0 0
+/products/80/edit 1 5381 0 0
+/products/298/edit 1 5384 0 0
+/products/573/edit 1 4862 0 0
+/products/222/edit 1 4954 0 0
+/products/332/edit 1 5114 0 0
+/products/67/edit 1 5413 0 0
+/products/77/edit 1 5378 0 0
+/products/486/edit 3 14573 0 0
+/products/507/edit 1 5312 0 0
+/products/174/edit 2 10818 0 0
+/products/413/edit 1 4914 0 0
+/products/454/edit 1 4937 0 0
+/products/127/edit 1 5396 0 0
+/products/81/edit 1 5379 0 0
+/products/253/edit 1 4935 0 0
+/products/442/edit 1 4973 0 0
+/stock_transfers/stock_table/301 1 952 0 0
+/products/293/edit 1 5416 0 0
+/products/179/edit 1 5398 0 0
+/products/309/edit 2 9806 0 0
+/products/58/edit 1 5350 0 0
+/products/264/edit 1 4966 0 0
+/products/48/edit 1 5392 0 0
+/products/132/edit 1 5389 0 0
+/index.php/cash_collects/create 1 877 0 0
+/products/86/edit 1 5361 0 0
+/products/56/edit 1 5349 0 0
+/products/328/edit 1 5432 0 0
+/products/116/edit 1 5406 0 0
+/products/84/edit 1 5452 0 0
+/products/492/edit 2 9734 0 0
+/products/366/edit 1 4916 0 0
+/index.php/stock_transfers/list 4 24423 0 0
+/products/175/edit 1 5396 0 0
+/products/307/edit 2 10836 0 0
+/products/417/edit 1 4934 0 0
+/products/139/edit 1 5412 0 0
+/index.php/branches/1/edit 1 516 0 0
+/sales/list/1 11 59083 0 0
+/products/443/edit 1 4990 0 0
+/index.php/sales/list/1 5 27458 0 0
+/products/496/edit 3 14553 0 0
+/products/290/edit 1 5396 0 0
+/index.php/reports/products 1 4174 0 0
+/products/432/edit 1 4964 0 0
+/products/52/edit 2 10777 0 0
+/products/294/edit 1 5402 0 0
+/products/98/edit 2 10761 0 0
+/products/560/edit 1 5143 0 0
+/products/65/edit 1 5415 0 0
+/products/14/edit 1 4926 0 0
+/products/42/edit 1 5362 0 0
+/products/433/edit 1 4974 0 0
+/products/182/edit 1 5373 0 0
+/products/513/edit 2 10651 0 0
+/products/158/edit 2 10100 0 0
+/products/473/edit 2 10289 0 0
+/products/446/edit 1 4949 0 0
+/index.php/sales/product/get_detail 2 126 0 0
+/sales/list/3 2 10970 0 0
+/products/36/edit 1 5199 0 0
+/products/315/edit 2 10713 0 0
+/products/156/edit 1 5387 0 0
+/products/312/edit 2 10828 0 0
+/products/249/edit 1 4945 0 0
+/products/333/edit 2 10469 0 0
+/products/503/edit 1 5112 0 0
+/products/497/edit 2 9748 0 0
+/products/93/edit 1 5348 0 0
+/products/468/edit 1 4924 0 0
+/products/38/edit 1 4931 0 0
+/products/133/edit 2 10900 0 0
+/products/310/edit 1 5424 0 0
+/products/140/edit 1 4960 0 0
+/sales/31 1 4528 0 0
+/products/19/edit 1 5200 0 0
+/products/97/edit 2 10812 0 0
+/products/292/edit 1 4991 0 0
+/index.php/sales/list/4 1 5489 0 0
+/products/483/edit 3 14924 0 0
+/products/217/edit 2 10783 0 0
+/products/265/edit 4 20462 0 0
+/products/216/edit 1 5425 0 0
+/products/493/edit 3 14760 0 0
+/products/152/edit 1 5412 0 0
+/register 2 6015 1 1
+/products/487/edit 2 9741 0 0
+/sales/list/4 2 10971 0 0
+/products/211/edit 1 5400 0 0
+/products/416/edit 1 4932 0 0
+/products/165/edit 1 5477 0 0
+/products/221/edit 2 9866 0 0
+/products/523/edit 1 5336 0 0
+/products/71/edit 2 10693 0 0
+/products/429/edit 1 4964 0 0
+/products/488/edit 2 9743 0 0
+/products/557/edit 1 4863 0 0
+/products/474/edit 1 5132 0 0
+/products/564/edit 1 4861 0 1
+/products/149/edit 1 5421 0 0
+/products/141/edit 1 5402 0 0
+/products/123/edit 2 10732 0 0
+/products/310 1 1525 0 0
+/products/245/edit 1 5387 0 0
+/stock_transfers/stock_table/296 1 943 0 0
+/products/295/edit 1 5394 0 0
+/products/104/edit 1 5352 0 0
+/products/424/edit 1 4966 0 0
+/products/414/edit 2 9815 0 0
+/products/449/edit 1 4948 0 0
+/products/240/edit 2 10771 0 0
+/products/88/edit 1 5371 0 0
+/products/475/edit 2 10465 0 0
+/products/279/edit 1 5394 0 0
+/products/195/edit 1 4955 0 0
+/products/226/edit 3 14953 0 0
+/index.php/branches 6 25815 0 1
+/products/184/edit 1 5380 0 0
+/products/276/edit 1 4952 0 0
+/products/553/edit 1 4858 0 0
+/products/375/edit 1 4928 0 0
+/products/462/edit 1 4962 0 0
+/products/407/edit 1 4967 0 0
+/products/63/edit 1 5404 0 0
+/products/259/edit 1 4945 0 0
+/products/31/edit 1 5140 0 0
+/products/303/edit 2 9694 0 0
+/products/406/edit 1 4970 0 0
+/products/355/edit 1 4958 0 0
+/products/137/edit 1 5396 0 0
+/products/74/edit 2 10715 0 0
+/products/537/edit 1 5075 0 0
+/products/50/edit 2 10740 0 0
+/products/2/edit 1 4958 0 0
+/products/482/edit 3 14878 0 0
+/products/151/edit 1 5431 0 0
+/products/173/edit 1 5395 0 0
+/products/402/edit 1 4949 0 0
+/products/144/edit 2 10082 0 0
+/products/280/edit 2 9882 0 0
+/products/576/edit 1 5139 0 0
+/products/296/edit 3 15247 0 0
+/products/209/edit 2 10818 0 0
+/products/197/edit 1 4943 0 0
+/products/500/edit 1 4910 0 0
+/products/10/edit 1 5269 0 0
+/products/478/edit 2 10470 0 0
+/products/316/edit 4 19491 0 0
+/products/51/edit 3 16074 0 0
+/products/207/edit 3 16267 0 0
+/products/447/edit 1 4955 0 0
+/products/178/edit 1 5356 0 0
+/products/162/edit 2 10098 0 0
+/products/313/edit 2 9790 0 0
+/stock_transfers/stock_table/504 1 947 0 0
+/products/469/edit 1 4924 0 0
+/products/82/edit 1 4946 0 0
+/products/234/edit 1 4922 0 0
+/password/reset 1 3606 1 1
+/products/470/edit 1 4920 0 0
+/products/166/edit 1 5466 0 0
+/products/255/edit 1 4945 0 0
+/products/545/edit 2 9727 0 0
+/products/524/edit 2 10670 0 0
+/products/128/edit 2 10792 0 0
+/products/167/edit 1 4980 0 0
+/products/305/edit 1 5424 0 0
+/products/46/edit 1 5397 0 0
+/index.php/products/table_list/2 1 1597 0 0
+/index.php/products/list/3 4 18744 0 0
+/products/157/edit 2 10774 0 0
+/products/464/edit 1 4945 0 0
+/products/578/edit 1 4865 0 0
+/products/131/edit 1 5377 0 0
+/products/103/edit 1 5410 0 0
+/products/53/edit 2 10752 0 0
+/products/70/edit 2 10722 0 0
+/products/232/edit 1 4968 0 0
+/products/235/edit 1 5425 0 0
+/products/43/edit 2 11662 0 0
+/products/246/edit 2 9874 0 0
+/products/283/edit 1 5412 0 0
+/products/96/edit 1 5401 0 0
+/products/75/edit 2 10771 0 0
+/index.php/reports/sales/1 1 4980 0 0
+/products/389/edit 1 4939 0 0
+/branches 4 16892 0 1
+/products/481/edit 1 4812 0 0
+/index.php/stock_transfers/create 2 18595 0 0
+/products/385/edit 1 4939 0 0
+/products/549/edit 1 4862 0 0
+/index.php/users/profile/1 1 4306 0 0
+/products/130/edit 2 10884 0 0
+/products/541/edit 1 4914 0 0
+/products/266/edit 1 5463 0 0
+/products/218/edit 2 10764 0 0
+/products/112 1 1472 0 0
+/products/572/edit 1 4861 0 0
+/products/118/edit 1 5410 0 0
+/products/467/edit 2 9921 0 0
+/products/161/edit 1 5368 0 0
+/products/456/edit 1 4959 0 0
+/products/302/edit 1 5448 0 0
+/products/78/edit 1 5372 0 0
+/products/516/edit 1 5110 0 0
+/products/301/edit 1 4955 0 0
+/index.php/sales/products/get 3 15855 0 0
+/products/254/edit 1 5434 0 0
+/products/400/edit 1 4917 0 0
+/products/548/edit 1 4857 0 0
+/products/252/edit 2 10839 0 0
+/products/439/edit 1 4989 0 0
+/index.php/dashboards/google_sheet 1 4153 0 0
+/products/85/edit 1 5337 0 0
+/products/66/edit 1 5398 0 0
+/products/3/edit 1 4967 0 0
+/products/322/edit 1 5407 0 0
+/index.php/delivery_types 2 8480 0 0
+/products/408/edit 1 4967 0 0
+/products/192/edit 4 20163 0 0
+/products/188/edit 2 9948 0 0
+/products/285/edit 1 4969 0 0
+/index.php/ecommerce/create 6 45204 0 0
+/index.php/sales/create 3 19534 0 0
+/products/194/edit 1 4960 0 0
+/products/409/edit 1 4981 0 0
+/products/99/edit 4 21562 0 0
+/products/391/edit 1 4946 0 0
+/products/353/edit 2 10119 0 0
+/products/91/edit 1 5334 0 0
+/products/21/edit 2 9860 0 0
+/products/317/edit 1 5508 0 0
+/products/79/edit 1 5382 0 0
+/index.php/products/339/edit 1 4893 0 0
+/products/314/edit 1 5430 0 0
+/index.php/products/stock_table/1 4 1552 0 0
+/products/180/edit 1 5392 0 0
+/products/463/edit 1 4956 0 0
+/products/512/edit 1 5307 0 0
+/products/126/edit 1 5356 0 0
+/products/272/edit 1 4937 0 0
+/products/358/edit 2 10109 0 0
+/products/55/edit 2 10808 0 0
+/products/62/edit 2 10753 0 0
+/products/20/edit 1 4936 0 0
+/products/299/edit 1 5405 0 0
+/products/514/edit 4 21165 0 0
+/reports/set_initial_balance 6 3356 0 1
+/users 2 9828 0 0
+/sales/30 1 4525 0 0
+/products/419/edit 1 4935 0 0
+/products/308/edit 1 5421 0 0
+/products/517/edit 2 10746 0 0
+/products/286/edit 1 5424 0 0
+/variants 1 4515 0 0
+/sales/customer/create 6 5786 0 0
+/products/11/edit 1 5155 0 0
+/index.php/products/table_list/3 4 6396 0 0
+/index.php/expenses 6 26788 0 0
+/products/148/edit 1 5271 0 0
+/products/57/edit 2 10694 0 0
+/products/49/edit 1 5363 0 0
+/products/220/edit 1 5426 0 0
+/products/72/edit 2 10719 0 0
+/products/61/edit 2 10748 0 0
+/index.php/users 1 5039 0 0
+/index.php/register 1 4896 0 1
+/products/465/edit 1 4956 0 0
+/products/241/edit 2 9902 0 0
+/products/146/edit 1 5403 0 0
+/products/30/edit 1 5154 0 0
+/products/110/edit 1 5362 0 0
+/products/350/edit 1 4928 0 0
+/products/4/edit 1 4946 0 0
+/sales/list/2 3 16457 0 0
+/products/26/edit 1 4916 0 0
+/products/401/edit 1 4937 0 0
+/products/32/edit 1 4932 0 0
+/products/440/edit 2 9964 0 0
+/products/562/edit 1 4863 1 0
+/products/90/edit 1 5339 0 0
+/products/190/edit 2 9886 0 0
+/products/311 1 1529 0 0
+/products/282/edit 1 4929 0 0
+/products/484/edit 4 19719 0 0
+/expenses/create 1 640 0 0
+/products/239/edit 1 5402 0 0
+/products/384/edit 1 4943 0 0
+/assets/css/font-icons/font-awesome/fonts/fontawesome-webfont.woff2 4 257864 0 0
+/products/25/edit 1 4921 0 0
+/products/183/edit 2 10768 0 0
+/sales/32 1 4531 0 0
+/stock_transfers/upload_list 7 35624 0 0
+/products/122/edit 1 5414 0 0
+/products/237/edit 2 10774 0 0
+/products/551/edit 1 4861 0 0
+/products/94/edit 1 5389 0 0
+/products/425/edit 1 4957 0 0
+/products/501/edit 1 5124 0 0
+END_SIDER

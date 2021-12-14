@@ -1,0 +1,2690 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201910 will be lost/reset.
+# Last config file used to build this data file was /home/vqp77ug7a50k/tmp/awstats/awstats.app.lamodebd.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2705                
+POS_VISITOR 8225                
+POS_DAY 11959               
+POS_DOMAIN 3608                
+POS_LOGIN 3962                
+POS_ROBOT 4117                
+POS_WORMS 4486                
+POS_EMAILSENDER 4617                
+POS_EMAILRECEIVER 4760                
+POS_SESSION 12970               
+POS_SIDER 13184               
+POS_FILETYPES 4895                
+POS_DOWNLOADS 5193                
+POS_OS 5241                
+POS_BROWSER 5470                
+POS_SCREENSIZE 6018                
+POS_UNKNOWNREFERER 6092                
+POS_UNKNOWNREFERERBROWSER 6206                
+POS_ORIGIN 6368                
+POS_SEREFERRALS 6512                
+POS_PAGEREFS 6656                
+POS_SEARCHWORDS 6830                
+POS_KEYWORDS 6982                
+POS_MISC 2367                
+POS_ERRORS 7041                
+POS_CLUSTER 3818                
+POS_SIDER_404 7238                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20191101000308 2094 549285 14829559848772
+FirstTime 20191001000052
+LastTime 20191031235913
+LastUpdate 20191101050901 2094 0 2093 0 0
+TotalVisits 643                 
+TotalUnique 81                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 92                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 331 0
+QuickTimeSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 4017 5256 38732676 433 480 298628
+1 2841 3749 31084833 399 439 186034
+2 3116 4486 36995204 476 569 370678
+3 3890 5164 35565318 460 520 501241
+4 3623 4719 33957887 435 480 306412
+5 3574 4669 56907352 379 501 242360
+6 4243 6227 63960348 426 551 450223
+7 1491 3079 45511411 234 361 113772
+8 1029 2848 38158965 47 114 47525
+9 936 2335 34458855 71 119 55872
+10 1493 3227 49405269 125 228 103741
+11 969 2019 21847435 40 136 65536
+12 393 885 12250753 24 126 106238
+13 72 171 3906135 16 78 34156
+14 3 3 3632 6 37 17048
+15 1 1 1211 2 15 139396
+16 8 51 1427392 0 0 0
+17 18 64 1766741 9 9 67481
+18 7 13 181442 2 2 389
+19 11 22 166194 3 16 140126
+20 73 79 417646 16 56 69838
+21 2384 3956 38418554 269 332 238696
+22 5262 7086 48430854 338 382 132000
+23 4234 5747 46317838 448 513 285225
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+bd 36089 50678 428097722
+in 4357 6389 49207627
+cn 2877 7101 93591549
+hu 140 235 1488992
+us 135 1177 21984028
+hk 81 259 45382105
+ru 9 17 121922
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+bot[\s_+:,\.\;\/\\-] 14 277136 20191014035408 1
+YandexBot/ 10 3796 20191031155351 7
+YandexMobileBot/ 10 404383 20191031155401 0
+facebookexternalhit/ 4 3342 20191026070641 0
+CFNetwork 3 1377 20191017065115 0
+unknown 2 48 20191019031220 2
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+Unknown 42131 268549457 0 0
+html 1124 4404123 0 0
+php 19 79838 0 0
+png 723 5628287 0 0
+js 3707 205422574 0 0
+woff2 61 2585774 0 0
+ttf 2 80672 0 0
+css 2297 22220192 0 0
+jpg 15441 124172369 0 0
+webp 205 802601 0 0
+woff 146 5928058 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 10
+linuxandroid 2251 886
+ios_iphone 2303 1108
+Unknown 2 2
+linux 67 19
+macosx 179 21
+win10 47817 36487
+win8.1 4950 1731
+macosx10 505 284
+win7 7781 3149
+winunknown 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 22
+chrome77.0.3865.120 24605 16876
+chrome63.0.3239.84 140 22
+chrome71.0.3578.141 53 5
+chrome78.0.3904.70 9608 6796
+chrome76.0.3809.132 70 20
+mozilla 8 8
+chrome77.0.3865.99 3 1
+chrome26.0.1410.35 4 4
+chrome77.0.3865.116 1003 384
+Unknown 3 3
+safari13.0.1 1465 591
+safari12.1.2 1003 528
+chrome77.0.3865.90 26075 17652
+firefox69.0 63 11
+chrome78.0.3904.62 718 304
+chrome77.0.3865.92 465 185
+firefox58.0 57 10
+iphone 3 1
+safari10.1.2 497 276
+safari10.0 8 8
+chrome38.0.1025.166 4 2
+chrome59.0.3071.125 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+ia_archiver 20191019031221
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+ia_archiver 20191019031221
+Microsoft_Windows_Network_Diagnostics 20191009005524
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 843 845
+From1 19 19
+From2 0 0
+From3 5 5
+From4 42821 64987
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://m.facebook.com 5 5
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 9
+401 5 250
+419 274 324988
+404 1106 650822
+405 15 285936
+500 580 1208991
+503 2 7347
+301 1 259
+302 3694 747732
+206 13 56208
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 14
+/assets/css/bootstrap-select.css.map 4 -
+/home 31 http://m.facebook.com/
+/apple-touch-icon.png 236 -
+/apple-touch-icon-120x120-precomposed.png 195 -
+/uploads/product_images/thumbs/Vigne%20D 6 http://app.lamodebd.net/products/list/all
+/apple-touch-icon-precomposed.png 236 -
+/reports/stockinventory 1 -
+/assets/preloader.gif 176 http://app.lamodebd.net/cash_collects
+/apple-touch-icon-120x120.png 195 -
+/ads.txt 2 -
+/profile 5 http://app.lamodebd.net/
+/uploads/product_images/thumbs/Juliette 17 http://app.lamodebd.net/products/list/all
+/stock_transfers/stock_table 1 http://app.lamodebd.net/stock_transfers/create_upload
+/sales/index.php 1 http://app.lamodebd.net/sales/create
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 92
+27.147.172.233 29394 37579 266989318 20191031235913
+103.199.169.168 2530 3178 15619604 20191026071607
+27.147.204.71 2437 6551 91682378 20191030122931
+27.147.174.74 1666 2333 20497387 20191031213905
+36.255.53.1 1664 4588 67312751 20191031121621
+27.131.15.170 1582 2108 13988147 20191031232331
+103.199.169.188 712 840 3296095 20191031235544
+123.253.38.27 466 856 6889508 20191028104120
+123.253.38.30 457 1003 12055925 20191031225530
+103.86.111.222 403 590 5413618 20191031102809
+103.110.96.218 385 883 10339852 20191006051624
+27.147.205.170 315 354 3091723 20191030230044
+119.148.52.30 189 457 5387685 20191026103721
+103.91.130.34 178 428 4488060 20191011060245
+103.60.175.8 142 358 6826779 20191030234359
+103.81.70.133 86 191 2470254 20191026233820
+123.253.38.28 75 138 895429 20191024094656
+36.255.53.12 68 172 1425177 20191001111308
+123.253.38.24 58 164 2972574 20191027113417
+119.30.35.201 57 81 564602 20191001232527
+119.30.39.50 56 118 2261865 20191024031432
+119.30.39.22 55 375 11452631 20191026072126
+123.253.38.31 51 112 1547937 20191025220152
+64.233.173.35 49 369 8087307 20191031065217
+27.147.182.174 48 74 520653 20191026113513
+37.111.203.86 1 1 9038 20191003080254
+37.111.198.152 39 71 442239 20191026103137
+37.111.202.100 2 2 2420 20191004034748
+27.122.14.83 1 1 657899 20191015090249
+37.111.202.142 14 14 61886 20191026075352
+64.233.173.32 36 385 7583664 20191031065227
+76.164.228.113 1 1 1210 20191031022332
+27.122.14.81 0 3 19119 
+37.111.204.248 17 36 231454 20191004054534
+27.122.14.87 2 2 394790 20191015090253
+27.122.14.84 34 91 19359999 20191008052830
+27.122.12.237 0 14 3743434 
+123.253.38.26 1 1 3706 20191014111120
+123.253.38.25 37 67 488542 20191018025734
+27.122.12.240 1 1 24033 20191016105206
+27.122.14.94 1 1 263189 20191015090250
+54.165.59.7 1 1 4661 20191001025051
+118.179.200.202 34 54 350428 20191017072043
+64.188.31.139 1 1 1209 20191024051253
+27.122.12.230 0 6 52254 
+66.102.8.192 2 3 24325 20191023102006
+103.81.70.135 4 4 4841 20191028222723
+27.122.12.249 0 10 1104557 
+27.122.12.246 0 9 154753 
+103.81.70.131 1 1 1210 20191001231207
+185.209.176.26 1 1 3707 20191017101147
+27.122.12.241 0 2 46233 
+119.30.35.18 8 17 110184 20191001220616
+103.81.173.1 1 3 134455 20191007130847
+66.102.6.154 0 2 133244 
+27.122.12.233 24 35 7185549 20191016130519
+27.122.12.248 0 5 134748 
+37.111.199.46 19 43 283558 20191003072001
+103.73.226.30 27 193 5488674 20191028090447
+66.102.6.155 1 1 1209 20191023102004
+42.0.5.246 20 68 1929567 20191001214636
+76.164.228.36 1 1 1206 20191030134925
+119.30.38.157 29 86 1958591 20191008213713
+37.111.198.15 17 17 98408 20191026205350
+27.122.12.238 0 3 163332 
+37.111.198.174 12 20 134229 20191026075450
+223.27.91.23 19 24 277722 20191028040608
+42.0.5.229 1 1 9038 20191005040700
+64.233.173.38 39 408 6026364 20191031065207
+37.111.233.166 11 23 178953 20191024050539
+54.209.98.150 1 1 4661 20191019031221
+103.86.111.218 1 1 1210 20191028002144
+119.30.39.253 5 8 49246 20191014224255
+27.122.14.86 14 69 9949636 20191015105528
+64.188.31.76 1 1 1210 20191013054306
+119.30.35.83 1 1 1210 20191027215146
+64.188.31.86 1 1 1209 20191022204015
+103.122.74.150 1 3 134453 20191008044033
+27.122.12.252 0 2 176794 
+76.164.228.150 1 1 1210 20191014061322
+37.111.199.167 7 7 37745 20191027005619
+119.30.35.54 4 4 26676 20191001215004
+103.198.138.242 18 64 1766741 20191001173941
+66.102.8.198 0 1 111339 
+37.111.202.13 1 1 9062 20191025220847
+119.30.39.219 23 23 91915 20191031041729
+27.122.14.89 2 2 1252954 20191015090250
+103.87.214.204 7 7 39936 20191007091135
+103.81.70.132 3 3 8624 20191014230549
+27.122.12.234 2 3 698832 20191016105232
+119.30.38.2 4 4 29977 20191031065233
+185.209.177.12 8 16 118215 20191004195053
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20191001 1166 1898 17877302 28
+20191002 1845 2574 19279188 17
+20191003 1455 2342 20919923 15
+20191004 1006 1512 10454376 20
+20191005 1382 2033 14426848 21
+20191006 1190 1782 14999032 18
+20191007 1176 1598 13050391 20
+20191008 545 1098 31011256 16
+20191009 1992 2963 28553995 13
+20191010 1298 1802 13808639 15
+20191011 1087 1600 13457579 17
+20191012 1252 1990 17807952 16
+20191013 954 1573 15688056 18
+20191014 1338 2235 25448969 20
+20191015 940 1430 25302579 17
+20191016 1186 2025 36056825 22
+20191017 932 1325 11426993 19
+20191018 1000 1553 14950321 23
+20191019 1150 1903 17817681 27
+20191020 882 1551 17345934 18
+20191021 1431 2158 19646038 20
+20191022 874 1427 15921518 16
+20191023 1364 2336 27005146 20
+20191024 1008 1459 13208533 21
+20191025 818 1518 14963029 28
+20191026 3456 5283 48099880 32
+20191027 2574 3640 29096496 28
+20191028 2273 3017 21527113 32
+20191029 1412 1973 17692592 14
+20191030 2246 3096 27950046 25
+20191031 2456 3162 25079715 27
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+5mn-15mn 48
+2mn-5mn 30
+30mn-1h 73
+30s-2mn 49
+1h+ 195
+0s-30s 196
+15mn-30mn 52
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 2260
+/products/table_list/all 25840 167130721 67 190
+/sales/product/get_detail 2390 148118 40 4
+/sales/products/get 1407 10784480 2 126
+/products/list/all 1343 6358641 68 32
+/sales/create 1251 7961430 33 0
+/ 1124 4404123 120 45
+/ecommerce/products/get 852 6577401 0 8
+/ecommerce 810 19462724 2 11
+/ecommerce/create 712 5339388 2 0
+/login 700 868270 240 104
+/stock_transfers/list 518 6586969 13 5
+/sales/list/1 332 2063960 0 2
+/stock_transfers/create 302 3738259 0 0
+/cash_collects 297 1835845 6 19
+/stock_transfers/product/get_detail 293 252985 0 0
+/stock_transfers/upload_list 267 1896360 1 1
+/stock_transfers/confirm_cancel 247 20254 1 2
+/sales/list/4 187 1128492 7 23
+/reports/delivery_report 166 1831230 3 0
+/assets/css/font-icons/entypo/font/entypo.woff 145 5846820 7 11
+/sales/list/2 138 837574 10 27
+/sales/list/filter 128 1149410 1 1
+/products/table_list/2 119 367971 0 0
+/stock_transfers/create_upload 114 1390191 0 0
+/sales/list/3 107 694430 1 1
+/sales/invoice_print_pos/7472 1 1420 0 0
+/sales/invoice_print_pos/7468 1 1461 0 0
+/ecommerce/5123 1 4961 0 0
+/ecommerce/4930 2 9836 0 0
+/sales/invoice_print_pos/7331 1 1424 0 0
+/cpanel 4 50132 0 0
+/sales/invoice_print_pos/7285 1 1416 0 0
+/ecommerce/paid/4871 1 76 0 0
+/ecommerce/process/5363 1 505 0 0
+/sales/invoice_print_pos/7344 1 1422 0 0
+/sales/invoice_print_pos/7419 1 1443 0 0
+/ecommerce/5438 1 4988 0 0
+/ecommerce/5072 1 4862 0 0
+/sales/invoice_print_pos/7450 1 1436 0 0
+/products/40/edit 1 5472 0 0
+/products/735/edit 2 10595 0 0
+/sales/invoice_print_pos/7561 1 1411 0 0
+/ecommerce/5342 1 5154 0 0
+/ecommerce/5096 1 4914 0 0
+/sales/7350 1 4728 0 0
+/ecommerce/paid/4941 1 76 0 0
+/sales/7753 1 4783 0 0
+/sales/7523 1 4731 0 0
+/products/535/edit 2 10970 0 0
+/ecommerce/paid/4710 1 76 0 0
+/sales/7667 1 4737 0 0
+/sales/7686 1 4746 0 0
+/sales/7665 1 4741 0 0
+/products/214/edit 7 38941 0 0
+/ecommerce/paid/4861 1 76 0 0
+/sales/invoice_print_pos/7625 1 1423 0 0
+/ecommerce/5196 1 4904 0 0
+/sales/invoice_print_pos/7508 1 1413 0 0
+/ecommerce/paid/4946 1 76 0 0
+/ecommerce/paid/5139 1 76 0 0
+/products/16/edit 2 11024 0 0
+/sales/invoice_print_pos/7646 1 1473 0 0
+/ecommerce/4906 1 4896 0 0
+/sales/invoice_print_pos/7491 1 1452 0 0
+/sales/invoice_print_pos/7300 1 1428 0 0
+/sales/invoice_print_pos/7697 1 1420 0 0
+/stock_transfers/stock_table/760 2 1916 0 0
+/ecommerce/5398 1 4906 0 0
+/sales/invoice_print_pos/7521 1 1414 0 0
+/sales/7689 1 4733 0 0
+/ecommerce/paid/5113 1 76 0 0
+/stock_transfers/stock_table/773 1 428 0 0
+/sales/invoice_print_pos/7562 1 1445 0 0
+/sales/invoice_print_pos/7389 1 1426 0 0
+/products/115/edit 2 11175 0 0
+/ecommerce/5354 1 4901 0 0
+/sales/7398 1 4780 0 0
+/ecommerce/paid/5103 1 76 0 0
+/ecommerce/paid/4932 1 76 0 0
+/ecommerce/4979 1 4883 0 0
+/ecommerce/4899 1 4897 0 0
+/ecommerce/paid/5220 1 76 0 0
+/sales/7384 1 4820 0 0
+/ecommerce/5023 1 4858 0 0
+/sales/7632 1 4735 0 0
+/ecommerce/paid/4785 1 76 0 0
+/sales/7361 1 4722 0 0
+/ecommerce/exchange/5188 1 37081 0 0
+/sales/invoice_print_pos/7563 1 1554 0 0
+/ecommerce/5172 1 4926 0 0
+/sales/invoice_print_pos/7377 1 1444 0 0
+/products/table_list/3 27 125523 0 0
+/ecommerce/paid/5158 1 76 0 0
+/sales/7413 1 4729 0 0
+/products/728/edit 2 10596 0 0
+/ecommerce/4914 1 5134 0 0
+/products/528/edit 8 44043 0 0
+/ecommerce/paid/4897 1 76 0 0
+/ecommerce/paid/4837 1 76 0 0
+/ecommerce/paid/4876 1 76 0 0
+/ecommerce/4926 1 4874 0 0
+/products/72/edit 2 10995 0 0
+/products/list/1 16 77037 0 0
+/ecommerce/exchange/4996 1 8222 0 0
+/ecommerce/5382 1 4912 0 0
+/sales/invoice_print_pos/7576 1 1420 0 0
+/stock_transfers/stock_table/854 1 929 0 0
+/ecommerce/paid/5115 1 76 0 0
+/ecommerce/exchange/4988 2 16454 0 0
+/sales/7676 1 4736 0 0
+/ecommerce/exchange/5410 1 8329 0 0
+/ecommerce/paid/5105 1 76 0 0
+/ecommerce/5283 1 4856 0 0
+/sales/invoice_print_pos/7744 1 1400 0 0
+/products/163/edit 2 10603 0 0
+/products/809/edit 2 10640 0 0
+/sales/7316 1 4738 0 0
+/sales/7655 1 4734 0 0
+/ecommerce/paid/4927 1 76 0 0
+/sales/7328 1 4730 0 0
+/ecommerce/paid/4791 1 76 0 0
+/sales/invoice_print_pos/7454 1 1419 0 0
+/ecommerce/paid/4783 1 76 0 0
+/sales/7657 1 4734 0 0
+/sales/invoice_print_pos/7414 1 1427 0 0
+/ecommerce/5003 1 4862 0 0
+/sales/7360 1 4729 0 0
+/sales/invoice_print_pos/7637 1 1401 0 0
+/sales/7648 1 4736 0 0
+/sales/7763 1 4734 0 0
+/ecommerce/5397 1 4972 0 0
+/sales/invoice_print_pos/7536 1 1419 0 0
+/ecommerce/paid/4822 1 76 0 0
+/sales/invoice_print_pos/7399 1 1418 0 0
+/products/4/edit 2 10609 0 0
+/products/595/edit 4 21119 0 0
+/ecommerce/paid/4950 1 76 0 0
+/ecommerce/5103 1 4900 0 0
+/ecommerce/exchange/5194 1 15482 0 0
+/sales/7319 1 4811 0 0
+/ecommerce/paid/4796 1 76 0 0
+/ecommerce/paid/5180 1 76 0 0
+/ecommerce/paid/4736 1 76 0 0
+/ecommerce/4873 1 4889 0 0
+/ecommerce/4993 1 4915 0 0
+/sales/7374 1 4734 0 0
+/ecommerce/paid/4777 1 76 0 0
+/sales/invoice_print_pos/7768 1 1431 0 0
+/sales/7593 1 4737 0 0
+/sales/invoice_print_pos/7523 1 1420 0 0
+/ecommerce/5351 1 4911 0 0
+/sales/invoice_print_pos/7430 1 1427 0 1
+/ecommerce/paid/4767 1 76 0 0
+/sales/invoice_print_pos/7624 2 2798 0 0
+/ecommerce/exchange/4897 1 8220 0 0
+/sales/invoice_print_pos/7308 1 1444 0 0
+/products/680/edit 2 10620 0 0
+/stock_transfers/filter 8 76051 0 0
+/ecommerce/4935 1 4905 0 0
+/ecommerce/4911 1 4890 0 0
+/sales/7351 1 4818 0 0
+/sales/7614 1 4788 0 0
+/sales/7302 1 4730 0 0
+/sales/7679 1 4734 0 0
+/ecommerce/5437 1 4922 0 0
+/ecommerce/5264 1 4880 0 0
+/ecommerce/paid/4908 1 76 0 0
+/ecommerce/paid/5071 1 76 0 0
+/products/464/edit 2 10591 0 0
+/sales/invoice_print_pos/7779 1 1417 0 0
+/ecommerce/paid/4715 1 76 0 0
+/uploads/product_images/thumbs/Yippy_-_White_2_400x_5d2c79d53faee.webp 10 37770 0 0
+/sales/invoice_print_pos/7741 1 1414 0 0
+/ecommerce/4937 2 9713 0 0
+/sales/invoice_print_pos/7407 1 1418 0 0
+/sales/invoice_print_pos/7486 1 1425 0 0
+/ecommerce/5435 1 4876 0 0
+/stock_transfers/stock_table/735 1 944 0 0
+/ecommerce/5041 1 4874 0 0
+/ecommerce/5411 1 4887 0 0
+/ecommerce/5371 1 4897 0 0
+/sales/7395 1 4737 0 0
+/ecommerce/paid/4953 1 76 0 0
+/sales/7606 1 4742 0 0
+/products/833/edit 2 10541 0 0
+/sales/7397 1 4735 0 0
+/ecommerce/paid/5183 1 76 0 0
+/ecommerce/list/filter 95 3217856 0 1
+/stock_transfers/stock_table/770 1 427 0 0
+/ecommerce/5084 1 4864 0 0
+/ecommerce/5216 1 4918 0 0
+/ecommerce/5163 1 4931 0 0
+/sales/7668 1 4734 0 0
+/sales/7340 1 4757 0 0
+/ecommerce/paid/5225 1 76 0 0
+/products/2/edit 6 31761 0 0
+/sales/7743 1 4780 0 0
+/products/37/edit 2 10981 0 0
+/ecommerce/paid/5066 1 76 0 0
+/ecommerce/paid/5136 1 76 0 0
+/ecommerce/paid/4949 1 76 0 0
+/stock_transfers/stock_table/779 1 427 0 0
+/ecommerce/paid/4780 1 76 0 0
+/sales/7372 1 4729 0 0
+/sales/7609 1 4734 0 0
+/ecommerce/5221 1 4859 0 0
+/products/840/edit 2 10542 0 0
+/ecommerce/5395 1 4863 0 0
+/ecommerce/5063 1 4964 0 0
+/sales/7620 1 4733 0 0
+/sales/exchange/7588 2 16026 0 0
+/sales/invoice_print_pos/7379 1 1434 0 1
+/sales/invoice_print_pos/7439 1 1424 0 0
+/sales/invoice_print_pos/7757 1 1447 0 0
+/ecommerce/exchange/5003 1 8230 0 0
+/ecommerce/5184 1 4886 0 0
+/ecommerce/paid/4869 1 76 0 0
+/sales/invoice_print_pos/7708 1 1421 0 0
+/sales/invoice_print_pos/7294 1 1412 0 0
+/ecommerce/paid/5037 1 76 0 0
+/sales/7433 1 4728 0 0
+/products/table_list/1 69 456931 0 1
+/ecommerce/exchange/5090 1 8311 0 0
+/ecommerce/5333 1 5148 0 0
+/sales/invoice_print_pos/7690 1 1423 0 0
+/ecommerce/5426 1 4891 0 0
+/sales/invoice_print_pos/7395 1 1414 0 0
+/sales/invoice_print_pos/7444 1 1415 0 0
+/ecommerce/paid/5142 1 76 0 0
+/reports/products 14 63869 0 0
+/sales/7691 1 4744 0 0
+/ecommerce/paid/4879 1 76 0 0
+/sales/invoice_print_pos/7306 1 1450 0 0
+/sales/invoice_print_pos/7474 1 1420 0 0
+/ecommerce/5141 1 4907 0 0
+/ecommerce/paid/4854 1 76 0 0
+/sales/invoice_print_pos/7682 1 1418 0 0
+/ecommerce/5232 1 4897 0 0
+/sales/7304 1 4730 0 0
+/products/203/edit 2 11039 0 0
+/sales/7612 1 4747 0 0
+/ecommerce/4862 2 9723 0 0
+/ecommerce/5201 1 4954 0 0
+/ecommerce/paid/5223 1 76 0 0
+/sales/invoice_print_pos/7518 1 1430 0 0
+/sales/invoice_print_pos/7557 1 1434 0 0
+/ecommerce/5152 1 4871 0 0
+/ecommerce/exchange/4915 1 15389 0 0
+/sales/7621 1 4740 0 0
+/sales/invoice_print_pos/7360 1 1409 0 0
+/sales/invoice_print_pos/7654 1 1411 0 0
+/ecommerce/4959 1 4931 0 0
+/sales/invoice_print_pos/7279 1 1406 0 0
+/sales/7341 1 4740 0 0
+/ecommerce/5044 1 4884 0 0
+/ecommerce/paid/4540 1 76 0 0
+/ecommerce/5414 1 4899 0 0
+/stock_transfers/stock_table/302 1 952 0 0
+/products/142/edit 2 11123 0 0
+/sales/invoice_print_pos/7730 1 1437 0 0
+/ecommerce/5374 1 4877 0 0
+/ecommerce/5406 1 4896 0 0
+/sales/invoice_print_pos/7769 1 1399 0 0
+/ecommerce/5390 1 4896 0 0
+/sales/invoice_print_pos/7358 1 1423 0 0
+/sales/7690 1 4739 0 0
+/sales/invoice_print_pos/7761 1 1401 0 0
+/ecommerce/4966 1 4890 0 0
+/ecommerce/paid/5110 1 76 0 0
+/sales/invoice_print_pos/7642 1 1440 0 0
+/sales/7336 1 4729 0 0
+/ecommerce/5319 1 4871 0 0
+/ecommerce/5081 1 4915 0 0
+/sales/invoice_print_pos/7289 2 2844 0 0
+/index.php/products/table_list/all 21 109418 0 0
+/sales/invoice_print_pos/7440 1 1433 0 0
+/products/302/edit 2 11204 0 0
+/sales/invoice_print_pos/7572 1 1462 0 0
+/ecommerce/paid/4739 1 76 0 0
+/sales/7647 1 4734 0 0
+/ecommerce/paid/4799 1 76 0 0
+/sales/7645 1 4777 0 0
+/uploads/product_images/thumbs/Ame_-_Maroon_1_600x_5d2b29cf292bb.webp 65 273195 2 1
+/ecommerce/5224 1 4894 0 0
+/sales/7327 1 4765 0 0
+/ecommerce/paid/4713 1 76 0 0
+/sales/invoice_print_pos/7700 1 1425 0 0
+/sales/7658 1 4734 0 0
+/stock_transfers/stock_table/861 1 421 0 0
+/ecommerce/5181 1 5211 0 0
+/branches 13 57506 0 0
+/ecommerce/paid/4703 1 76 0 0
+/sales/7325 1 4785 0 0
+/sales/7339 1 4727 0 0
+/ecommerce/5052 1 4902 0 0
+/sales/7382 1 4781 0 0
+/sales/invoice_print_pos/7655 1 1417 0 0
+/ecommerce/5430 1 4888 0 0
+/sales/invoice_print_pos/7310 1 1409 0 0
+/ecommerce/paid/5185 1 76 0 0
+/sales/7634 1 4741 0 0
+/ecommerce/paid/4758 1 76 0 0
+/sales/invoice_print/7383 1 1158 0 0
+/ecommerce/5144 1 4911 0 0
+/sales/invoice_print_pos/7770 1 1405 0 0
+/sales/invoice_print_pos/7596 1 1420 0 0
+/products/83/edit 2 10639 0 0
+/sales/invoice_print_pos/7644 1 1424 0 0
+/sales/invoice_print_pos/7290 1 1422 0 0
+/ecommerce/5367 1 4896 0 0
+/sales/7323 1 4738 0 0
+/ecommerce/paid/5135 1 76 0 0
+/sales/7550 1 4738 0 0
+/ecommerce/paid/5195 1 76 0 0
+/ecommerce/paid/4752 1 76 0 0
+/sales/invoice_print_pos/7447 1 1430 0 0
+/sales/7720 1 4733 0 0
+/ecommerce/exchange/5359 1 8321 0 0
+/ecommerce/paid/5226 1 76 0 0
+/sales/invoice_print_pos/7602 1 1417 0 0
+/ecommerce/exchange/5208 1 8320 0 0
+/sales/7768 1 4778 0 0
+/sales/7643 1 4733 0 0
+/ecommerce/paid/4870 1 76 0 0
+/ecommerce/5305 1 4914 0 0
+/ecommerce/4984 1 4911 0 0
+/sales/invoice_print_pos/7396 1 1455 0 0
+/reports/filter_delivery_report 43 664331 0 0
+/sales/7709 1 4734 0 0
+/sales/invoice_print_pos/7504 1 1439 0 0
+/products/736/edit 2 10631 0 0
+/ecommerce/5320 1 4886 0 0
+/ecommerce/paid/5075 1 76 0 0
+/ecommerce/5239 1 5205 0 0
+/reports/branch_ecommerce_order/3 8 53134 0 0
+/ecommerce/paid/4789 1 76 0 0
+/sales/7712 1 4740 0 0
+/sales/7496 1 4726 0 0
+/products/684/edit 6 31827 0 0
+/ecommerce/4941 1 4890 0 0
+/ecommerce/paid/4711 1 76 0 0
+/products/747/edit 2 10088 0 0
+/sales/invoice_print_pos/7322 1 1427 0 0
+/ecommerce/paid/4701 1 76 0 0
+/sales/7279 1 4697 0 0
+/ecommerce/paid/4860 1 76 0 0
+/sales/invoice_print_pos/7748 1 1398 0 0
+/sales/invoice_print_pos/7435 1 1432 0 0
+/sales/7561 1 4728 0 0
+/ecommerce/paid/5124 1 76 0 0
+/ecommerce/5258 1 4858 0 0
+/ecommerce/5270 1 5007 0 0
+/sales/7499 1 4735 0 0
+/sales/invoice_print_pos/7469 1 1415 0 0
+/sales/invoice_print_pos/7302 1 1418 0 0
+/ecommerce/5294 1 4885 0 0
+/sales/invoice_print_pos/7537 1 1425 0 0
+/sales/7584 1 4740 0 0
+/products/573/edit 2 10093 0 0
+/ecommerce/5137 1 4878 0 0
+/ecommerce/paid/5028 1 76 0 0
+/ecommerce/paid/4706 1 76 0 0
+/stock_transfers/stock_table/795 1 428 0 0
+/sales/invoice_print_pos/7316 1 1417 0 0
+/sales/invoice_print_pos/7689 1 1433 0 0
+/ecommerce/paid/4716 1 76 0 0
+/reports/historical-products/23 3 96531 0 1
+/stock_transfers/stock_table/264 3 2824 0 0
+/sales/7255 1 4711 0 0
+/ecommerce/exchange/5409 1 8325 0 0
+/ecommerce/5403 1 4893 0 0
+/ecommerce/exchange/5135 1 15496 0 0
+/sales/invoice_print_pos/7516 1 1452 0 0
+/sales/7598 1 4738 0 0
+/sales/invoice_print_pos/7356 1 1453 0 0
+/sales/7706 1 4741 0 0
+/products/662/edit 6 31725 0 0
+/sales/7452 1 4734 0 0
+/sales/7401 1 4730 0 0
+/sales/invoice_print_pos/7465 1 1466 0 0
+/sales/invoice_print_pos/7772 1 1398 0 0
+/ecommerce/4963 1 4974 0 0
+/sales/invoice_print_pos/7373 1 1419 0 0
+/sales/invoice_print_pos/7538 1 1419 0 0
+/sales/invoice_print_pos/7376 1 1411 0 0
+/sales/7758 1 4735 0 0
+/sales/7528 1 4733 0 0
+/sales/invoice_print_pos/7669 1 1410 0 0
+/sales/7516 1 4774 0 0
+/sales/invoice_print_pos/7487 1 1424 0 0
+/sales/invoice_print_pos/7280 1 1419 0 0
+/sales/7289 2 9430 0 0
+/sales/7747 1 4722 0 0
+/sales/7444 1 4735 0 0
+/ecommerce/4981 1 4893 0 0
+/ecommerce/paid/5148 1 76 0 0
+/sales/7745 1 4780 0 0
+/ecommerce/5066 1 4918 0 0
+/sales/7560 1 4728 0 0
+/stock_transfers/stock_table/821 1 936 0 0
+/ecommerce/paid/4790 1 76 0 0
+/ecommerce/5336 1 4844 0 0
+/sales/7400 1 5001 0 0
+/ecommerce/5423 1 4878 0 0
+/sales/invoice_print_pos/7295 1 1439 0 0
+/ecommerce/5257 1 4913 0 0
+/ecommerce/paid/4694 1 76 0 0
+/sales/invoice_print_pos/7771 1 1403 0 0
+/ecommerce/4944 1 4886 0 0
+/sales/7437 1 4736 0 0
+/ecommerce/5138 1 4905 0 0
+/ecommerce/5059 1 4924 0 0
+/sales/invoice_print_pos/7767 1 1406 0 0
+/ecommerce/5275 1 4918 0 0
+/sales/7734 1 4737 0 0
+/sales/7429 1 4737 0 0
+/sales/7435 1 4725 0 0
+/ecommerce/paid/5063 1 76 0 0
+/products/612/edit 2 10582 0 0
+/ecommerce/paid/5193 1 76 0 0
+/ecommerce/exchange/5053 1 8231 0 0
+/stock_transfers/stock_table/835 1 937 0 0
+/products/796/edit 2 10023 0 0
+/ecommerce/5291 1 4927 0 0
+/ecommerce/paid/5181 1 76 0 0
+/stock_transfers/stock_table/832 1 940 0 0
+/sales/invoice_print_pos/7604 1 1411 0 0
+/sales/invoice_print_pos/7464 1 1426 0 0
+/sales/7418 1 4737 0 0
+/ecommerce/paid/5119 1 76 0 0
+/sales/7502 1 4790 0 0
+/ecommerce/4869 1 4946 0 0
+/ecommerce/5325 1 4929 0 0
+/sales/7426 1 4732 0 0
+/sales/7721 1 4744 0 0
+/sales/7551 1 4728 0 0
+/ecommerce/paid/5109 1 76 0 0
+/ecommerce/5038 1 4868 0 0
+/ecommerce/5159 1 4894 0 0
+/stock_transfers/stock_table/734 1 936 0 0
+/ecommerce/exchange/5117 1 8276 0 0
+/ecommerce/5312 1 4881 0 0
+/sales/7574 1 4741 0 0
+/sales/invoice_print_pos/7623 1 1403 0 0
+/sales/invoice_print_pos/7466 1 1457 0 0
+/ecommerce/5300 1 4937 0 0
+/ecommerce/5368 1 4884 0 0
+/ecommerce/paid/4807 1 76 0 0
+/sales/7519 1 4736 0 0
+/sales/invoice_print_pos/7381 1 1413 0 0
+/ecommerce/4885 1 4894 0 0
+/stock_transfers/stock_table/16 1 930 0 0
+/ecommerce/paid/4817 1 76 0 0
+/stock_transfers/stock_table/162 3 2875 0 0
+/sales/7462 1 4734 0 0
+/reports/sales/filter 39 317555 1 1
+/ecommerce/paid/5073 1 76 0 0
+/ecommerce/paid/5435 1 76 0 0
+/sales/invoice_print_pos/7341 1 1419 0 0
+/ecommerce/5166 1 4885 0 0
+/ecommerce/paid/4912 1 76 0 0
+/sales/7393 1 4785 0 0
+/ecommerce/paid/4902 1 76 0 0
+/sales/7286 1 4704 0 0
+/ecommerce/4876 1 4887 0 0
+/ecommerce/paid/5229 1 76 0 0
+/sales/7597 1 4748 0 0
+/stock_transfers/stock_table/810 1 963 0 0
+/ecommerce/4996 1 4904 0 0
+/products/620/edit 6 31767 0 0
+/reports/branch_ecommerce_order/1 4 44722 0 0
+/sales/7595 1 4752 0 0
+/ecommerce/5106 1 4966 0 0
+/ecommerce/4887 1 4871 0 0
+/ecommerce/paid/5070 1 76 0 0
+/sales/7470 1 4739 0 0
+/ecommerce/5360 1 4919 0 0
+/ecommerce/exchange/5159 1 8278 0 0
+/ecommerce/5308 1 4947 0 0
+/ecommerce/paid/4748 1 76 0 0
+/sales/7442 1 4780 0 0
+/ecommerce/paid/4865 1 76 0 0
+/ecommerce/5030 1 4995 0 0
+/ecommerce/paid/5130 1 76 0 0
+/ecommerce/paid/4786 1 76 0 0
+/ecommerce/5179 1 4887 0 0
+/ecommerce/5114 1 4904 0 0
+/sales/invoice_print_pos/7463 1 1424 0 0
+/ecommerce/paid/4875 1 76 0 0
+/ecommerce/5327 1 4915 0 0
+/ecommerce/4972 1 4906 0 0
+/ecommerce/4892 1 4880 0 0
+/sales/7732 1 4737 0 0
+/expenses/filter 5 26267 0 0
+/products/232/edit 6 31814 0 0
+/stock_transfers/stock_table/737 1 929 0 0
+/products/847/edit 5 26444 0 0
+/ecommerce/5255 1 4880 0 0
+/ecommerce/paid/4793 1 76 0 0
+/ecommerce/4848 1 5144 0 0
+/ecommerce/exchange/4818 1 8209 0 0
+/ecommerce/paid/4733 1 76 0 0
+/ecommerce/5130 1 4893 0 0
+/ecommerce/paid/4781 1 76 0 0
+/ecommerce/5079 1 4874 0 0
+/ecommerce/4923 1 4894 0 0
+/ecommerce/paid/4719 1 76 0 0
+/sales/7504 1 4770 0 0
+/sales/invoice_print_pos/7519 1 1428 0 0
+/ecommerce/5286 1 5194 0 0
+/ecommerce/5277 1 4918 0 0
+/stock_transfers/stock_table/515 2 1890 0 0
+/sales/invoice_print_pos/7763 1 1400 0 0
+/ecommerce/5006 1 4962 0 0
+/products/621/edit 5 26449 0 0
+/ecommerce/process/5076 1 502 0 0
+/sales/7572 1 4796 0 0
+/sales/invoice_print_pos/7696 1 1428 0 0
+/sales/7481 1 4722 0 0
+/sales/invoice_print_pos/7567 1 1421 0 0
+/sales/7767 1 4746 0 0
+/sales/7765 1 4731 0 0
+/sales/7464 1 4734 0 0
+/sales/7290 1 4703 0 0
+/products/631/edit 2 10623 0 0
+/sales/7540 1 4768 0 0
+/ecommerce/5349 1 4853 0 0
+/sales/invoice_print_pos/7539 1 1422 0 0
+/sales/invoice_print_pos/7502 1 1456 0 0
+/ecommerce/4903 1 4866 0 0
+/ecommerce/paid/4735 1 76 0 0
+/ecommerce/paid/4795 1 76 0 0
+/ecommerce/paid/4964 1 76 0 0
+/ecommerce/paid/4982 1 76 0 0
+/stock_transfers/stock_table/167 2 1928 0 0
+/sales/invoice_print_pos/7359 1 1412 0 0
+/ecommerce/paid/5214 1 76 0 0
+/sales/7536 1 4730 0 0
+/ecommerce/paid/4959 1 76 0 0
+/ecommerce/4847 4 20126 0 0
+/ecommerce/paid/4974 1 76 0 0
+/sales/7415 1 4723 0 0
+/sales/7714 1 4728 0 0
+/ecommerce/5026 1 4868 0 0
+/sales/7779 1 4740 0 0
+/ecommerce/5111 1 4884 0 0
+/sales/7541 1 4730 0 0
+/ecommerce/paid/5111 1 76 0 0
+/sales/invoice_print_pos/7606 1 1400 0 0
+/sales/7291 1 4737 0 0
+/ecommerce/5135 1 4937 0 0
+/sales/invoice_print_pos/7774 1 1410 0 0
+/ecommerce/paid/5101 1 76 0 0
+/ecommerce/5278 1 4990 0 0
+/sales/7480 1 4775 0 0
+/ecommerce/5250 1 4888 0 0
+/ecommerce/process/5237 1 505 0 0
+/ecommerce/paid/4724 1 76 0 0
+/sales/invoice_print_pos/7724 1 1458 0 0
+/reports/historical-products/24 1 29956 0 0
+/sales/7776 1 4737 0 0
+/branches/create 1 488 0 0
+/sales/7438 1 4728 0 0
+/sales/7582 1 4729 0 0
+/sales/7471 1 4735 0 0
+/ecommerce/paid/4943 1 76 0 0
+/ecommerce/5328 1 4904 0 0
+/products/292/edit 2 10618 0 0
+/ecommerce/paid/5106 1 76 0 0
+/sales/create/ecommerce 41 268880 2 0
+/ecommerce/5389 1 4896 0 0
+/ecommerce/5011 1 4888 0 0
+/ecommerce/paid/4863 1 76 0 0
+/ecommerce/5441 1 5047 0 0
+/sales/invoice_print_pos/7693 1 1470 0 0
+/ecommerce/5035 1 4995 0 0
+/ecommerce/paid/5116 1 76 0 0
+/ecommerce/exchange/4912 1 8217 0 0
+/sales/7748 1 4735 0 0
+/sales/invoice_print_pos/7706 1 1410 0 0
+/ecommerce/5365 1 4917 0 0
+/ecommerce/5093 1 4967 0 0
+/sales/7663 1 4737 0 0
+/sales/invoice_print_pos/7760 1 1426 0 0
+/sales/7755 1 4748 0 0
+/sales/7539 1 4732 0 0
+/sales/7454 1 4731 0 0
+/products/335/edit 2 10514 0 0
+/sales/7525 1 4726 0 0
+/ecommerce/paid/4873 1 76 0 0
+/sales/invoice_print_pos/7694 1 1431 0 0
+/ecommerce/paid/5007 1 76 0 0
+/branches/3/edit 2 1019 0 0
+/sales/7757 1 4781 0 0
+/ecommerce/5307 1 4923 0 0
+/ecommerce/5246 1 4890 0 0
+/sales/7527 1 4782 0 0
+/sales/7485 1 4735 0 0
+/ecommerce/paid/5108 1 76 0 0
+/sales/invoice_print_pos/7703 1 1426 0 0
+/ecommerce/5380 1 4875 0 0
+/sales/7466 1 4786 0 0
+/sales/invoice_print_pos/7397 1 1412 0 0
+/sales/invoice_print_pos/7496 1 1428 0 0
+/ecommerce/paid/5118 1 76 0 0
+/sales/7761 1 4779 0 0
+/ecommerce/5238 1 5166 0 0
+/sales/7487 1 4734 0 0
+/ecommerce/paid/5004 1 76 0 0
+/sales/7410 1 4782 0 0
+/sales/7282 1 4704 0 0
+/products/287/edit 5 27838 0 0
+/ecommerce/4867 1 4909 0 0
+/sales/invoice_print_pos/7406 1 1440 0 0
+/ecommerce/paid/5014 1 76 0 0
+/ecommerce/5091 1 4864 0 0
+/ecommerce/5157 1 4888 0 0
+/sales/invoice_print_pos/7685 1 1420 0 0
+/ecommerce/5013 1 4885 0 0
+/ecommerce/paid/4727 1 76 0 0
+/ecommerce/paid/5153 1 76 0 0
+/sales/invoice_print_pos/7413 1 1435 0 0
+/ecommerce/paid/4931 1 76 0 0
+/ecommerce/paid/4991 1 76 0 0
+/sales/invoice_print_pos/7312 1 1438 0 0
+/ecommerce/4924 1 4922 0 0
+/sales/invoice_print_pos/7712 1 1428 0 0
+/ecommerce/process/4866 1 506 0 0
+/sales/invoice_print_pos/7749 1 1400 0 0
+/sales/7506 1 4806 0 0
+/sales/7422 1 4737 0 0
+/sales/invoice_print_pos/7681 1 1428 0 0
+/ecommerce/paid/5149 1 76 0 0
+/ecommerce/paid/4936 1 76 0 0
+/ecommerce/process/4930 2 1002 0 0
+/products/816/edit 2 10612 0 0
+/products/849/edit 2 10552 0 0
+/sales/7520 1 4738 0 0
+/sales/7750 3 14258 0 0
+/ecommerce/paid/4750 1 76 0 0
+/ecommerce/5113 1 4870 0 0
+/ecommerce/5266 1 4933 0 0
+/sales/7353 1 4743 0 0
+/sales/invoice_print_pos/7339 1 1418 0 0
+/sales/7509 1 4734 0 0
+/ecommerce/5345 1 5147 0 0
+/sales/invoice_print_pos/7329 1 1425 0 0
+/ecommerce/paid/4872 1 76 0 0
+/sales/7568 1 4724 0 0
+/sales/7512 1 4730 0 0
+/ecommerce/paid/4669 1 76 0 0
+/sales/invoice_print_pos/7678 1 1499 0 0
+/sales/invoice_print_pos/7411 1 1408 0 0
+/sales/7408 1 4734 0 0
+/ecommerce/5259 2 9736 0 0
+/ecommerce/paid/4942 1 76 0 0
+/sales/7469 1 4737 0 0
+/ecommerce/5075 1 4879 0 0
+/ecommerce/paid/4967 1 76 0 0
+/sales/invoice_print_pos/7665 1 1400 0 0
+/sales/7591 2 9458 0 0
+/sales/invoice_print_pos/7670 1 1430 0 0
+/ecommerce/5191 1 4884 0 0
+/sales/invoice_print_pos/7500 1 1418 0 0
+/ecommerce/paid/4581 1 76 0 0
+/ecommerce/5057 1 4946 0 0
+/ecommerce/paid/5217 1 76 0 0
+/ecommerce/4901 1 4968 0 0
+/sales/invoice_print_pos/7673 1 1407 0 0
+/ecommerce/4932 3 14616 0 0
+/sales/invoice_print_pos/7431 1 1425 0 0
+/ecommerce/exchange/5183 1 8278 0 0
+/ecommerce/exchange/4881 1 8218 0 0
+/sales/invoice_print_pos/7420 1 1487 0 0
+/ecommerce/5139 1 4925 0 0
+/ecommerce/5058 1 4864 0 0
+/sales/7751 1 4733 0 0
+/sales/invoice_print_pos/7608 1 1431 0 0
+/sales/7521 1 4730 0 0
+/sales/7702 1 4768 0 0
+/sales/7456 1 4774 0 0
+/ecommerce/5094 1 4902 0 0
+/stock_transfers/stock_table/862 1 421 0 0
+/ecommerce/paid/4826 1 76 0 0
+/stock_transfers/stock_table/837 1 936 0 0
+/sales/7477 1 4730 0 0
+/ecommerce/paid/4741 1 76 0 0
+/products/660/edit 6 31704 0 0
+/products/501/edit 2 10901 0 0
+/sales/invoice_print_pos/7718 1 1428 0 0
+/sales/7719 1 4730 0 0
+/ecommerce/5340 1 4909 0 0
+/sales/7475 1 4732 0 0
+/sales/7774 1 4730 0 0
+/sales/7590 1 4848 0 0
+/ecommerce/4921 1 4885 0 0
+/ecommerce/paid/4900 2 152 0 0
+/sales/invoice_print_pos/7369 1 1425 0 0
+/sales/invoice_print_pos/7754 1 1463 0 0
+/ecommerce/paid/4910 1 76 0 0
+/sales/invoice_print_pos/7514 1 1423 0 0
+/products/474/edit 2 11128 0 0
+/sales/7492 1 4740 0 0
+/sales/7716 1 4797 0 0
+/ecommerce/exchange/5077 1 8225 0 0
+/ecommerce/5369 1 4885 0 0
+/ecommerce/4916 1 5145 0 0
+/sales/7728 1 4741 0 0
+/sales/7558 1 4734 0 0
+/products/500/edit 4 21150 0 0
+/ecommerce/paid/4746 1 76 0 0
+/sales/7411 1 4728 0 0
+/sales/invoice_print_pos/7534 1 1466 0 0
+/products/661/edit 4 21078 0 0
+/sales/7295 1 4751 0 0
+/sales/invoice_print_pos/7434 1 1435 0 0
+/sales/invoice_print_pos/7564 1 1431 0 0
+/sales/7760 1 4774 0 0
+/sales/invoice_print_pos/7726 1 1423 0 0
+/users/profile/15 2 8442 0 0
+/reports/historical-products/9 1 38220 0 1
+/sales/7545 1 4778 0 0
+/products/554/edit 2 10061 0 0
+/sales/7363 1 4859 0 0
+/sales/7547 1 4731 0 0
+/sales/7297 1 4745 0 0
+/sales/invoice_print_pos/7368 1 1435 0 0
+/ecommerce/5356 1 4903 0 0
+/sales/invoice_print_pos/7568 1 1429 0 0
+/ecommerce/paid/4792 1 76 0 0
+/ecommerce/5237 2 9631 0 0
+/sales/invoice_print_pos/7386 1 1428 0 1
+/ecommerce/5194 1 4957 0 0
+/sales/7459 1 4801 0 0
+/sales/7534 1 4786 0 0
+/ecommerce/4868 1 4900 0 0
+/ecommerce/paid/4821 1 76 0 0
+/ecommerce/paid/4788 1 76 0 0
+/ecommerce/5039 1 4979 0 0
+/ecommerce/5158 1 4882 0 0
+/ecommerce/5170 1 4889 0 0
+/ecommerce/5385 1 5001 0 0
+/ecommerce/4904 1 4884 0 0
+/sales/invoice_print_pos/7237 2 2800 0 1
+/ecommerce/paid/4661 1 76 0 0
+/ecommerce/paid/4814 1 76 0 0
+/ecommerce/5178 1 4928 0 0
+/ecommerce/4964 1 4917 0 0
+/ecommerce/5150 1 5153 0 0
+/sales/7430 1 4734 0 0
+/sales/invoice_print_pos/7318 1 1435 0 0
+/ecommerce/5211 1 4924 0 0
+/stock_transfers/stock_table/836 1 938 0 0
+/products/list/2 12 56369 0 0
+/ecommerce/5235 1 4908 0 0
+/ecommerce/4860 1 4892 0 0
+/sales/7407 1 4727 0 0
+/ecommerce/5376 1 4872 0 0
+/ecommerce/5404 1 4902 0 0
+/ecommerce/5387 1 4897 0 0
+/sales/invoice_print_pos/7675 1 1401 0 0
+/sales/7405 1 4735 0 0
+/sales/7704 1 4723 0 0
+/ecommerce/5392 1 4919 0 0
+/reports/historical-products/11 1 37016 1 1
+/sales/7740 1 4740 0 0
+/sales/7343 1 4733 0 0
+/sales/7565 1 4851 0 0
+/sales/7586 1 4795 0 0
+/sales/invoice_print_pos/7593 1 1404 0 0
+/sales/7772 1 4733 0 0
+/sales/7567 1 4730 0 0
+/products/173/edit 2 11107 0 0
+/ecommerce/5416 1 4879 0 0
+/ecommerce/5046 1 4901 0 0
+/sales/7623 1 4737 0 0
+/ecommerce/5293 1 4902 0 0
+/products/692/edit 2 10603 0 0
+/products/549/edit 2 10074 0 0
+/products/655/edit 1 5031 0 0
+/sales/invoice_print_pos/7598 1 1402 0 0
+/ecommerce/5309 1 4986 0 0
+/products/126/edit 4 22031 0 0
+/sales/invoice_print_pos/7292 1 1414 0 0
+/ecommerce/paid/5072 1 76 0 0
+/ecommerce/5146 1 4882 0 0
+/sales/7494 1 4739 0 0
+/sales/7589 1 4720 0 0
+/ecommerce/paid/5146 1 76 0 0
+/ecommerce/paid/4939 1 76 0 0
+/sales/invoice_print_pos/7662 1 1421 0 0
+/sales/invoice_print_pos/7736 1 1426 0 0
+/sales/invoice_print_pos/7716 1 1459 0 0
+/ecommerce/5348 1 4842 0 0
+/stock_transfers/stock_table/860 1 929 0 0
+/ecommerce/4983 1 4872 0 0
+/stock_transfers/stock_table/750 1 424 0 0
+/ecommerce/paid/5132 1 76 0 0
+/sales/invoice_print_pos/7313 1 1443 0 0
+/ecommerce/paid/4755 1 76 0 0
+/ecommerce/5432 1 4860 0 0
+/ecommerce/5078 1 4911 0 0
+/ecommerce/paid/5062 1 76 0 0
+/ecommerce/5050 1 4886 0 0
+/sales/invoice_print_pos/7676 1 1401 0 0
+/ecommerce/paid/4666 1 76 0 0
+/sales/7532 1 4722 0 0
+/sales/7488 1 4728 0 0
+/products/857/edit 2 10549 0 0
+/ecommerce/5226 1 4873 0 0
+/ecommerce/paid/4708 1 76 0 0
+/ecommerce/4961 1 4901 0 0
+/ecommerce/5086 1 4973 0 0
+/sales/7576 1 4727 0 0
+/ecommerce/5214 1 4930 0 0
+/sales/invoice_print_pos/7747 1 1427 0 0
+/ecommerce/paid/4718 1 76 0 0
+/ecommerce/5077 1 4890 0 0
+/ecommerce/5055 1 4906 0 0
+/products/487/edit 4 21104 0 0
+/ecommerce/5401 1 4879 0 0
+/sales/7284 1 4701 0 0
+/sales/invoice_print_pos/7660 1 1404 0 0
+/sales/7449 1 4733 0 0
+/ecommerce/5279 1 5051 0 0
+/products/196/edit 12 63702 0 0
+/reports/sales/4 9 46531 0 0
+/sales/invoice_print_pos/7478 1 1423 0 0
+/sales/invoice_print_pos/7531 1 1422 0 0
+/products/351/edit 2 10085 0 0
+/ecommerce/exchange/4861 1 8218 0 0
+/sales/7298 1 4730 0 0
+/ecommerce/paid/5127 1 76 0 0
+/sales/7548 1 4727 0 0
+/ecommerce/paid/4753 1 76 0 0
+/sales/invoice_print_pos/7574 1 1430 0 0
+/ecommerce/5347 1 4890 0 0
+/sales/7727 1 4728 0 0
+/sales/7557 1 4731 0 0
+/ecommerce/exchange/5008 1 8222 0 0
+/ecommerce/exchange/4976 1 8226 0 0
+/sales/invoice_print_pos/7635 1 1421 0 0
+/sales/7725 1 4779 0 0
+/sales/7739 1 4731 0 0
+/sales/7555 1 4735 0 0
+/sales/7424 1 4747 0 0
+/ecommerce/paid/4980 1 76 0 0
+/sales/7693 1 4812 0 0
+/ecommerce/paid/5150 1 76 0 0
+/sales/invoice_print_pos/7365 1 1420 0 0
+/ecommerce/4889 1 4937 0 0
+/ecommerce/4943 1 4885 0 0
+/products/632/edit 2 10574 0 0
+/sales/invoice_print_pos/7643 1 1417 0 0
+/sales/invoice_print_pos/7307 1 1473 0 0
+/sales/7478 1 4732 0 0
+/sales/7736 1 4748 0 0
+/products/622/edit 7 37065 0 0
+/sales/7431 1 4745 0 0
+/ecommerce/5424 1 4968 0 0
+/sales/invoice_print_pos/7560 1 1428 0 0
+/sales/invoice_print_pos/7584 2 2836 0 0
+/sales/7579 1 4883 0 0
+/sales/invoice_print_pos/7375 1 1445 0 0
+/sales/invoice_print_pos/7490 1 1428 0 0
+/products/220/edit 2 11138 0 0
+/sales/7514 1 4734 0 0
+/ecommerce/paid/5021 1 76 0 0
+/sales/invoice_print_pos/7547 1 1421 0 0
+/ecommerce/5186 1 4973 0 0
+/sales/invoice_print_pos/7684 1 1429 0 0
+/ecommerce/5230 1 4890 0 0
+/sales/7446 1 4728 0 0
+/sales/invoice_print_pos/7661 1 1404 0 0
+/ecommerce/4865 1 4871 0 0
+/ecommerce/5329 1 4912 0 0
+/ecommerce/5155 1 4904 0 0
+/ecommerce/5388 1 4904 0 0
+/sales/7741 1 4740 0 0
+/ecommerce/paid/5145 1 76 0 0
+/ecommerce/4946 1 4876 0 0
+/sales/invoice_print_pos/7691 1 1405 0 0
+/ecommerce/exchange/5150 1 8282 0 0
+/products/504/edit 5 26515 0 0
+/sales/7695 1 4726 0 0
+/ecommerce/5334 1 4892 0 0
+/sales/7306 1 4744 0 0
+/sales/7697 1 4736 0 0
+/sales/invoice_print_pos/7738 1 1451 0 0
+/sales/invoice_print_pos/7370 1 1435 0 0
+/ecommerce/5183 1 5158 0 0
+/sales/invoice_print_pos/7481 1 1428 0 0
+/ecommerce/paid/5222 1 76 0 0
+/sales/invoice_print_pos/7448 1 1422 0 1
+/ecommerce/5064 1 4919 0 0
+/reports/create_deposit 76 66680 0 0
+/sales/invoice_print_pos/7449 1 1423 0 0
+/products/813/edit 2 10548 0 0
+/sales/invoice_print_pos/7297 1 1425 0 0
+/ecommerce/5439 1 4905 0 0
+/sales/7391 1 4724 0 0
+/sales/invoice_print_pos/7328 1 1420 0 0
+/sales/invoice_print_pos/7405 1 1425 0 0
+/ecommerce/5164 1 4867 0 0
+/ecommerce/4978 1 4895 0 0
+/products/815/edit 3 15868 0 0
+/ecommerce/4898 1 4904 0 0
+/ecommerce/5083 1 4959 0 0
+/ecommerce/paid/4751 1 76 0 0
+/sales/7604 1 4729 0 0
+/sales/7312 1 4770 0 0
+/sales/invoice_print_pos/7629 1 1419 0 0
+/sales/invoice_print_pos/7541 1 1423 0 0
+/sales/invoice_print_pos/7489 1 1450 0 0
+/sales/7723 1 4740 0 0
+/sales/invoice_print_pos/7605 1 1454 0 0
+/sales/7553 1 4721 0 0
+/sales/7320 1 4820 0 0
+/sales/invoice_print_pos/7380 1 1420 0 0
+/stock_transfers/stock_table/848 1 946 0 0
+/ecommerce/5302 1 4886 0 0
+/ecommerce/5310 1 4887 0 0
+/sales/7368 1 4732 0 0
+/sales/7640 1 4728 0 0
+/ecommerce/paid/4702 1 76 0 0
+/ecommerce/5399 1 5009 0 0
+/sales/7672 1 4746 0 0
+/sales/7309 2 9456 0 0
+/ecommerce/paid/4712 1 76 0 0
+/ecommerce/5203 1 4892 0 0
+/stock_transfers/stock_table/863 1 421 0 0
+/sales/7636 1 4799 0 0
+/stock_transfers/stock_table/514 2 1880 0 0
+/ecommerce/5143 1 4901 0 0
+/ecommerce/paid/5094 1 76 0 0
+/ecommerce/paid/4952 1 76 0 0
+/ecommerce/5315 1 4895 0 0
+/ecommerce/paid/4857 1 76 0 0
+/sales/invoice_print_pos/7382 1 1457 0 0
+/ecommerce/5331 1 5034 0 0
+/ecommerce/4882 1 4883 0 0
+/stock_transfers/stock_table/187 1 938 0 0
+/ecommerce/paid/5138 1 76 0 0
+/ecommerce/exchange/5157 1 8274 0 0
+/sales/7390 1 4721 0 0
+/ecommerce/paid/5174 1 76 0 0
+/ecommerce/4897 1 4906 0 0
+/ecommerce/4977 1 4972 0 0
+/ecommerce/paid/4989 1 76 0 0
+/ecommerce/paid/4740 1 76 0 0
+/ecommerce/5322 1 4922 0 0
+/ecommerce/4986 1 4874 0 0
+/ecommerce/paid/5159 1 76 0 0
+/sales/7641 1 4739 0 0
+/ecommerce/paid/4901 1 76 0 0
+/sales/invoice_print_pos/7601 1 1471 0 0
+/index.php/ecommerce/list/filter 2 21228 0 0
+/ecommerce/exchanged_products/product 57 1751578 0 0
+/ecommerce/paid/4911 1 76 0 0
+/sales/7321 1 4738 0 0
+/ecommerce/4955 1 5117 0 0
+/sales/7403 1 4990 0 0
+/sales/invoice_print_pos/7384 1 1483 0 0
+/stock_transfers/stock_table/287 1 942 0 0
+/ecommerce/5161 1 4925 0 0
+/stock_transfers/stock_table/591 1 947 0 0
+/ecommerce/paid/4673 1 76 0 0
+/ecommerce/5272 1 4871 0 0
+/sales/invoice_print_pos/7740 1 1408 0 0
+/stock_transfers/stock_table/769 1 424 0 0
+/sales/7682 1 4731 0 0
+/ecommerce/paid/4916 1 76 0 0
+/ecommerce/5373 1 4910 0 0
+/ecommerce/paid/4906 1 76 0 0
+/sales/7334 1 4737 0 0
+/ecommerce/5413 1 4915 0 0
+/ecommerce/5043 1 4885 0 0
+/sales/exchange/7593 1 8009 0 0
+/sales/7627 1 4792 0 0
+/ecommerce/paid/4663 1 76 0 0
+/sales/7358 1 4741 0 0
+/sales/7625 1 4755 0 0
+/sales/7639 1 4723 0 0
+/products/865/edit 2 10500 0 0
+/sales/invoice_print_pos/7616 1 1414 0 0
+/sales/7347 1 4791 0 0
+/ecommerce/5296 1 4909 0 0
+/sales/7345 1 4820 0 0
+/sales/invoice_print_pos/7524 1 1455 0 0
+/sales/7563 1 4888 0 0
+/sales/invoice_print_pos/7372 1 1435 0 0
+/ecommerce/paid/4782 1 76 0 0
+/sales/invoice_print_pos/7645 1 1467 0 0
+/products/851/edit 4 21082 0 0
+/index.php/ecommerce 1 13738 0 0
+/sales/7367 1 4764 0 0
+/sales/7386 1 4719 0 0
+/sales/7543 1 4742 0 0
+/ecommerce/4913 1 4906 0 0
+/sales/7365 1 4732 0 0
+/sales/invoice_print_pos/7437 1 1415 0 0
+/sales/7293 1 4806 0 0
+/sales/invoice_print_pos/7495 1 1463 0 0
+/ecommerce/paid/4823 1 76 0 0
+/sales/invoice_print_pos/7334 1 1413 0 0
+/sales/7650 1 4744 0 0
+/sales/invoice_print_pos/7453 1 1416 0 0
+/products/128/edit 4 22156 0 0
+/ecommerce/paid/4738 1 76 0 0
+/ecommerce/paid/4798 1 76 0 0
+/ecommerce/5024 1 4890 0 0
+/ecommerce/paid/5140 1 76 0 0
+/sales/invoice_print_pos/7594 1 1426 0 0
+/ecommerce/5353 1 4888 0 0
+/ecommerce/paid/4759 1 76 0 0
+/ecommerce/5252 1 4887 0 0
+/sales/invoice_print_pos/7628 1 1420 0 0
+/ecommerce/4991 1 4886 0 0
+/ecommerce/4871 1 4893 0 0
+/ecommerce/5101 1 4908 0 0
+/products/515/edit 2 11047 0 0
+/products/125/edit 6 32968 0 0
+/ecommerce/paid/4743 1 76 0 0
+/ecommerce/4895 1 4897 0 0
+/ecommerce/4975 1 4882 0 0
+/sales/invoice_print_pos/7652 1 1424 0 0
+/sales/invoice_print_pos/7729 1 1447 0 0
+/ecommerce/paid/4924 1 76 0 0
+/products/513/edit 2 11001 0 0
+/ecommerce/5244 1 4891 0 0
+/sales/7684 1 4725 0 0
+/ecommerce/exchange/5075 1 8231 0 0
+/sales/invoice_print_pos/7527 1 1454 0 0
+/sales/7332 1 4731 0 0
+/ecommerce/4957 1 4882 0 0
+/sales/7661 1 4746 0 0
+/sales/invoice_print_pos/7701 1 1420 0 0
+/ecommerce/exchange/5287 1 15592 0 0
+/sales/7389 1 4720 0 0
+/ecommerce/5281 1 4906 0 0
+/sales/invoice_print_pos/7473 1 1419 0 0
+/sales/7698 1 4756 0 0
+/products/804/edit 2 10052 0 0
+/sales/invoice_print_pos/7558 1 1440 0 0
+/sales/7473 1 4737 0 0
+/ecommerce/5124 1 4938 0 0
+/ecommerce/5317 1 4860 0 0
+/sales/invoice_print_pos/7600 1 1409 0 0
+/products/list/3 3 13723 0 0
+/sales/7660 1 4745 0 0
+/products/842/edit 2 10533 0 0
+/ecommerce/paid/4745 1 76 0 0
+/sales/7348 1 4737 0 0
+/ecommerce/5116 1 4887 0 0
+/ecommerce/paid/4868 1 76 0 0
+/ecommerce/5318 1 4893 0 0
+/sales/invoice_print_pos/7710 1 1424 0 0
+/sales/7355 1 4733 0 0
+/sales/7616 1 4732 0 0
+/ecommerce/paid/4894 1 76 0 0
+/products/271/edit 2 10553 0 0
+/ecommerce/5362 1 4911 0 0
+/sales/7628 1 4729 0 0
+/ecommerce/paid/4834 1 76 0 0
+/sales/7357 1 4807 0 0
+/ecommerce/5021 1 4887 0 0
+/ecommerce/process/5336 1 507 0 0
+/products/195/edit 10 52937 0 0
+/sales/invoice_print_pos/7505 1 1416 0 0
+/ecommerce/paid/5156 1 76 0 0
+/sales/7376 1 4735 0 0
+/ecommerce/paid/4878 1 76 0 0
+/ecommerce/5032 1 4931 0 0
+/ecommerce/4874 1 4871 0 0
+/ecommerce/4994 1 4885 0 0
+/ecommerce/5104 1 4872 0 0
+/ecommerce/exchange/5023 1 8327 0 0
+/ecommerce/4890 1 4859 0 0
+/sales/invoice_print_pos/7452 1 1414 0 0
+/ecommerce/4958 1 4882 0 0
+/products/9/edit 7 38546 0 0
+/ecommerce/5132 1 4899 0 0
+/sales/7651 1 4753 0 0
+/sales/7314 1 4743 0 0
+/sales/7602 1 4736 0 0
+/ecommerce/paid/5151 1 76 0 0
+/ecommerce/paid/4933 1 76 0 0
+/stock_transfers/stock_table/189 1 938 0 0
+/sales/7379 1 4731 0 0
+/ecommerce/5241 1 5161 0 0
+/sales/invoice_print_pos/7659 1 1401 0 0
+/products/193/edit 2 10631 0 0
+/ecommerce/paid/4909 1 76 0 0
+/ecommerce/paid/4825 1 76 0 0
+/ecommerce/5004 1 4895 0 0
+/sales/invoice_print_pos/7566 1 1414 0 0
+/stock_transfers/stock_table/765 1 428 0 0
+/ecommerce/4939 1 4885 0 0
+/ecommerce/paid/4919 1 76 0 0
+/sales/invoice_print_pos/7570 1 1440 0 0
+/sales/7483 1 4795 0 0
+/sales/invoice_print_pos/7621 1 1399 0 0
+/products/605/edit 2 10578 0 0
+/sales/invoice_print_pos/7330 1 1421 0 0
+/ecommerce/5284 1 4878 0 0
+/products/246/edit 1 5279 0 0
+/sales/invoice_print_pos/7686 1 1406 0 0
+/ecommerce/paid/5020 1 76 0 0
+/sales/invoice_print_pos/7301 1 1456 0 0
+/sales/invoice_print_pos/7535 1 1428 0 0
+/ecommerce/5121 1 4892 0 0
+/products/763/edit 2 10578 0 0
+/sales/7619 1 4743 0 0
+/products/237/edit 9 49698 0 0
+/sales/7674 1 4723 0 0
+/ecommerce/5436 1 4894 0 0
+/ecommerce/5323 1 4868 0 0
+/sales/invoice_print_pos/7446 1 1420 0 0
+/sales/invoice_print_pos/7727 1 1396 0 0
+/sales/invoice_print_pos/7664 1 1435 0 0
+/ecommerce/exchange/4829 1 8217 0 0
+/sales/7278 1 4736 0 0
+/ecommerce/paid/5083 1 76 0 0
+/sales/invoice_print_pos/7597 1 1402 0 0
+/ecommerce/paid/5161 1 76 0 0
+/sales/7450 1 4733 0 0
+/sales/invoice_print_pos/7627 1 1433 0 0
+/ecommerce/5215 1 4885 0 0
+/stock_transfers/stock_table/474 1 947 0 0
+/ecommerce/paid/4904 1 76 0 0
+/ecommerce/5231 1 4873 0 0
+/assets/css/font-icons/font-awesome/fonts/fontawesome-webfont.woff 1 81238 0 0
+/sales/invoice_print_pos/7510 1 1442 0 0
+/ecommerce/5142 1 4907 0 0
+/ecommerce/5098 1 4872 0 0
+/sales/7708 1 4746 0 0
+/ecommerce/paid/5171 1 76 0 0
+/sales/7596 1 4730 0 0
+/sales/invoice_print_pos/7432 1 1422 0 0
+/products/659/edit 4 21120 0 0
+/ecommerce/4883 1 4904 0 0
+/sales/7769 1 4739 0 0
+/ecommerce/5400 1 4856 0 0
+/sales/7313 1 4773 0 0
+/sales/invoice_print_pos/7543 1 1421 0 0
+/sales/invoice_print_pos/7333 1 1427 0 0
+/ecommerce/5042 1 4945 0 0
+/ecommerce/5412 1 4892 0 0
+/sales/7710 1 4740 0 0
+/ecommerce/exchange/5273 1 8326 0 0
+/ecommerce/5396 1 4992 0 0
+/products/721/edit 2 10595 0 0
+/ecommerce/5154 1 4893 0 0
+/sales/7766 1 4735 0 0
+/ecommerce/4908 1 4924 0 0
+/ecommerce/4960 1 4925 0 0
+/sales/invoice_print_pos/7595 1 1409 0 0
+/ecommerce/paid/4858 1 76 0 0
+/sales/7484 1 4778 0 0
+/products/531/edit 9 50211 0 0
+/ecommerce/4864 1 4837 0 0
+/sales/invoice_print_pos/7415 1 1429 0 0
+/sales/7461 1 4731 0 0
+/ecommerce/5198 1 4897 0 0
+/stock_transfers/stock_table/65 1 962 0 0
+/ecommerce/paid/5176 1 76 0 0
+/ecommerce/paid/5137 1 76 0 0
+/products/179/edit 2 11106 0 0
+/sales/7599 1 4730 0 0
+/ecommerce/paid/5197 1 76 0 0
+/ecommerce/paid/5067 1 76 0 0
+/sales/7501 1 4726 0 0
+/ecommerce/paid/4839 1 76 0 0
+/products/548/edit 2 10061 0 0
+/sales/7498 1 4786 0 0
+/sales/7552 1 4744 0 0
+/sales/invoice_print_pos/7612 1 1411 0 0
+/sales/7722 1 4730 0 0
+/ecommerce/5273 1 4904 0 0
+/ecommerce/paid/5077 1 76 0 0
+/ecommerce/paid/4692 1 76 0 0
+/ecommerce/paid/4813 1 76 0 0
+/ecommerce/5425 1 4879 0 0
+/sales/invoice_print_pos/7278 1 1441 0 0
+/ecommerce/paid/5096 1 76 0 0
+/sales/7673 1 4738 0 0
+/sales/invoice_print_pos/7315 1 1425 0 0
+/ecommerce/paid/4803 1 76 0 0
+/ecommerce/5372 1 4892 0 0
+/sales/invoice_print_pos/7620 1 1398 0 0
+/ecommerce/4927 1 4865 0 0
+/sales/7544 1 4720 0 0
+/ecommerce/paid/5000 1 76 0 0
+/sales/7294 1 4734 0 0
+/sales/7460 1 4722 0 0
+/products/812/edit 2 10631 0 0
+/ecommerce/5182 4 19416 0 0
+/ecommerce/exchange/4956 1 8279 0 0
+/products/683/edit 2 10643 0 0
+/sales/invoice_print_pos/7305 2 2826 0 0
+/sales/invoice_print_pos/7742 1 1418 0 0
+/ecommerce/5420 1 4881 0 0
+/sales/7428 1 4736 0 0
+/sales/7416 1 4734 0 0
+/products/stock_table/2 4 936 0 0
+/ecommerce/4989 1 4883 0 0
+/sales/7711 1 4733 0 0
+/ecommerce/4928 1 4953 0 0
+/sales/invoice_print_pos/7632 1 1424 0 0
+/sales/invoice_print_pos/7477 1 1409 0 0
+/sales/7529 1 4775 0 0
+/ecommerce/5234 1 4907 0 0
+/sales/7535 1 4737 0 0
+/sales/7759 1 4742 0 0
+/sales/7537 1 4737 0 0
+/ecommerce/4965 1 4880 0 0
+/sales/invoice_print_pos/7337 1 1429 0 0
+/ecommerce/4907 1 4922 0 0
+/ecommerce/paid/4815 1 76 0 0
+/sales/7288 1 4707 0 0
+/ecommerce/5051 1 4901 0 0
+/sales/7500 1 4738 0 0
+/ecommerce/5405 1 4903 0 0
+/ecommerce/paid/4805 1 76 0 0
+/sales/7451 1 4737 0 0
+/sales/invoice_print_pos/7325 1 1462 0 0
+/ecommerce/5299 1 5163 0 0
+/sales/invoice_print_pos/7714 1 1421 0 0
+/sales/7518 1 4737 0 0
+/sales/7756 1 4743 0 0
+/sales/7526 1 4721 0 0
+/ecommerce/exchange/4765 1 8216 0 0
+/sales/7402 1 4977 0 0
+/ecommerce/5303 1 4921 0 0
+/stock_transfers/stock_table/853 1 929 0 0
+/ecommerce/paid/4779 1 76 0 0
+/ecommerce/5097 1 4869 0 0
+/ecommerce/5202 1 4879 0 0
+/sales/7683 1 4761 0 0
+/ecommerce/4861 1 4857 0 0
+/products/790/edit 3 15176 0 0
+/ecommerce/5210 1 4875 0 0
+/ecommerce/paid/4754 1 76 0 0
+/sales/invoice_print_pos/7692 1 1436 0 0
+/stock_transfers/stock_table/852 1 929 0 0
+/ecommerce/5082 1 4911 0 0
+/ecommerce/paid/4880 1 76 0 0
+/products/249/edit 2 10592 0 0
+/sales/7562 1 4778 0 0
+/sales/7777 1 4741 0 0
+/sales/7775 1 4741 0 0
+/sales/7474 1 4743 0 0
+/products/685/edit 6 31697 0 0
+/ecommerce/paid/4769 1 76 0 0
+/sales/7419 1 4777 0 0
+/sales/invoice_print_pos/7578 1 1421 0 0
+/sales/invoice_print_pos/7392 1 1426 0 0
+/sales/invoice_print_pos/7343 1 1420 0 0
+/sales/invoice_print_pos/7443 1 1470 0 0
+/ecommerce/paid/4831 1 76 0 0
+/sales/7292 1 4734 0 0
+/sales/7542 1 4731 0 0
+/sales/invoice_print_pos/7553 1 1427 0 0
+/sales/invoice_print_pos/7672 1 1403 0 0
+/ecommerce/5033 1 4905 0 0
+/ecommerce/paid/4883 1 76 0 0
+/sales/invoice_print_pos/7607 1 1455 0 0
+/sales/7570 1 4733 0 0
+/sales/invoice_print_pos/7639 1 1427 0 0
+/sales/7495 1 4766 0 0
+/reports/stockinventory/2 2 70 0 0
+/ecommerce/paid/4722 1 76 0 0
+/sales/invoice_print_pos/7656 1 1426 0 0
+/products/848/edit 2 10552 0 0
+/sales/7497 1 4783 0 0
+/ecommerce/5218 1 4878 0 0
+/sales/invoice_print_pos/7733 1 1420 0 0
+/sales/invoice_print_pos/7361 1 1428 0 0
+/products/821/edit 2 10601 0 0
+/stock_transfers/stock_table/590 1 944 0 0
+/ecommerce/5262 1 4864 0 0
+/sales/invoice_print_pos/7641 1 1424 0 0
+/sales/invoice_print_pos/7476 1 1488 0 1
+/ecommerce/5171 1 5022 0 0
+/sales/invoice_print_pos/7750 1 1439 0 0
+/products/843/edit 2 10572 0 0
+/sales/invoice_print_pos/7304 1 1432 0 0
+/sales/invoice_print_pos/7759 1 1401 0 0
+/ecommerce/paid/4653 1 76 0 0
+/sales/invoice_print_pos/7615 1 1406 0 0
+/products/158/edit 4 21316 0 0
+/ecommerce/5071 1 4997 0 0
+/sales/invoice_print_pos/7559 1 1453 0 0
+/sales/invoice_print_pos/7509 1 1413 0 0
+/ecommerce/paid/4867 1 76 0 0
+/ecommerce/paid/5202 1 76 0 0
+/sales/7707 1 4844 0 0
+/sales/7705 1 4771 0 0
+/products/562/edit 2 10074 0 0
+/ecommerce/paid/4842 1 76 0 0
+/sales/7404 1 4735 0 0
+/sales/invoice_print_pos/7354 1 1468 0 0
+/stock_transfers/stock_table/855 2 1872 0 0
+/stock_transfers/stock_table/820 1 938 0 0
+/ecommerce/paid/5058 1 76 0 0
+/ecommerce/4967 1 4889 0 0
+/sales/7730 1 4789 0 0
+/ecommerce/paid/4947 1 76 0 0
+/users 15 82029 0 0
+/ecommerce/paid/5179 1 76 0 0
+/sales/7333 1 4719 0 0
+/ecommerce/4905 1 4884 0 0
+/ecommerce/5384 1 5008 0 0
+/ecommerce/5407 1 4909 0 0
+/ecommerce/5195 1 4956 0 0
+/sales/invoice_print_pos/7252 6 8424 0 0
+/ecommerce/paid/5154 1 76 0 0
+/ecommerce/paid/4962 1 76 0 0
+/reports/stockinventory/4 1 35 0 0
+/products/192/edit 2 10618 0 0
+/ecommerce/5133 1 4941 0 0
+/stock_transfers/stock_table/228 3 2844 0 0
+/ecommerce/paid/5003 1 76 0 0
+/sales/invoice_print_pos/7709 1 1411 0 0
+/ecommerce/4920 1 4848 0 0
+/sales/invoice_print_pos/7423 1 1423 0 0
+/ecommerce/paid/5013 1 76 0 0
+/ecommerce/paid/4877 1 76 0 0
+/ecommerce/paid/4836 1 76 0 0
+/ecommerce/paid/4896 1 76 0 0
+/ecommerce/paid/4972 1 76 0 0
+/sales/invoice_print_pos/7371 1 1426 0 0
+/sales/invoice_print_pos/7288 1 1417 0 0
+/sales/7564 1 4723 0 0
+/ecommerce/5428 1 4874 0 0
+/sales/invoice_print_pos/7667 1 1426 0 0
+/sales/7440 1 4727 0 0
+/stock_transfers/stock_table/596 1 943 0 0
+/ecommerce/paid/5099 1 76 0 0
+/stock_transfers/stock_table/163 3 2854 0 0
+/ecommerce/5341 1 4905 0 0
+/sales/invoice_print_pos/7418 1 1425 0 0
+/sales/7581 1 4741 0 0
+/sales/7472 1 4729 0 0
+/ecommerce/5352 1 4864 0 0
+/sales/7436 1 4778 0 0
+/sales/7778 1 4803 0 0
+/products/132/edit 2 11060 0 0
+/sales/7731 1 4733 0 0
+/products/stock_table/1 83 32229 0 2
+/ecommerce/paid/4810 1 76 0 0
+/sales/invoice_print_pos/7636 1 1477 0 0
+/ecommerce/5427 1 4869 0 0
+/sales/invoice_print_pos/7336 1 1419 0 0
+/ecommerce/5253 1 4872 0 0
+/ecommerce/paid/4800 1 76 0 0
+/ecommerce/4925 1 4896 0 0
+/ecommerce/paid/4761 1 76 0 0
+/sales/invoice_print_pos/7764 2 2894 0 0
+/sales/7580 1 4793 0 0
+/reports/historical-products 28 144276 0 2
+/ecommerce/paid/5005 1 76 0 0
+/ecommerce/5190 1 4876 0 0
+/sales/7746 1 4739 0 0
+/ecommerce/4968 1 4918 0 0
+/products/67/edit 4 22230 0 0
+/sales/7441 1 4727 0 0
+/ecommerce/4900 1 4897 0 0
+/ecommerce/5174 1 4921 0 0
+/ecommerce/4912 1 4895 0 0
+/sales/invoice_print_pos/7352 1 1428 0 0
+/sales/7515 1 4721 0 0
+/sales/invoice_print_pos/7528 1 1415 0 0
+/sales/invoice_print_pos/7299 1 1430 0 0
+/ecommerce/paid/4926 1 76 0 0
+/ecommerce/paid/4771 1 76 0 0
+/assets/css/font-icons/glyphicons/glyphicons-halflings-regular.woff2 29 522866 0 1
+/ecommerce/5119 1 4872 0 0
+/ecommerce/5408 1 4905 0 0
+/sales/7517 1 4772 0 0
+/ecommerce/5074 1 4899 0 0
+/sales/7285 1 4705 0 0
+/sales/invoice_print_pos/7634 1 1422 0 0
+/ecommerce/5217 1 4909 0 0
+/sales/7603 1 4737 0 0
+/products/787/edit 2 10107 0 0
+/sales/7749 1 4744 0 0
+/ecommerce/5090 1 4869 0 0
+/sales/7287 1 4698 0 0
+/sales/invoice_print_pos/7552 1 1434 0 0
+/sales/7482 1 4784 0 0
+/sales/7571 1 4739 0 0
+/sales/invoice_print_pos/7626 1 1411 0 0
+/ecommerce/5019 1 4929 0 0
+/ecommerce/5381 1 4931 0 0
+/delivery_types 4 16453 0 0
+/ecommerce/paid/4776 1 76 0 0
+/sales/7538 1 4741 0 0
+/ecommerce/paid/4737 1 76 0 0
+/ecommerce/paid/4921 1 76 0 0
+/sales/7427 1 4727 0 0
+/ecommerce/4936 1 5100 0 0
+/sales/7425 1 4731 0 0
+/sales/7554 1 4729 0 0
+/sales/7439 1 4735 0 0
+/sales/7724 1 4808 0 0
+/ecommerce/exchange/4785 1 8208 0 0
+/ecommerce/process/5306 1 506 0 0
+/sales/invoice_print_pos/7614 1 1457 0 0
+/ecommerce/paid/5080 1 76 0 0
+/sales/invoice_print_pos/7589 1 1427 0 0
+/ecommerce/5344 1 5180 0 0
+/sales/invoice_print_pos/7400 1 1428 0 0
+/sales/invoice_print_pos/7711 1 1437 0 0
+/ecommerce/4857 1 4870 0 0
+/stock_transfers/stock_table/625 2 1901 0 0
+/sales/invoice_print_pos/7610 1 1403 0 0
+/sales/7630 1 4729 0 0
+/dashboards/google_sheet 17 69152 3 0
+/products/268/edit 2 10550 0 0
+/ecommerce/5167 1 4933 0 0
+/sales/invoice_print_pos/7688 1 1486 0 0
+/sales/invoice_print_pos/7317 1 1491 0 0
+/ecommerce/5105 1 4857 0 0
+/ecommerce/process/4847 1 503 0 0
+/sales/7607 1 4806 0 0
+/sales/invoice_print_pos/7762 1 1423 0 0
+/sales/7396 1 4776 0 0
+/ecommerce/5240 1 5161 0 0
+/sales/7605 1 4774 0 0
+/ecommerce/4995 1 4861 0 0
+/ecommerce/4875 1 4870 0 0
+/ecommerce/paid/5090 1 76 0 0
+/sales/invoice_print_pos/7425 1 1435 0 0
+/sales/7283 1 4712 0 0
+/ecommerce/paid/4895 1 76 0 0
+/ecommerce/5120 1 4896 0 0
+/sales/invoice_print_pos/7737 1 1425 0 0
+/products/737/edit 1 5292 0 0
+/ecommerce/paid/4835 1 76 0 0
+/products/527/edit 4 21928 0 0
+/sales/invoice_print_pos/7755 2 2818 0 0
+/ecommerce/4933 1 4895 0 0
+/sales/invoice_print_pos/7459 1 1428 0 0
+/ecommerce/exchange/4908 1 8219 0 0
+/ecommerce/paid/5170 1 76 0 0
+/ecommerce/paid/4787 1 76 0 0
+/sales/7423 1 4731 0 0
+/ecommerce/paid/4744 1 76 0 0
+/sales/invoice_print_pos/7551 1 1410 0 0
+/ecommerce/exchange/4933 1 8235 0 0
+/ecommerce/paid/4640 1 76 0 0
+/sales/invoice_print_pos/7281 1 1414 0 0
+/sales/7352 1 4739 0 0
+/sales/7694 1 4782 0 0
+/products/129/edit 8 44386 0 0
+/ecommerce/5020 1 4863 0 0
+/ecommerce/5285 1 4894 0 0
+/stock_transfers/stock_table/626 2 1867 0 0
+/sales/7301 1 4791 0 0
+/sales/invoice_print_pos/7529 1 1445 0 0
+/ecommerce/paid/4773 1 76 0 0
+/products/117/edit 2 11129 0 0
+/ecommerce/5256 1 4917 0 0
+/products/265/edit 2 10593 0 0
+/ecommerce/5337 1 4898 0 0
+/sales/invoice_print_pos/7460 1 1426 0 0
+/sales/invoice_print_pos/7335 1 1420 0 0
+/ecommerce/5067 1 4873 0 0
+/ecommerce/paid/4824 1 76 0 0
+/ecommerce/4891 1 4864 0 0
+/sales/7513 1 4787 0 0
+/ecommerce/5269 1 4977 0 0
+/sales/7399 1 4731 0 0
+/ecommerce/5005 1 4900 0 0
+/sales/invoice_print_pos/7499 1 1411 0 0
+/ecommerce/paid/4763 1 76 0 0
+/sales/7688 1 4804 0 0
+/products/769/edit 2 10128 0 0
+/sales/invoice_print_pos/7631 2 2800 0 0
+/ecommerce/paid/5001 1 76 0 0
+/sales/invoice_print_pos/7533 1 1450 0 0
+/ecommerce/5000 1 5153 0 0
+/ecommerce/paid/4978 1 76 0 0
+/ecommerce/paid/4886 1 76 0 0
+/ecommerce/5068 1 4848 0 0
+/sales/7337 1 4722 0 0
+/sales/7329 1 4739 0 0
+/sales/7335 1 4731 0 0
+/sales/invoice_print_pos/7705 1 1426 0 0
+/sales/invoice_print_pos/7666 2 2806 0 0
+/stock_transfers/stock_table/812 2 1898 0 0
+/sales/invoice_print_pos/7633 1 1420 0 0
+/sales/invoice_print_pos/7687 1 1404 0 0
+/ecommerce/paid/5011 1 76 0 0
+/sales/7300 1 4711 0 0
+/ecommerce/paid/5089 1 76 0 0
+/sales/7703 1 4728 0 0
+/ecommerce/paid/4775 1 76 0 0
+/sales/7649 1 4735 0 0
+/stock_transfers/stock_table/858 1 929 0 0
+/products/199/edit 2 11154 0 0
+/ecommerce/paid/4968 1 76 0 0
+/ecommerce/5136 1 4898 0 0
+/sales/7344 1 4730 0 0
+/ecommerce/5280 1 4930 0 0
+/ecommerce/paid/5208 1 76 0 0
+/products/218/edit 2 11038 0 0
+/ecommerce/exchange/5377 1 8338 0 0
+/uploads/product_images/thumbs/Yippy_-_Black_2_400x_5d2c796faa62a.webp 10 42890 0 0
+/ecommerce/5025 1 4874 0 0
+/stock_transfers/stock_table/525 1 961 0 0
+/sales/7624 1 4740 0 0
+/ecommerce/paid/4934 1 76 0 0
+/ecommerce/paid/4994 1 76 0 0
+/sales/invoice_print_pos/7677 1 1459 0 0
+/ecommerce/5338 1 4918 0 0
+/password/reset 3 3215 0 0
+/ecommerce/paid/5107 1 76 0 0
+/sales/invoice_print_pos/7282 1 1422 0 0
+/sales/invoice_print_pos/7717 1 1419 0 0
+/ecommerce/5036 1 4946 0 0
+/products/597/edit 2 10596 0 0
+/ecommerce/paid/5117 1 76 0 0
+/reports/historical-products/10 1 36670 0 0
+/sales/7493 1 4733 0 0
+/sales/invoice_print_pos/7751 1 1438 0 1
+/sales/7678 1 4875 0 0
+/ecommerce/5359 1 4880 0 0
+/sales/invoice_print_pos/7617 1 1442 0 0
+/sales/7631 2 9441 0 0
+/ecommerce/5125 1 4882 0 0
+/stock_transfers/stock_table/115 2 1901 0 0
+/ecommerce/4870 1 4901 0 0
+/sales/7326 1 4775 0 0
+/sales/7318 1 4732 0 0
+/ecommerce/paid/4833 1 76 0 0
+/ecommerce/4858 1 4999 0 0
+/ecommerce/paid/4893 1 76 0 0
+/sales/invoice_print_pos/7428 1 1414 0 0
+/ecommerce/5245 1 4915 0 0
+/ecommerce/paid/4881 1 76 0 0
+/ecommerce/5112 1 4882 0 0
+/sales/invoice_print_pos/7351 1 1491 0 0
+/ecommerce/4974 1 4920 0 0
+/ecommerce/paid/4728 1 76 0 0
+/products/167/edit 3 16060 0 0
+/products/215/edit 4 22282 0 0
+/ecommerce/4894 1 4946 0 0
+/ecommerce/5100 1 4870 0 0
+/ecommerce/5168 1 4881 0 0
+/products/524/edit 2 10986 0 0
+/sales/7646 1 4777 0 0
+/ecommerce/paid/4819 1 76 0 0
+/stock_transfers/stock_table/829 1 938 0 0
+/sales/invoice_print_pos/7674 1 1425 0 0
+/ecommerce/4919 1 4916 0 0
+/ecommerce/exchange/5000 1 43952 0 0
+/ecommerce/5366 1 4882 0 0
+/ecommerce/paid/4925 1 76 0 0
+/ecommerce/paid/4809 1 76 0 0
+/ecommerce/5247 1 4896 0 0
+/ecommerce/5306 1 5092 0 0
+/products/676/edit 1 5227 0 0
+/ecommerce/paid/4830 1 76 0 0
+/sales/7685 1 4736 0 0
+/stock_transfers/stock_table/526 2 1892 0 0
+/sales/7666 1 4749 0 0
+/sales/7687 1 4738 0 0
+/sales/invoice_print_pos/7515 1 1428 0 0
+/sales/invoice_print_pos/7433 1 1419 0 0
+/ecommerce/5419 1 4880 0 0
+/stock_transfers/stock_table/851 1 929 0 0
+/ecommerce/5049 1 4884 0 0
+/ecommerce/5160 1 4887 0 0
+/ecommerce/5108 1 4887 0 0
+/sales/7610 4 18933 0 0
+/ecommerce/paid/5175 1 76 0 0
+/customers/create 2 8715 0 0
+/sales/invoice_print_pos/7404 1 1425 0 0
+/sales/invoice_print_pos/7699 1 1472 0 0
+/ecommerce/4954 1 5160 0 0
+/reports/sales/1 19 99718 1 1
+/sales/invoice_print_pos/7511 1 1442 0 0
+/ecommerce/exchange/5199 1 8321 0 0
+/ecommerce/4998 1 4971 0 0
+/sales/7370 1 4766 0 0
+/ecommerce/exchange/4961 1 8223 0 0
+/sales/7773 1 4738 0 0
+/stock_transfers/stock_table/811 3 2859 0 0
+/sales/7342 1 4731 0 0
+/assets/css/font-icons/font-awesome/fonts/fontawesome-webfont.woff2 32 2062908 0 0
+/ecommerce/5379 1 4866 0 0
+/ecommerce/5127 1 4896 0 0
+/ecommerce/5314 1 4909 0 0
+/ecommerce/paid/5165 1 76 0 0
+/ecommerce/paid/5095 1 76 0 0
+/sales/7622 1 4737 0 0
+/products/819/edit 2 10534 0 0
+/ecommerce/paid/4707 1 76 0 0
+/ecommerce/5330 1 5136 0 0
+/products/628/edit 2 10591 0 0
+/ecommerce/paid/4717 1 76 0 0
+/ecommerce/5288 1 4886 0 0
+/sales/invoice_print_pos/7520 1 1422 0 0
+/sales/7381 1 4735 0 0
+/ecommerce/5027 1 4899 0 0
+/ecommerce/exchange/5104 1 8228 0 0
+/sales/invoice_print_pos/7778 1 1457 0 0
+/sales/7364 1 4772 0 0
+/products/827/edit 2 10523 0 0
+/products/633/edit 2 10570 0 0
+/sales/7608 1 4726 0 0
+/products/391/edit 3 15864 0 0
+/ecommerce/4942 1 4904 0 0
+/sales/7669 1 4754 0 0
+/ecommerce/paid/5128 1 76 0 0
+/sales/invoice_print_pos/7707 1 1510 0 0
+/ecommerce/5008 1 4893 0 0
+/sales/7533 1 4779 0 0
+/ecommerce/5149 1 5153 0 0
+/products/834/edit 2 10548 0 0
+/ecommerce/5065 1 4905 0 0
+/ecommerce/5393 1 4869 0 0
+/products/693/edit 2 10602 0 0
+/sales/7380 1 4730 0 0
+/ecommerce/5209 1 4875 0 0
+/ecommerce/5292 1 5245 0 0
+/sales/7317 1 4806 0 0
+/ecommerce/paid/5241 1 76 0 0
+/ecommerce/paid/4664 1 76 0 0
+/ecommerce/paid/4811 1 76 0 0
+/sales/invoice_print_pos/7438 1 1420 0 0
+/ecommerce/4951 1 5098 0 0
+/products/172/edit 2 11190 0 0
+/ecommerce/paid/4760 1 76 0 0
+/sales/invoice_print_pos/7720 1 1425 0 0
+/ecommerce/paid/5086 1 76 0 0
+/ecommerce/5007 1 4882 0 0
+/sales/7315 1 4724 0 0
+/sales/7656 1 4784 0 0
+/sales/invoice_print_pos/7324 1 1459 0 0
+/ecommerce/5276 1 4892 0 0
+/sales/invoice_print_pos/7618 1 1479 0 0
+/sales/7677 1 4785 0 0
+/ecommerce/paid/5048 1 76 0 0
+/sales/7675 1 4737 0 0
+/ecommerce/5287 1 5006 0 0
+/sales/invoice_print_pos/7484 1 1443 0 0
+/ecommerce/paid/4659 1 76 0 0
+/ecommerce/paid/4770 1 76 0 0
+/ecommerce/5028 1 4963 0 1
+/ecommerce/paid/5144 1 76 0 0
+/sales/7193 1 4722 0 0
+/ecommerce/5089 1 4897 0 0
+/ecommerce/5311 1 4907 0 0
+/ecommerce/paid/4957 1 76 0 0
+/ecommerce/paid/4674 1 76 0 0
+/ecommerce/5335 1 5149 0 0
+/products/250/edit 5 26558 0 0
+/sales/7354 1 4835 0 0
+/sales/invoice_print_pos/7467 2 2822 0 0
+/sales/7692 1 4794 0 0
+/sales/invoice_print_pos/7668 1 1419 0 0
+/sales/invoice_print_pos/7752 1 1404 0 0
+/sales/7611 1 4818 0 0
+/ecommerce/5433 1 4888 0 0
+/ecommerce/5326 1 4888 0 0
+/ecommerce/5189 1 4905 0 0
+/ecommerce/paid/5173 1 76 0 0
+/ecommerce/5128 1 4884 0 0
+/ecommerce/paid/5009 1 76 0 0
+/ecommerce/exchange/4999 1 8312 0 0
+/ecommerce/5248 1 4894 0 0
+/ecommerce/exchange/5106 1 15570 0 0
+/stock_transfers/stock_table/831 2 1892 0 0
+/stock_transfers/stock_table/473 1 940 0 0
+/ecommerce/5165 1 4943 0 0
+/ecommerce/paid/4806 1 76 0 0
+/sales/invoice_print_pos/7680 1 1423 0 0
+/ecommerce/paid/5081 1 76 0 0
+/sales/7338 1 4771 0 0
+/ecommerce/4886 1 4882 0 0
+/sales/7659 1 4744 0 0
+/ecommerce/5107 1 4944 0 0
+/ecommerce/4997 1 4930 0 0
+/ecommerce/paid/4816 1 76 0 0
+/sales/invoice_print_pos/7723 1 1419 0 0
+/ecommerce/paid/5093 1 76 0 0
+/ecommerce/paid/5033 1 76 0 0
+/sales/7371 1 4724 0 0
+/sales/invoice_print_pos/7526 1 1427 0 0
+/stock_transfers/stock_table/856 1 929 0 0
+/ecommerce/5422 1 4901 0 0
+/products/423/edit 2 10614 0 0
+/sales/invoice_print_pos/7640 1 1410 0 0
+/sales/invoice_print_pos/7424 1 1422 0 0
+/ecommerce/5375 1 4882 0 0
+/ecommerce/5180 1 5155 0 0
+/sales/invoice_print_pos/7575 1 1531 0 0
+/sales/7322 1 4721 0 0
+/products/756/edit 2 10028 0 0
+/sales/7670 1 4738 0 0
+/customers 5 1010690 0 0
+/ecommerce/5236 1 5211 0 0
+/sales/invoice_print_pos/7555 1 1424 0 0
+/ecommerce/5357 1 5012 0 0
+/sales/invoice_print_pos/7565 1 1523 0 0
+/sales/7642 1 4766 0 0
+/ecommerce/exchange/4835 1 8216 0 0
+/sales/invoice_print_pos/7579 1 1530 0 0
+/ecommerce/paid/5041 1 76 0 0
+/sales/7713 1 4730 0 0
+/sales/7310 1 4727 0 0
+/ecommerce/paid/4808 1 76 0 0
+/sales/invoice_print_pos/7590 1 1526 0 0
+/ecommerce/paid/4818 1 76 0 0
+/ecommerce/exchange/5185 1 8314 0 0
+/ecommerce/5431 1 4967 0 0
+/ecommerce/paid/4729 1 76 0 0
+/sales/7385 1 4733 0 0
+/stock_transfers/stock_table/849 1 946 0 0
+/sales/7366 1 4785 0 0
+/ecommerce/5045 1 4910 0 0
+/ecommerce/5415 1 4944 0 0
+/ecommerce/4917 1 5163 0 0
+/sales/7387 1 4736 0 0
+/sales/invoice_print_pos/7367 1 1458 0 0
+/ecommerce/paid/4691 1 76 0 0
+/ecommerce/5313 1 4878 0 0
+/ecommerce/paid/5088 1 76 0 0
+/sales/7308 1 4742 0 0
+/ecommerce/paid/4636 1 76 0 0
+/products/839/edit 3 15838 0 0
+/ecommerce/5200 1 4945 0 0
+/ecommerce/5268 1 4901 0 0
+/sales/invoice_print_pos/7475 1 1411 0 0
+/ecommerce/paid/4954 1 76 0 0
+/ecommerce/paid/5162 1 76 0 0
+/ecommerce/paid/5184 1 76 0 0
+/products/829/edit 4 21135 0 0
+/ecommerce/paid/4979 1 76 0 0
+/sales/7369 1 4738 0 0
+/ecommerce/5145 1 4896 0 0
+/sales/7681 1 4720 0 0
+/ecommerce/5080 1 4888 0 0
+/categories 1 4432 0 0
+/ecommerce/paid/5219 1 76 0 0
+/ecommerce/5225 1 4927 0 0
+/stock_transfers/stock_table/857 1 929 0 0
+/sales/invoice_print_pos/7327 1 1443 0 0
+/products/476/edit 2 10564 0 0
+/ecommerce/paid/5209 1 76 0 0
+/ecommerce/4953 1 5225 0 0
+/sales/7664 1 4794 0 0
+/products/613/edit 2 10573 0 0
+/ecommerce/paid/5046 1 76 0 0
+/ecommerce/paid/5233 1 76 0 0
+/sales/invoice_print_pos/7548 1 1431 0 0
+/ecommerce/paid/4969 1 76 0 0
+/sales/invoice_print_pos/7658 1 1417 0 0
+/sales/invoice_print_pos/7507 1 1450 0 0
+/ecommerce/paid/5172 1 76 0 0
+/ecommerce/paid/4667 1 76 0 0
+/sales/7453 1 4734 0 0
+/ecommerce/5391 1 4923 0 0
+/ecommerce/5056 1 4896 0 0
+/products/814/edit 3 15891 0 0
+/sales/invoice_print_pos/7651 1 1420 0 0
+/products/5/edit 4 21193 0 0
+/sales/7377 1 4741 0 0
+/ecommerce/5220 1 4879 0 0
+/ecommerce/5339 1 5145 0 0
+/sales/7375 1 4739 0 0
+/ecommerce/5085 1 4971 0 0
+/ecommerce/5140 1 4899 0 0
+/sales/7617 1 4772 0 0
+/ecommerce/process/5182 1 505 0 0
+/ecommerce/5069 1 4890 0 0
+/ecommerce/paid/4600 1 76 0 0
+/sales/invoice_print_pos/7442 1 1449 0 0
+/ecommerce/paid/4714 1 76 0 0
+/sales/invoice_print_pos/7585 1 1435 0 0
+/ecommerce/5205 1 4887 0 0
+/ecommerce/paid/4704 1 76 0 0
+/sales/7615 1 4739 0 0
+/sales/7356 1 4761 0 0
+/products/180/edit 3 16576 0 0
+/ecommerce/5267 1 4932 0 0
+/sales/invoice_print_pos/7340 1 1432 0 0
+/ecommerce/paid/5126 1 76 0 0
+/sales/invoice_print_pos/7412 1 1531 0 0
+/sales/7680 1 4743 0 0
+/ecommerce/4859 1 4846 0 0
+/sales/invoice_print_pos/7587 1 1414 0 0
+/sales/7638 1 4741 0 0
+/sales/7359 1 4732 0 0
+/products/663/edit 2 10555 0 0
+/ecommerce/5169 1 4848 0 0
+/sales/invoice_print_pos/7554 1 1432 0 0
+/ecommerce/5410 1 4866 0 0
+/ecommerce/5040 1 4872 0 0
+/sales/invoice_print_pos/7296 1 1419 0 0
+/ecommerce/paid/4855 1 76 0 0
+/ecommerce/5402 1 4890 0 0
+/sales/7671 1 4732 0 0
+/sales/invoice_print_pos/7390 1 1425 0 0
+/ecommerce/paid/5121 1 76 0 0
+/sales/invoice_print_pos/7776 1 1400 0 0
+/ecommerce/4962 1 4886 0 0
+/sales/7503 1 4763 0 0
+/sales/invoice_print_pos/7679 1 1416 0 0
+/ecommerce/4918 1 5150 0 0
+/sales/7463 1 4730 0 0
+/sales/invoice_print_pos/7647 1 1399 0 0
+/ecommerce/5156 1 4903 0 0
+/sales/invoice_print_pos/7746 1 1443 0 0
+/sales/invoice_print_pos/7704 1 1430 0 0
+/ecommerce/4866 2 9553 0 0
+/sales/invoice_print_pos/7556 1 1465 0 0
+/reports/sales/3 11 56084 0 0
+/ecommerce/5358 1 4884 0 0
+/sales/7654 1 4726 0 0
+/sales/7392 1 4724 0 0
+/ecommerce/5370 1 4894 0 0
+/ecommerce/5185 1 4911 0 0
+/ecommerce/5394 1 4916 0 0
+/sales/7311 1 4724 0 0
+/products/572/edit 2 10101 0 0
+/ecommerce/paid/5211 1 76 0 0
+/ecommerce/paid/4841 1 76 0 0
+/sales/invoice_print_pos/7546 1 1424 0 0
+/ecommerce/paid/5201 1 76 0 0
+/ecommerce/5378 1 4987 0 0
+/sales/7443 1 4815 0 0
+/index.php 19 79838 0 0
+/ecommerce/5187 1 5127 0 0
+/ecommerce/paid/4961 1 76 0 0
+/sales/invoice_print_pos/7311 1 1428 0 0
+/sales/invoice_print_pos/7722 1 1410 0 0
+/ecommerce/5176 1 4879 0 0
+/ecommerce/exchange/5010 1 15387 0 0
+/expenses 77 385276 5 0
+/ecommerce/4910 1 4889 0 0
+/assets/css/font-icons/entypo/font/entypo.ttf 2 80672 0 0
+/ecommerce/4902 1 4881 0 0
+/sales/invoice_print_pos/7728 1 1400 0 0
+/sales/7307 1 4815 0 0
+/ecommerce/paid/5114 1 76 0 0
+/sales/invoice_print_pos/7410 1 1453 0 0
+/sales/7696 1 4728 0 0
+/ecommerce/5192 1 4890 0 0
+/sales/7305 2 9445 0 0
+/products/539/edit 2 10597 0 0
+/ecommerce/paid/5104 1 76 0 0
+/sales/invoice_print_pos/7758 1 1417 0 0
+/sales/invoice_print_pos/7739 1 1419 0 0
+/sales/7330 1 4733 0 0
+/ecommerce/5109 1 4885 0 0
+/ecommerce/5418 1 4913 0 0
+/ecommerce/paid/5018 1 76 0 0
+/ecommerce/exchange/5118 1 22803 0 0
+/sales/7733 1 4729 0 0
+/sales/invoice_print_pos/7364 1 1442 0 0
+/ecommerce/paid/4726 1 76 0 0
+/ecommerce/4999 1 4989 0 0
+/ecommerce/paid/4971 1 76 0 0
+/products/517/edit 2 10996 0 0
+/products/127/edit 4 22143 0 0
+/ecommerce/5092 1 4848 0 0
+/sales/7699 1 4797 0 0
+/ecommerce/paid/4603 1 76 0 0
+/ecommerce/paid/4563 1 76 0 0
+/ecommerce/paid/4832 1 76 0 0
+/ecommerce/5346 1 5154 0 0
+/ecommerce/5207 1 4943 0 0
+/sales/7388 1 4777 0 0
+/reports/stockinventory/1 8 204769 0 0
+/ecommerce/paid/4888 1 76 0 0
+/ecommerce/paid/4937 1 76 0 0
+/ecommerce/5265 1 4885 0 0
+/ecommerce/paid/4721 1 76 0 0
+/ecommerce/4934 1 4884 0 0
+/sales/invoice_print_pos/7649 1 1401 0 0
+/ecommerce/5148 2 9973 0 0
+/ecommerce/5009 1 4883 0 0
+/ecommerce/paid/4658 1 76 0 0
+/sales/invoice_print_pos/7638 1 1421 0 0
+/sales/7573 1 4793 0 0
+/ecommerce/5289 1 5295 0 0
+/ecommerce/exchange/4859 1 8212 0 0
+/sales/invoice_print_pos/7451 1 1420 0 0
+/sales/7652 1 4756 0 0
+/ecommerce/5076 1 4870 0 0
+/sales/7394 1 4788 0 0
+/products/194/edit 11 58245 0 0
+/ecommerce/exchange/5022 1 8232 0 0
+/ecommerce/5087 1 4882 0 0
+/ecommerce/paid/4966 1 76 0 0
+/sales/invoice_print_pos/7611 1 1462 0 0
+/sales/7601 1 4810 0 0
+/ecommerce/5227 1 4877 0 0
+/sales/invoice_print_pos/7671 1 1410 0 0
+/sales/invoice_print_pos/7441 1 1421 0 0
+/products/223/edit 2 10602 0 0
+/sales/7324 1 4783 0 0
+/ecommerce/paid/4827 1 76 0 0
+/products/233/edit 11 58444 0 0
+/ecommerce/exchange/4827 1 22526 0 0
+/ecommerce/paid/4922 1 76 0 0
+/ecommerce/4973 1 4900 0 0
+/products/241/edit 2 10637 0 0
+/ecommerce/4893 1 4913 0 0
+/sales/invoice_print_pos/7599 1 1419 0 0
+/ecommerce/5029 1 4875 0 0
+/sales/invoice_print_pos/7773 1 1402 0 0
+/products/124/edit 4 22019 0 0
+/sales/invoice_print_pos/7470 1 1417 0 0
+/ecommerce/5088 1 4888 0 0
+/sales/7644 1 4751 0 0
+/sales/7600 1 4747 0 0
+/uploads/product_images/thumbs/Ame_-_Rose_Gold_1_600x_5d2b29ed7c418.webp 63 242235 1 3
+/products/805/edit 2 10056 0 0
+/ecommerce/5260 1 4882 0 0
+/ecommerce/5208 1 4884 0 0
+/products/228/edit 2 10577 0 0
+/sales/7349 1 4790 0 0
+/sales/invoice_print_pos/7512 1 1411 0 0
+/stock_transfers/stock_table/241 4 3824 0 0
+/ecommerce/paid/5129 1 76 0 0
+/sales/7637 1 4735 0 0
+/sales/7635 1 4731 0 0
+/sales/7629 1 4740 0 0
+/uploads/product_images/thumbs/Ame_-_Black_1_600x_5d2b2964e5228.webp 57 206511 2 5
+/sales/invoice_print_pos/7540 1 1438 0 0
+/ecommerce/5147 1 4886 0 0
+/ecommerce/5249 1 4989 0 0
+/sales/invoice_print_pos/7483 1 1457 0 0
+/sales/7346 1 4740 0 0
+/sales/7583 1 4777 0 0
+/ecommerce/exchange/4918 1 8212 0 0
+/ecommerce/exchange/4521 1 22675 0 0
+/ecommerce/5417 1 4946 0 0
+/sales/7626 1 4728 0 0
+/sales/invoice_print_pos/7394 1 1452 0 0
+/sales/7618 1 4794 0 0
+/products/803/edit 2 10049 0 0
+/ecommerce/paid/4762 1 76 0 0
+/stock_transfers/stock_table/859 5 4706 0 0
+/ecommerce/paid/4784 1 76 0 0
+/ecommerce/4931 1 4917 0 0
+/ecommerce/4915 1 5194 0 0
+/sales/7378 1 4716 0 0
+/sales/invoice_print/7609 1 1125 0 0
+/products/714/edit 2 10557 0 0
+/ecommerce/5386 1 4895 0 0
+/ecommerce/4922 1 4890 0 0
+/products/514/edit 3 16493 0 0
+/sales/invoice_print_pos/7702 1 1425 0 0
+/sales/7662 1 4732 0 0
+/sales/invoice_print_pos/7583 1 1472 0 0
+/sales/invoice_print_pos/7332 1 1435 0 0
+/sales/7331 1 4736 0 0
+/ecommerce/5377 1 4900 0 0
+/ecommerce/5355 1 4891 0 0
+/users/13/edit 3 14295 0 0
+/ecommerce/5188 1 5124 0 0
+/stock_transfers/stock_table/824 1 945 0 0
+/ecommerce/5129 1 4877 0 0
+/products/808/edit 2 10640 0 0
+/sales/invoice_print_pos/7503 1 1460 0 0
+/ecommerce/exchange/4926 1 8221 0 0
+/products/592/edit 6 31675 0 0
+/sales/invoice_print_pos/7765 1 1411 0 0
+/stock_transfers/stock_table/252 1 943 0 0
+/ecommerce/5297 1 5133 0 0
+/sales/7510 1 4772 0 0
+/users/create 1 4693 0 0
+/sales/invoice_print_pos/7577 1 1420 0 0
+/ecommerce/5010 1 4955 0 0
+/ecommerce/5440 1 4876 0 0
+/sales/invoice_print_pos/7501 1 1432 0 0
+/ecommerce/process/4848 1 503 0 0
+/products/285/edit 2 10593 0 0
+/sales/7587 1 4735 0 0
+/ecommerce/5099 1 4905 0 0
+/products/473/edit 4 21147 0 0
+/ecommerce/paid/5040 1 76 0 0
+/ecommerce/paid/4485 1 76 0 0
+/sales/7566 1 4734 0 0
+/sales/7585 1 4725 0 0
+/ecommerce/4948 1 4905 0 0
+/ecommerce/paid/4975 1 76 0 0
+/sales/7522 1 4742 0 0
+/sales/7752 1 4742 0 0
+/sales/7406 1 4774 0 0
+/ecommerce/paid/4768 1 76 0 0
+/ecommerce/paid/4845 1 76 0 0
+/ecommerce/5383 1 4931 0 0
+/sales/7701 1 4729 0 0
+/products/162/edit 2 10626 0 0
+/ecommerce/paid/4734 1 76 0 0
+/ecommerce/paid/4794 1 76 0 0
+/ecommerce/paid/4965 1 76 0 0
+/sales/invoice_print_pos/7732 1 1399 0 0
+/products/478/edit 7 38568 0 0
+/sales/invoice_print_pos/7517 1 1442 0 0
+/sales/invoice_print_pos/7388 1 1454 0 0
+/ecommerce/paid/4690 1 76 0 0
+/products/811/edit 2 10576 0 0
+/ecommerce/5282 1 4925 0 0
+/sales/7468 1 4778 0 0
+/sales/invoice_print_pos/7488 1 1419 0 0
+/sales/invoice_print_pos/7745 1 1429 0 0
+/products/288/edit 2 11080 0 0
+/sales/invoice_print_pos/7429 1 1426 0 0
+/sales/invoice_print_pos/7569 1 1429 0 0
+/sales/invoice_print_pos/7427 1 1421 0 0
+/ecommerce/5364 1 4930 0 0
+/sales/7420 1 4828 0 0
+/sales/invoice_print_pos/7378 1 1424 0 0
+/ecommerce/4987 1 4902 0 0
+/sales/invoice_print_pos/7719 1 1419 0 0
+/products/810/edit 2 10654 0 0
+/ecommerce/4976 1 4843 0 0
+/sales/invoice_print_pos/7321 1 1430 0 0
+/ecommerce/4896 1 4900 0 0
+/ecommerce/5102 1 4886 0 0
+/ecommerce/paid/4928 1 76 0 0
+/sales/7633 1 4729 0 0
+/sales/invoice_print_pos/7342 1 1423 0 0
+/products/475/edit 6 33041 0 0
+/ecommerce/5251 1 4921 0 0
+/ecommerce/4872 1 4902 0 0
+/ecommerce/4992 1 4888 0 0
+/products/447/edit 2 10614 0 0
+/sales/invoice_print_pos/7650 1 1411 0 0
+/sales/7569 1 4740 0 0
+/ecommerce/4909 1 4916 0 0
+/sales/7491 1 4779 0 0
+/ecommerce/paid/4725 1 76 0 0
+/ecommerce/5034 1 4887 0 0
+/sales/7280 1 4708 0 0
+/sales/invoice_print_pos/7345 1 1477 0 0
+/sales/invoice_print_pos/7753 1 1440 0 0
+/sales/7412 1 4864 0 0
+/ecommerce/5199 1 4871 0 0
+/sales/7508 1 4732 0 0
+/sales/7726 1 4741 0 0
+/sales/invoice_print_pos/7530 1 1429 0 0
+/sales/7556 1 4801 0 0
+/ecommerce/paid/4874 1 76 0 0
+/sales/7718 1 4740 0 0
+/stock_transfers/stock_table/864 1 421 0 0
+/sales/invoice_print_pos/7586 1 1464 0 0
+/products/861/edit 2 10001 0 0
+/sales/invoice_print_pos/7255 1 1401 0 0
+/ecommerce/paid/4859 1 76 0 0
+/sales/7421 1 4730 0 0
+/sales/invoice_print_pos/7581 1 1431 0 0
+/products/496/edit 2 10541 0 0
+/reports/sales/2 11 56714 0 0
+/variants 2 9106 0 0
+/ecommerce/5115 1 4872 0 0
+/sales/invoice_print_pos/7619 1 1399 0 0
+/ecommerce/5131 1 4896 0 0
+/sales/7281 1 4703 0 0
+/ecommerce/paid/4882 1 76 0 0
+/ecommerce/paid/4864 1 76 0 0
+/sales/7490 1 4739 0 0
+/sales/invoice_print_pos/7532 1 1428 0 0
+/ecommerce/5122 1 4932 0 0
+/ecommerce/4988 1 4883 0 0
+/ecommerce/paid/4723 1 76 0 0
+/sales/invoice_print_pos/7314 1 1422 0 0
+/ecommerce/paid/5157 1 76 0 0
+/sales/7575 1 4892 0 0
+/ecommerce/paid/4689 1 76 0 0
+/ecommerce/paid/4898 1 76 0 0
+/sales/7762 1 4721 0 0
+/ecommerce/paid/4838 1 76 0 0
+/sales/7577 1 4730 0 0
+/ecommerce/exchange/5229 1 15571 0 0
+/ecommerce/5073 1 4961 0 0
+/ecommerce/4929 1 4916 0 0
+/sales/invoice_print_pos/7346 1 1441 0 0
+/stock_transfers/stock_table/830 1 937 0 0
+/products/28/edit 2 10561 0 0
+/sales/invoice_print_pos/7402 1 1409 0 0
+/ecommerce/paid/5012 1 76 0 0
+/sales/7447 1 4725 0 0
+/ecommerce/5022 1 4876 0 0
+/ecommerce/paid/5002 1 76 0 0
+/sales/7744 1 4734 0 0
+/sales/7445 1 4790 0 0
+/products/789/edit 2 10109 0 0
+/sales/invoice_print_pos/7401 1 1418 0 0
+/reports/stockinventory/3 6 151122 0 0
+/ecommerce/paid/5120 1 76 0 0
+/sales/7511 1 4775 0 0
+/sales/invoice_print_pos/7698 1 1423 0 0
+/sales/invoice_print_pos/7347 1 1455 0 0
+/ecommerce/paid/4973 1 76 0 0
+/sales/7592 1 4734 0 0
+/sales/7458 1 4737 0 0
+/products/506/edit 2 10600 0 0
+/sales/invoice_print_pos/7350 1 1420 0 0
+/ecommerce/5298 1 4915 0 0
+/products/732/edit 2 10552 0 0
+/ecommerce/paid/5213 1 76 0 0
+/sales/7737 1 4738 0 0
+/sales/7559 1 4746 0 0
+/sales/7434 1 4741 0 0
+/ecommerce/5254 1 4879 0 0
+/sales/7735 1 4735 0 0
+/sales/7729 1 4768 0 0
+/ecommerce/5015 1 4879 0 0
+/sales/invoice_print_pos/7366 1 1478 0 0
+/sales/7700 1 4734 0 0
+/ecommerce/paid/4963 1 76 0 0
+/sales/invoice_print_pos/7743 1 1452 0 0
+/ecommerce/5031 1 4918 0 0
+/sales/7303 1 4783 0 0
+/ecommerce/4947 1 4874 0 0
+/sales/invoice_print_pos/7695 1 1431 0 0
+/ecommerce/paid/4840 1 76 0 0
+/sales/7505 1 4737 0 0
+/ecommerce/5219 1 4885 0 0
+/expenses/create 25 16049 0 0
+/stock_transfers/stock_table/627 2 1889 0 0
+/sales/7507 1 4781 0 0
+/products/853/edit 2 10538 0 0
+/sales/invoice_print_pos/7338 1 1464 0 0
+/ecommerce/paid/5200 1 76 0 0
+/ecommerce/5274 1 4915 0 0
+/sales/invoice_print_pos/7355 1 1413 0 0
+/ecommerce/paid/4960 1 76 0 0
+/products/296/edit 3 15979 0 1
+/ecommerce/5017 1 4880 0 0
+/sales/invoice_print_pos/7422 1 1429 0 0
+/ecommerce/4945 1 4873 0 0
+/ecommerce/paid/4695 1 76 0 0
+/sales/7530 1 4746 0 0
+/ecommerce/5290 1 4899 0 0
+/sales/invoice_print_pos/7648 1 1427 0 0
+/stock_transfers/stock_table/865 2 1884 0 0
+/sales/invoice_print_pos/7323 1 1413 0 0
+/ecommerce/4863 1 4849 0 0
+/sales/invoice_print_pos/7436 1 1421 0 0
+/sales/invoice_print_pos/7353 1 1419 0 0
+/products/510/edit 3 16557 0 0
+/ecommerce/5153 1 4880 0 0
+/sales/7467 2 9438 0 0
+/ecommerce/5301 1 4883 0 0
+/ecommerce/paid/5123 1 76 0 0
+/ecommerce/paid/4757 1 76 0 0
+/sales/invoice_print_pos/7387 1 1441 0 0
+/sales/invoice_print_pos/7421 1 1421 0 0
+/ecommerce/paid/4970 1 76 0 0
+/products/121/edit 2 11098 0 0
+/sales/7486 1 4733 0 0
+/sales/7465 1 4802 0 0
+/sales/7764 2 9525 0 0
+/ecommerce/paid/5045 1 76 0 0
+/sales/invoice_print_pos/7663 1 1402 0 0
+/sales/7770 1 4741 0 0
+/sales/invoice_print_pos/7416 1 1426 0 0
+/ecommerce/exchange/4987 1 8230 0 0
+/sales/7373 1 4732 0 0
+/sales/invoice_print_pos/7756 1 1408 0 0
+/products/3/edit 6 31902 0 0
+/sales/7742 1 4740 0 0
+/ecommerce/4980 1 4900 0 0
+/products/120/edit 2 11116 0 0
+/ecommerce/paid/4720 1 76 0 0
+/ecommerce/5429 1 4859 0 0
+/sales/7489 1 4776 0 0
+/sales/7594 1 4720 0 0
+/sales/invoice_print_pos/7348 1 1417 0 0
+/sales/7588 1 4740 0 0
+/sales/invoice_print_pos/7775 1 1405 0 0
+/sales/invoice_print_pos/7357 1 1470 0 0
+/sales/7432 1 4740 0 0
+/sales/invoice_print_pos/7725 1 1445 0 0
+/sales/7237 1 4706 0 0
+/products/create 85 410957 1 0
+/sales/7613 1 4712 0 0
+/ecommerce/5117 1 4919 0 0
+/ecommerce/5324 1 4916 0 0
+/sales/7549 1 4735 0 0
+/ecommerce/paid/4856 1 76 0 0
+/sales/7299 1 4738 0 0
+/index.php/products/list/all 2 9429 0 0
+/stock_transfers/stock_table/816 3 2823 0 0
+/ecommerce/4969 1 4887 0 0
+/ecommerce/5271 1 5024 0 0
+/sales/7738 1 4786 0 0
+/sales/7476 1 4820 0 0
+/stock_transfers/stock_table/780 1 427 0 0
+/products/760/edit 10 53129 0 0
+/ecommerce/paid/5059 1 76 0 0
+/sales/invoice_print_pos/7298 1 1419 0 0
+/ecommerce/5409 1 4864 0 0
+/ecommerce/5118 1 4988 0 0
+/sales/7771 1 4748 0 0
+/ecommerce/paid/5074 1 76 0 0
+/products/822/edit 1 5288 0 0
+/ecommerce/5162 1 4912 0 0
+/ecommerce/paid/5038 1 76 0 0
+/sales/invoice_print_pos/7293 1 1462 0 0
+/ecommerce/4956 1 4862 0 0
+/sales/invoice_print_pos/7592 1 1413 0 0
+/sales/7455 1 4741 0 0
+/products/806/edit 6 31821 0 0
+/sales/7524 1 4781 0 0
+/sales/7754 1 4821 0 0
+/sales/7457 1 4737 0 0
+/sales/invoice_print_pos/7603 1 1419 0 0
+/sales/invoice_print_pos/7731 1 1409 0 0
+/sales/invoice_print_pos/7657 2 2800 0 0
+/ecommerce/4985 1 4924 0 0
+/ecommerce/paid/5134 1 76 0 0
+/ecommerce/5304 1 4909 0 0
+/sales/7252 3 14126 0 0
+/sales/7448 1 4732 0 0
+/sales/invoice_print_pos/7283 1 1419 0 0
+/sales/invoice_print_pos/7522 1 1429 0 0
+/ecommerce/4881 1 4870 0 0
+/ecommerce/exchange/4940 1 15376 0 0
+/sales/7531 1 4732 0 0
+/sales/invoice_print_pos/7482 1 1463 0 0
+/ecommerce/paid/4907 2 152 0 0
+/ecommerce/5332 1 4891 0 0
+/products/202/edit 2 10984 0 0
+/products/488/edit 2 10551 0 0
+/sales/7578 1 4732 0 0
+/ecommerce/paid/4802 1 76 0 0
+/sales/invoice_print_pos/7766 1 1435 0 0
+/ecommerce/paid/4812 1 76 0 0
+/ecommerce/5233 1 4917 0 0
+/ecommerce/paid/4693 1 76 0 0
+/sales/invoice_print_pos/7193 1 1414 0 0
+/ecommerce/5295 1 5348 0 0
+/products/483/edit 2 10602 0 0
+/ecommerce/4940 1 4984 0 0
+/sales/7383 1 4724 0 0
+/sales/7546 1 4734 0 0
+/sales/7296 1 4730 0 0
+/ecommerce/5018 1 4850 0 0
+/sales/7717 1 4737 0 0
+/ecommerce/5062 1 4905 0 0
+/ecommerce/paid/5125 1 76 0 0
+/sales/7479 1 4737 0 0
+/ecommerce/paid/5043 1 76 0 0
+/sales/7715 1 4754 0 0
+/sales/7414 1 4723 0 0
+/ecommerce/5321 1 4917 0 0
+/reports/historical-products/12 1 36239 0 1
+/ecommerce/exchange/5073 2 30966 0 0
+/sales/invoice_print_pos/7582 1 1411 0 0
+END_SIDER

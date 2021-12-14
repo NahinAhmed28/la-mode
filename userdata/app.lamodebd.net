@@ -1,0 +1,18 @@
+--- 
+documentroot: /home/vqp77ug7a50k/public_html/app
+group: vqp77ug7a50k
+hascgi: 1
+homedir: /home/vqp77ug7a50k
+ip: 148.66.136.3
+ipv6: ~
+no_cache_update: 0
+owner: gdresell
+phpopenbasedirprotect: 1
+port: 80
+serveradmin: webmaster@app.lamodebd.net
+serveralias: www.app.lamodebd.net
+servername: app.lamodebd.net
+ssl: 1
+usecanonicalname: 'Off'
+user: vqp77ug7a50k
+userdirprotect: ''

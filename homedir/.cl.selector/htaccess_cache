@@ -1,0 +1,6 @@
+[/home/vqp77ug7a50k/public_html]
+htaccess_list = 
+
+[/home/vqp77ug7a50k/public_html/app]
+htaccess_list = /home/vqp77ug7a50k/public_html/app/public/.htaccess,/home/vqp77ug7a50k/public_html/app/.htaccess
+

@@ -1,0 +1,3 @@
+MAILTO="o.jamal97@gmail.com"
+SHELL="/usr/local/cpanel/bin/jailshell"
+2 0 * * * /usr/local/bin/php /home/vqp77ug7a50k/public_html/lamode/artisan products:report

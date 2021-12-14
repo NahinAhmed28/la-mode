@@ -1,0 +1,544 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201811 will be lost/reset.
+# Last config file used to build this data file was /home/vqp77ug7a50k/tmp/awstats/ssl/awstats.lamodebd.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2017                
+POS_TIME 2689                
+POS_VISITOR 12320               
+POS_DAY 12660               
+POS_DOMAIN 3280                
+POS_LOGIN 3543                
+POS_ROBOT 3698                
+POS_WORMS 3963                
+POS_EMAILSENDER 4094                
+POS_EMAILRECEIVER 4237                
+POS_SESSION 13064               
+POS_SIDER 13211               
+POS_FILETYPES 4372                
+POS_DOWNLOADS 4454                
+POS_OS 4502                
+POS_BROWSER 4625                
+POS_SCREENSIZE 4774                
+POS_UNKNOWNREFERER 4848                
+POS_UNKNOWNREFERERBROWSER 5278                
+POS_ORIGIN 5360                
+POS_SEREFERRALS 5492                
+POS_PAGEREFS 5636                
+POS_SEARCHWORDS 5784                
+POS_KEYWORDS 5936                
+POS_MISC 2353                
+POS_ERRORS 5995                
+POS_CLUSTER 3399                
+POS_SIDER_404 6098                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20181202035454 1 0 10987523559846
+FirstTime 20181101035523
+LastTime 20181129095447
+LastUpdate 20181202051649 1 0 0 0 0
+TotalVisits 29                  
+TotalUnique 7                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 7                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 3 2835 3 4 20363
+1 2 2 945 2 2 25066
+2 0 0 0 2 3 2747
+3 1 1 945 4 6 28670
+4 1 1 0 1 1 945
+5 2 2 1890 6 8 54901
+6 1 1 945 6 6 40434
+7 0 0 0 0 0 0
+8 0 0 0 1 1 12533
+9 1 1 945 5 6 45429
+10 1 1 945 2 2 1890
+11 0 0 0 8 10 55625
+12 3 3 4871 32 279 471005
+13 1 1 945 3 3 26010
+14 1 1 945 7 8 47319
+15 0 0 0 0 0 0
+16 0 0 0 1 1 945
+17 0 0 0 1 1 12533
+18 1 1 945 9 9 54857
+19 2 2 0 1 1 945
+20 0 0 0 0 0 0
+21 3 3 2835 5 5 39489
+22 3 3 2835 5 5 27901
+23 4 4 2835 2 2 1890
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+de 17 17 11340
+us 10 10 9450
+nl 2 2 3926
+lu 1 1 945
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+AhrefsBot/ 75 451386 20181122184636 2
+MJ12bot/ 1 0 20181111051546 1
+PhantomJS 1 945 20181116125623 0
+Googlebot/ 1 0 20181128003831 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 1
+html 30 25661 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+win10 2 2
+winxp 1 1
+macosx12 10 10
+win7 5 5
+Unknown 12 12
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 5
+msie6.0 1 1
+mozilla 12 12
+chrome40.0.2214.85 5 5
+chrome61.0.3163.100 10 10
+chrome69.0.3497.100 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13rl;__http://researchscan.comsys.rwth-aachen.de) 20181129095447
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12sns;__http://researchscan.comsys.rwth-aachen.de) 20181129001953
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12ca;__http://researchscan.comsys.rwth-aachen.de) 20181128235605
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 30 30
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 281 472367
+401 4 46799
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 276
+/assets/logs/revenue.txt 1 -
+/vizite.html 1 -
+/assets/logs/fgb.txt 1 -
+/billing.html 1 -
+/R4Zult__. 1 -
+/assets/logs/desj.txt 1 -
+/1.txt 1 -
+/results.txt 1 -
+/koko.txt 1 -
+/pp_it_2.txt 1 -
+/r3zult/assets/logs/info.txt 1 -
+/assets/logs/labanquepostale.txt 1 -
+/assets/logs/dhl.txt 1 -
+/card.txt 1 -
+/vbv.html 1 -
+/Visits.txt 1 -
+/5.txt 1 -
+/b0/b0a_full_56897843553943.txt 1 -
+/vbv.php 1 -
+/Logins.txt 1 -
+/assets/logs/wu.txt 1 -
+/assets/logs/cba.txt 1 -
+/assets/logs/googlevotes.txt 1 -
+/EMAIL.txt 1 -
+/assets/logs/visitor_logs.txt 1 -
+/online.lloydsbank.co.uk/assets/logs/llo.txt 1 -
+/out.txt 1 -
+/assets/logs/netflix.txt 1 -
+/assets/logs/rbc.txt 1 -
+/test.txt 1 -
+/b3.txt 1 -
+/rz/index.txt 1 -
+/assets/logs/leboncoin.txt 1 -
+/jokamer.txt 1 -
+/assets/logs/banquepopulaire.txt 1 -
+/input.txt 1 -
+/r3zult/index.txt 1 -
+/Visit.txt 1 -
+/assets/logs/us.txt 1 -
+/Resultat1.txt 1 -
+/error_rez.txt 1 -
+/assets/logs/cards.txt 1 -
+/csop.htm 1 -
+/assets/logs/creditagricole.txt 1 -
+/da.cfm 1 -
+/BIl.txt 1 -
+/0.txt 1 -
+/assets/logs/vk.txt 1 -
+/passwords.txt 1 -
+/assets/logs/free.txt 1 -
+/r3zult/full.txt 1 -
+/bbooaa.txt 1 -
+/assets/logs/googledrive.txt 1 -
+/dud.txt 1 -
+/r3zult/9.txt 1 -
+/rbc2/results.txt 1 -
+/p.txt 1 -
+/pcmymake.txt 1 -
+/resu.txt 1 -
+/ReZulT.txt 1 -
+/XoZoK.txt 1 -
+/assets/logs/mc.txt 1 -
+/desjardins.txt 1 -
+/assets/logs/canadarevenueagency.txt 1 -
+/assets/logs/commonwealtch.txt 1 -
+/auth.txt 1 -
+/Card.html 1 -
+/Cockis.txt 1 -
+/CRED.txt 1 -
+/cvv.txt 1 -
+/assets/logs/westernunion.txt 1 -
+/assets/logs/icscards.txt 1 -
+/vu.txt 1 -
+/9.txt 1 -
+/up.txt 1 -
+/assets/logs/vanguard.txt 1 -
+/163.txt 1 -
+/flow.txt 1 -
+/desj.txt 1 -
+/assets/logs/cc.txt 1 -
+/hsbc.co.uk/assets/logs/hsbc.txt 1 -
+/fullz.txt 1 -
+/LOGIN2.txt 1 -
+/pinco1.txt 1 -
+/resultat.txt 1 -
+/assets/logs/capone.txt 1 -
+/resultaadose.txt 1 -
+/assets/logs/ca.txt 1 -
+/ips.txt 1 -
+/suck.txt 1 -
+/f3n0m3n22.txt 1 -
+/db_file.txt 1 -
+/assets/logs/discover.txt 1 -
+/page.att.net/my_account_d876sf5f6f6d7/up.txt 1 -
+/rzlt.php 1 -
+/r3zult/assets/logs/desj.txt 1 -
+/8.txt 1 -
+/b2.txt 1 -
+/7.txt 1 -
+/r3zult/Resultat1.txt 1 -
+/vbv.txt 1 -
+/IPBam.txt 1 -
+/results/EMAIL.txt 1 -
+/r3zult/resultat.txt 1 -
+/passwd.txt 1 -
+/infosog.html 1 -
+/r3zult/pp_it_2.txt 1 -
+/save/results.txt 1 -
+/pp_it_1.txt 1 -
+/b0a_CC_d7r5923t48267.txt 1 -
+/assets/logs/commonwealh.txt 1 -
+/op.txt 1 -
+/Ca.txt 1 -
+/assets/logs/paypal.txt 1 -
+/assets/logs/wellsfargo.txt 1 -
+/assets/logs/icloud.txt 1 -
+/intuit.txt 1 -
+/assets/logs/capitalone.txt 1 -
+/k.txt 1 -
+/assets/logs/knab.txt 1 -
+/assets/logs/ilstu.txt 1 -
+/assets/logs/barclays.txt 1 -
+/Data.txt 1 -
+/assets/logs/frcard.txt 1 -
+/assets/logs/cibc.txt 1 -
+/assets/logs/capital1.txt 1 -
+/assets/logs/mso365.txt 1 -
+/txt.txt 1 -
+/info.txt 1 -
+/secure/hotdsafe3wq.txt 1 -
+/r3zult/2.txt 1 -
+/assets/logs/orange.txt 1 -
+/assets/logs/chaseinfo.txt 1 -
+/js.txt 1 -
+/download.php 1 -
+/assets/logs/rabobank.txt 1 -
+/assets/logs/windstream.txt 1 -
+/b0adf87d89f/b0/b0a_CC_d7r5923t48267.txt 1 -
+/assets/logs/linkedin.txt 1 -
+/assets/logs/bofa.txt 1 -
+/post.txt 1 -
+/assets/logs/caisses 1 -
+/YaSser.txt 1 -
+/dr.txt 1 -
+/assets/logs/hotmail.txt 1 -
+/Unex.txt 1 -
+/result.txt 1 -
+/data.txt 1 -
+/r3zult/assets/logs/commonwealtch.txt 1 -
+/assets/logs/mabanque.bnpparibas.txt 1 -
+/assets/logs/halifax.txt 1 -
+/rzt.txt 1 -
+/assets/logs/caisses.txt 1 -
+/visitor_logs.txt 1 -
+/assets/logs/card.txt 1 -
+/assets/logs/navyfederal.txt 1 -
+/catalog/163.txt 1 -
+/assets/logs/christianmingle.txt 1 -
+/paypal.txt 1 -
+/assets/logs/hmrc.txt 1 -
+/paypal 1 -
+/CC.txt 1 -
+/assets/logs/ya.txt 1 -
+/cont.txt 1 -
+/click.txt 1 -
+/View.txt 1 -
+/assets/logs/wells.txt 1 -
+/001_bot.txt 1 -
+/up2.txt 1 -
+/assets/logs/chase.txt 1 -
+/userz.txt 1 -
+/bot-_-.txt 1 -
+/assets/logs/rbs.txt 1 -
+/sog.html 1 -
+/assets/logs/postfinance.txt 1 -
+/bill.txt 1 -
+/scotia.txt 1 -
+/rzlt.html 1 -
+/dz.txt 1 -
+/2.txt 1 -
+/index.txt 1 -
+/assets/logs/halifax-online.txt 1 -
+/126.txt 1 -
+/i.html 1 -
+/assets/logs/mastercard.txt 1 -
+/denied_visitors.txt 1 -
+/.logos.png 1 -
+/resultados.txt 1 -
+/assets/logs/rabo.txt 1 -
+/robots.txt 6 -
+/W3lls_AkjhshuajLD32oqwnks359ah.txt 1 -
+/full 1 -
+/assets/logs/postmaster.txt 1 -
+/3.txt 1 -
+/drspam.txt 1 -
+/heroshimav1.txt 1 -
+/robotz.txt 1 -
+/da.txt 1 -
+/4.txt 1 -
+/assets/logs/lloyds.txt 1 -
+/009prsu0.txt 1 -
+/paypal.html 1 -
+/a.txt 1 -
+/configuration.php 1 -
+/assets/logs/info.txt 1 -
+/LOGIN.txt 1 -
+/LOGIN1.txt 1 -
+/_negaa.txt 1 -
+/Fulzz.html 1 -
+/6.txt 1 -
+/p2.htm 1 -
+/rzlt.txt 1 -
+/assets/logs/craigslist.txt 1 -
+/assets/logs/carrefour..txt 1 -
+/assets/logs/westeriunios.txt 1 -
+/Xghost.txt 1 -
+/full.txt 1 -
+/use.txt 1 -
+/pswrds.txt 1 -
+/dtma.txt 1 -
+/DaCOO.html 1 -
+/kiki.txt 1 -
+/rezlt.txt 1 -
+/b0a_full_56897843553943.txt 1 -
+/assets/logs/llo.txt 1 -
+/r3zult/fullz.txt 1 -
+/commonwealtch.txt 1 -
+/infosog.txt 1 -
+/assets/logs/yandex.txt 1 -
+/AUTH.txt 1 -
+/r3zult/up.txt 1 -
+/Xghost.html 1 -
+/visitors.txt 1 -
+/Result-By-virus 1 -
+/rbs/assets/logs/rbs.txt 1 -
+/dani_bill.html 1 -
+/bank.barclays.co.uk/assets/logs/barclays.txt 1 -
+/l.html 1 -
+/visits.txt 1 -
+/pp_it_3.txt 1 -
+/assets/logs/desjardins.txt 1 -
+/ddsfdfqa.txt 1 -
+/assets/logs/rbccanada.txt 1 -
+/assets/logs/usaa.txt 1 -
+/dani_card.html 1 -
+/b0adf87d89f/b0/b0a_full_56897843553943.txt 1 -
+/assets/logs/visa.txt 1 -
+/assets/logs/nab.txt 1 -
+/r3zult/paypal.txt 1 -
+/assets/logs/bnp.txt 1 -
+/assets/logs/hsbc.txt 1 -
+/usere.html 1 -
+/save/Xghost.txt 1 -
+/r3zult/data.txt 1 -
+/b1.txt 1 -
+/b0/b0a_CC_d7r5923t48267.txt 1 -
+/freixlog.log 1 -
+/assets/logs/ms.txt 1 -
+/razult.txt 1 -
+/assets/logs/wf.txt 1 -
+/r3zult/assets/logs/scotia.txt 1 -
+/pass.txt 1 -
+/assets/logs/capital.txt 1 -
+/assets/logs/canada.txt 1 -
+/assets/logs/docusign.txt 1 -
+/assets/logs/ips.txt 1 -
+/assets/logs/ebay.txt 1 -
+/rezult.txt 1 -
+/assets/logs/pp.txt 1 -
+/up1.txt 1 -
+/assets/logs/commonwealth.txt 1 -
+/visit.txt 1 -
+/assets/logs/bnpp.txt 1 -
+/assets/logs/dropbox.txt 1 -
+/data_ip_masuk.txt 1 -
+/cc.txt 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 7
+13.57.233.99 10 10 9450 20181129003441
+138.246.253.5 5 5 0 20181128232314
+137.226.113.27 5 5 4725 20181129095447
+137.226.113.26 4 4 3780 20181129001953
+137.226.113.28 3 3 2835 20181122065449
+95.211.186.147 2 2 3926 20181120125230
+188.42.195.140 1 1 945 20181116125450
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 18
+20181101 3 3 1890 3
+20181104 1 1 945 1
+20181106 1 1 945 1
+20181107 1 1 945 1
+20181108 1 1 0 1
+20181110 1 1 945 1
+20181111 1 1 945 1
+20181113 1 1 945 1
+20181114 2 2 1890 2
+20181115 2 2 945 2
+20181116 2 2 1890 2
+20181119 1 1 945 1
+20181120 2 2 3926 1
+20181121 2 2 1890 2
+20181122 3 3 1890 3
+20181125 1 1 945 1
+20181128 2 2 945 2
+20181129 3 3 2835 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 29
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1
+/ 30 25661 29 29
+END_SIDER
